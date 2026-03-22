@@ -5415,3 +5415,260 @@ data/LocalProperties.json) was not found, loaded with default settings.
 [22 mrt 2026, 10:04:21 p.m.] [TwistedScapeInitializationThread] [GameServer] [INFO] The Bootstrap has been bound, TwistedScape is now online (it took 3119ms).
 [22 mrt 2026, 10:04:22 p.m.] [TwistedScape GameThread] [NpcSpawnInWild] [INFO] Loaded 2048 Event Npc Tiles
 [22 mrt 2026, 10:04:22 p.m.] [TwistedScape GameThread] [EventNpcSpawn] [INFO] Loaded 2048 Event Npc Tiles
+[22 mrt 2026, 10:08:54 p.m.] [TwistedScapeInitializationThread] [ServerProperties] [INFO] Server properties file (./data/LocalProperties.json) was not found, loaded with default settings.
+[22 mrt 2026, 10:08:54 p.m.] [TwistedScapeInitializationThread] [ServerProperties] [INFO] Loaded server properties file (./data/properties.json) successfully.
+[22 mrt 2026, 10:08:54 p.m.] [TwistedScapeInitializationThread] [GameServer] [INFO] Discord logging has been enabled.
+[22 mrt 2026, 10:08:54 p.m.] [TwistedScapeInitializationThread] [GameServer] [INFO] Loaded filestore @ (./data/filestore) successfully.
+[22 mrt 2026, 10:08:54 p.m.] [TwistedScapeInitializationThread] [DefinitionRepository] [INFO] Loading definition repository...
+[22 mrt 2026, 10:08:54 p.m.] [TwistedScapeInitializationThread] [DefinitionRepository] [INFO] Loaded 28601 item definitions.
+[22 mrt 2026, 10:08:54 p.m.] [TwistedScapeInitializationThread] [DefinitionRepository] [INFO] Loaded 12513 npc definitions.
+[22 mrt 2026, 10:08:54 p.m.] [TwistedScapeInitializationThread] [DefinitionRepository] [INFO] Loaded 49927 object definitions.
+[22 mrt 2026, 10:08:54 p.m.] [TwistedScapeInitializationThread] [DefinitionRepository] [INFO] Loaded 15332 varbit definitions.
+[22 mrt 2026, 10:08:54 p.m.] [TwistedScapeInitializationThread] [DefinitionRepository] [INFO] Loaded 5192 enum definitions.
+[22 mrt 2026, 10:08:54 p.m.] [TwistedScapeInitializationThread] [DefinitionRepository] [INFO] Loaded 2570 spotanim definitions.
+[22 mrt 2026, 10:08:54 p.m.] [TwistedScapeInitializationThread] [DefinitionRepository] [INFO] Loaded 898 area definitions.
+[22 mrt 2026, 10:08:54 p.m.] [TwistedScapeInitializationThread] [DefinitionRepository] [INFO] Loaded 10503 Animation definitions.
+[22 mrt 2026, 10:08:54 p.m.] [TwistedScapeInitializationThread] [DefinitionRepository] [INFO] Loaded 4722 struct definitions.
+[22 mrt 2026, 10:08:54 p.m.] [TwistedScapeInitializationThread] [DefinitionRepository] [INFO] Loaded 1187 varclient definitions.
+[22 mrt 2026, 10:08:54 p.m.] [TwistedScapeInitializationThread] [DefinitionRepository] [INFO] Loaded 0 varclientstring definitions.
+[22 mrt 2026, 10:08:54 p.m.] [TwistedScapeInitializationThread] [DefinitionRepository] [INFO] Loaded 4005 varplayer definitions.
+[22 mrt 2026, 10:08:54 p.m.] [TwistedScapeInitializationThread] [DefinitionRepository] [INFO] Loaded 7007 runscript definitions.
+[22 mrt 2026, 10:08:54 p.m.] [TwistedScapeInitializationThread] [DefinitionRepository] [INFO] Loaded 5307 sprites.
+[22 mrt 2026, 10:08:54 p.m.] [TwistedScapeInitializationThread] [DefinitionRepository] [INFO] Loaded 1 textures.
+[22 mrt 2026, 10:08:54 p.m.] [TwistedScapeInitializationThread] [DefinitionRepository] [INFO] Loaded 3682 skeletons.
+[22 mrt 2026, 10:08:54 p.m.] [TwistedScapeInitializationThread] [DefinitionRepository] [INFO] Loaded 2184 skins.
+[22 mrt 2026, 10:08:54 p.m.] [TwistedScapeInitializationThread] [DefinitionRepository] [INFO] Loaded 865 interfaces.
+[22 mrt 2026, 10:08:54 p.m.] [TwistedScapeInitializationThread] [ExamineRepository] [INFO] Loaded 38601 item examines.
+[22 mrt 2026, 10:08:54 p.m.] [TwistedScapeInitializationThread] [ExamineRepository] [INFO] Loaded 49927 object examines.
+[22 mrt 2026, 10:08:54 p.m.] [TwistedScapeInitializationThread] [ExamineRepository] [INFO] Loaded 22513 npc examines.
+[22 mrt 2026, 10:08:54 p.m.] [TwistedScapeInitializationThread] [GameServer] [INFO] Initializing the Bootstrap...
+[22 mrt 2026, 10:08:55 p.m.] [TwistedScapeLoaderThread] [Referral] [INFO] Loaded 0 Potion Consumable Information
+[22 mrt 2026, 10:08:55 p.m.] [TwistedScapeLoaderThread] [PacketInteractionManager] [INFO] Loaded 224 packet interactions
+[22 mrt 2026, 10:08:55 p.m.] [TwistedScapeLoaderThread] [WildernessActivityManager] [INFO] Loading Wilderness Activity Manager
+[22 mrt 2026, 10:08:55 p.m.] [TwistedScapeLoaderThread] [DefinitionLoader] [INFO] Loaded definitions for ./data/def/blood_money_prices.json. It took 22ms.
+[22 mrt 2026, 10:08:55 p.m.] [TwistedScapeLoaderThread] [Slayer] [INFO] Loaded slayer masters for ./data/def/slayermasters.json. It took 2ms.
+[22 mrt 2026, 10:08:55 p.m.] [TwistedScapeLoaderThread] [DefinitionLoader] [INFO] Loaded definitions for ./data/def/shops.json. It took 17ms.
+[22 mrt 2026, 10:08:55 p.m.] [TwistedScapeLoaderThread] [DefinitionLoader] [INFO] Loaded definitions for ./data/def/object_spawns.json. It took 68ms.
+[22 mrt 2026, 10:08:55 p.m.] [TwistedScapeLoaderThread] [DefinitionLoader] [INFO] Loaded definitions for ./data/def/door_definitions.json. It took 6ms.
+[22 mrt 2026, 10:08:55 p.m.] [TwistedScapeLoaderThread] [TournamentManager] [INFO] Config path: C:\hazy\SwiftPk-Server\data\combat\tournaments\tournaments.conf
+[22 mrt 2026, 10:08:55 p.m.] [TwistedScapeLoaderThread] [EquipmentInfo] [INFO] Loaded 3786 equipment information definitions.
+[22 mrt 2026, 10:08:55 p.m.] [TwistedScapeLoaderThread] [EquipmentInfo] [INFO] Loaded 453 equipment render pairs.
+[22 mrt 2026, 10:08:55 p.m.] [TwistedScapeLoaderThread] [EquipmentInfo] [INFO] Loaded 3278 equipment bonuses.
+[22 mrt 2026, 10:08:55 p.m.] [TwistedScapeLoaderThread] [EquipmentInfo] [INFO] Loaded 806 weapon types.
+[22 mrt 2026, 10:08:55 p.m.] [TwistedScapeLoaderThread] [EquipmentInfo] [INFO] Loaded 783 weapon speeds.
+[22 mrt 2026, 10:08:55 p.m.] [TwistedScapeLoaderThread] [EquipmentInfo] [INFO] Loaded 1247 item requirements.
+[22 mrt 2026, 10:08:55 p.m.] [TwistedScapeLoaderThread] [World] [INFO] Loaded 514 NPC combat info sheets.
+[22 mrt 2026, 10:08:56 p.m.] [TwistedScapeLoaderThread] [World] [INFO] Loaded definitions for ./data/map/npcs. It took 29ms.
+[22 mrt 2026, 10:08:56 p.m.] [TwistedScapeLoaderThread] [World] [INFO] Loaded definitions for ./data/map/npcs. It took 8ms.
+[22 mrt 2026, 10:08:56 p.m.] [TwistedScapeLoaderThread] [World] [INFO] Loaded definitions for ./data/map/npcs. It took 11ms.
+[22 mrt 2026, 10:08:56 p.m.] [TwistedScapeLoaderThread] [World] [INFO] Loaded definitions for ./data/map/npcs. It took 151ms.
+[22 mrt 2026, 10:08:56 p.m.] [TwistedScapeLoaderThread] [World] [INFO] Loaded 7329 NPC spawns.
+[22 mrt 2026, 10:08:56 p.m.] [TwistedScapeLoaderThread] [World] [INFO] Loaded 188 item spawns.
+[22 mrt 2026, 10:08:56 p.m.] [TwistedScapeLoaderThread] [ItemWeight] [INFO] Loaded definitions for ./data/list/item_weight.txt. It took 7ms.
+[22 mrt 2026, 10:08:57 p.m.] [TwistedScapeInitializationThread] [NetworkBuilder] [INFO] Server bound to port 43594
+[22 mrt 2026, 10:08:57 p.m.] [TwistedScapeInitializationThread] [GameServer] [INFO] Loaded TwistedScape in PVP mode on port 43594 version v33.
+[22 mrt 2026, 10:08:57 p.m.] [TwistedScapeInitializationThread] [GameServer] [INFO] The Bootstrap has been bound, TwistedScape is now online (it took 2899ms).
+[22 mrt 2026, 10:08:58 p.m.] [TwistedScape GameThread] [NpcSpawnInWild] [INFO] Loaded 2048 Event Npc Tiles
+[22 mrt 2026, 10:08:58 p.m.] [TwistedScape GameThread] [EventNpcSpawn] [INFO] Loaded 2048 Event Npc Tiles
+[22 mrt 2026, 10:09:18 p.m.] [TwistedScape GameThread] [PacketListener] [TRACE] player Player: 69army, 127.0.0.1, [3087, 3492, 0], not in wild report: client init
+[22 mrt 2026, 10:09:18 p.m.] [TwistedScape GameThread] [PacketListener] [TRACE] player Player: 69army, 127.0.0.1, [3087, 3492, 0], not in wild report: Server login response code 0
+[22 mrt 2026, 10:09:18 p.m.] [TwistedScape GameThread] [PacketListener] [TRACE] player Player: 69army, 127.0.0.1, [3087, 3492, 0], not in wild report: Server login response code is now 2
+[22 mrt 2026, 10:09:30 p.m.] [TwistedScape GameThread] [Chain] [DEBUG] chain interrupted, wont continue to next. context: Player: 69army, 127.0.0.1, [3089, 3492, 0], not in wild
+[22 mrt 2026, 10:09:30 p.m.] [TwistedScape GameThread] [LogoutLogs] [LOGOUT] [Logout] Deregistering player - 69army
+[22 mrt 2026, 10:09:33 p.m.] [TwistedScape GameThread] [PacketListener] [TRACE] player Player: 69army, 127.0.0.1, [3089, 3492, 0], not in wild report: Regular logout has been called.
+[22 mrt 2026, 10:09:33 p.m.] [TwistedScape GameThread] [PacketListener] [TRACE] player Player: 69army, 127.0.0.1, [3089, 3492, 0], not in wild report: Server login response code 0
+[22 mrt 2026, 10:09:33 p.m.] [TwistedScape GameThread] [PacketListener] [TRACE] player Player: 69army, 127.0.0.1, [3089, 3492, 0], not in wild report: Server login response code is now 2
+[22 mrt 2026, 10:10:00 p.m.] [TwistedScape GameThread] [LogoutLogs] [LOGOUT] [Logout] Deregistering player - 69army
+[22 mrt 2026, 10:10:02 p.m.] [TwistedScape GameThread] [PacketListener] [TRACE] player Player: 69army, 127.0.0.1, [3089, 3493, 0], not in wild report: Regular logout has been called.
+[22 mrt 2026, 10:10:02 p.m.] [TwistedScape GameThread] [PacketListener] [TRACE] player Player: 69army, 127.0.0.1, [3089, 3493, 0], not in wild report: Server login response code 0
+[22 mrt 2026, 10:10:02 p.m.] [TwistedScape GameThread] [PacketListener] [TRACE] player Player: 69army, 127.0.0.1, [3089, 3493, 0], not in wild report: Server login response code is now 2
+[22 mrt 2026, 10:40:26 p.m.] [TwistedScape GameThread] [Chain] [DEBUG] chain interrupted, wont continue to next. context: Player: 69army, 127.0.0.1, [3089, 3487, 0], not in wild
+[22 mrt 2026, 11:08:57 p.m.] [TwistedScape GameThread] [WildernessBossEvent] [INFO] The wilderness event boss has been despawned
+[23 mrt 2026, 12:08:19 a.m.] [TwistedScapeInitializationThread] [ServerProperties] [INFO] Server properties file (./data/LocalProperties.json) was not found, loaded with default settings.
+[23 mrt 2026, 12:08:19 a.m.] [TwistedScapeInitializationThread] [ServerProperties] [INFO] Loaded server properties file (./data/properties.json) successfully.
+[23 mrt 2026, 12:08:19 a.m.] [TwistedScapeInitializationThread] [GameServer] [INFO] Discord logging has been enabled.
+[23 mrt 2026, 12:08:19 a.m.] [TwistedScapeInitializationThread] [GameServer] [INFO] Loaded filestore @ (./data/filestore) successfully.
+[23 mrt 2026, 12:08:19 a.m.] [TwistedScapeInitializationThread] [DefinitionRepository] [INFO] Loading definition repository...
+[23 mrt 2026, 12:08:19 a.m.] [TwistedScapeInitializationThread] [DefinitionRepository] [INFO] Loaded 28601 item definitions.
+[23 mrt 2026, 12:08:19 a.m.] [TwistedScapeInitializationThread] [DefinitionRepository] [INFO] Loaded 12513 npc definitions.
+[23 mrt 2026, 12:08:19 a.m.] [TwistedScapeInitializationThread] [DefinitionRepository] [INFO] Loaded 49927 object definitions.
+[23 mrt 2026, 12:08:19 a.m.] [TwistedScapeInitializationThread] [DefinitionRepository] [INFO] Loaded 15332 varbit definitions.
+[23 mrt 2026, 12:08:19 a.m.] [TwistedScapeInitializationThread] [DefinitionRepository] [INFO] Loaded 5192 enum definitions.
+[23 mrt 2026, 12:08:19 a.m.] [TwistedScapeInitializationThread] [DefinitionRepository] [INFO] Loaded 2570 spotanim definitions.
+[23 mrt 2026, 12:08:19 a.m.] [TwistedScapeInitializationThread] [DefinitionRepository] [INFO] Loaded 898 area definitions.
+[23 mrt 2026, 12:08:19 a.m.] [TwistedScapeInitializationThread] [DefinitionRepository] [INFO] Loaded 10503 Animation definitions.
+[23 mrt 2026, 12:08:19 a.m.] [TwistedScapeInitializationThread] [DefinitionRepository] [INFO] Loaded 4722 struct definitions.
+[23 mrt 2026, 12:08:19 a.m.] [TwistedScapeInitializationThread] [DefinitionRepository] [INFO] Loaded 1187 varclient definitions.
+[23 mrt 2026, 12:08:19 a.m.] [TwistedScapeInitializationThread] [DefinitionRepository] [INFO] Loaded 0 varclientstring definitions.
+[23 mrt 2026, 12:08:19 a.m.] [TwistedScapeInitializationThread] [DefinitionRepository] [INFO] Loaded 4005 varplayer definitions.
+[23 mrt 2026, 12:08:19 a.m.] [TwistedScapeInitializationThread] [DefinitionRepository] [INFO] Loaded 7007 runscript definitions.
+[23 mrt 2026, 12:08:19 a.m.] [TwistedScapeInitializationThread] [DefinitionRepository] [INFO] Loaded 5307 sprites.
+[23 mrt 2026, 12:08:19 a.m.] [TwistedScapeInitializationThread] [DefinitionRepository] [INFO] Loaded 1 textures.
+[23 mrt 2026, 12:08:19 a.m.] [TwistedScapeInitializationThread] [DefinitionRepository] [INFO] Loaded 3682 skeletons.
+[23 mrt 2026, 12:08:19 a.m.] [TwistedScapeInitializationThread] [DefinitionRepository] [INFO] Loaded 2184 skins.
+[23 mrt 2026, 12:08:19 a.m.] [TwistedScapeInitializationThread] [DefinitionRepository] [INFO] Loaded 865 interfaces.
+[23 mrt 2026, 12:08:19 a.m.] [TwistedScapeInitializationThread] [ExamineRepository] [INFO] Loaded 38601 item examines.
+[23 mrt 2026, 12:08:19 a.m.] [TwistedScapeInitializationThread] [ExamineRepository] [INFO] Loaded 49927 object examines.
+[23 mrt 2026, 12:08:19 a.m.] [TwistedScapeInitializationThread] [ExamineRepository] [INFO] Loaded 22513 npc examines.
+[23 mrt 2026, 12:08:19 a.m.] [TwistedScapeInitializationThread] [GameServer] [INFO] Initializing the Bootstrap...
+[23 mrt 2026, 12:08:19 a.m.] [TwistedScapeLoaderThread] [Referral] [INFO] Loaded 0 Potion Consumable Information
+[23 mrt 2026, 12:08:20 a.m.] [TwistedScapeLoaderThread] [PacketInteractionManager] [INFO] Loaded 224 packet interactions
+[23 mrt 2026, 12:08:20 a.m.] [TwistedScapeLoaderThread] [WildernessActivityManager] [INFO] Loading Wilderness Activity Manager
+[23 mrt 2026, 12:08:20 a.m.] [TwistedScapeLoaderThread] [DefinitionLoader] [INFO] Loaded definitions for ./data/def/blood_money_prices.json. It took 22ms.
+[23 mrt 2026, 12:08:20 a.m.] [TwistedScapeLoaderThread] [Slayer] [INFO] Loaded slayer masters for ./data/def/slayermasters.json. It took 3ms.
+[23 mrt 2026, 12:08:20 a.m.] [TwistedScapeLoaderThread] [DefinitionLoader] [INFO] Loaded definitions for ./data/def/shops.json. It took 21ms.
+[23 mrt 2026, 12:08:21 a.m.] [TwistedScapeLoaderThread] [DefinitionLoader] [INFO] Loaded definitions for ./data/def/object_spawns.json. It took 72ms.
+[23 mrt 2026, 12:08:21 a.m.] [TwistedScapeLoaderThread] [DefinitionLoader] [INFO] Loaded definitions for ./data/def/door_definitions.json. It took 4ms.
+[23 mrt 2026, 12:08:21 a.m.] [TwistedScapeLoaderThread] [TournamentManager] [INFO] Config path: C:\hazy\SwiftPk-Server\data\combat\tournaments\tournaments.conf
+[23 mrt 2026, 12:08:21 a.m.] [TwistedScapeLoaderThread] [EquipmentInfo] [INFO] Loaded 3786 equipment information definitions.
+[23 mrt 2026, 12:08:21 a.m.] [TwistedScapeLoaderThread] [EquipmentInfo] [INFO] Loaded 453 equipment render pairs.
+[23 mrt 2026, 12:08:21 a.m.] [TwistedScapeLoaderThread] [EquipmentInfo] [INFO] Loaded 3278 equipment bonuses.
+[23 mrt 2026, 12:08:21 a.m.] [TwistedScapeLoaderThread] [EquipmentInfo] [INFO] Loaded 806 weapon types.
+[23 mrt 2026, 12:08:21 a.m.] [TwistedScapeLoaderThread] [EquipmentInfo] [INFO] Loaded 783 weapon speeds.
+[23 mrt 2026, 12:08:21 a.m.] [TwistedScapeLoaderThread] [EquipmentInfo] [INFO] Loaded 1247 item requirements.
+[23 mrt 2026, 12:08:21 a.m.] [TwistedScapeLoaderThread] [World] [INFO] Loaded 514 NPC combat info sheets.
+[23 mrt 2026, 12:08:21 a.m.] [TwistedScapeLoaderThread] [World] [INFO] Loaded definitions for ./data/map/npcs. It took 41ms.
+[23 mrt 2026, 12:08:21 a.m.] [TwistedScapeLoaderThread] [World] [INFO] Loaded definitions for ./data/map/npcs. It took 8ms.
+[23 mrt 2026, 12:08:21 a.m.] [TwistedScapeLoaderThread] [World] [INFO] Loaded definitions for ./data/map/npcs. It took 16ms.
+[23 mrt 2026, 12:08:21 a.m.] [TwistedScapeLoaderThread] [World] [INFO] Loaded definitions for ./data/map/npcs. It took 183ms.
+[23 mrt 2026, 12:08:21 a.m.] [TwistedScapeLoaderThread] [World] [INFO] Loaded 7329 NPC spawns.
+[23 mrt 2026, 12:08:21 a.m.] [TwistedScapeLoaderThread] [World] [INFO] Loaded 188 item spawns.
+[23 mrt 2026, 12:08:21 a.m.] [TwistedScapeLoaderThread] [ItemWeight] [INFO] Loaded definitions for ./data/list/item_weight.txt. It took 6ms.
+[23 mrt 2026, 12:08:22 a.m.] [TwistedScapeInitializationThread] [NetworkBuilder] [INFO] Server bound to port 43594
+[23 mrt 2026, 12:08:22 a.m.] [TwistedScapeInitializationThread] [GameServer] [INFO] Loaded TwistedScape in PVP mode on port 43594 version v33.
+[23 mrt 2026, 12:08:22 a.m.] [TwistedScapeInitializationThread] [GameServer] [INFO] The Bootstrap has been bound, TwistedScape is now online (it took 3766ms).
+[23 mrt 2026, 12:08:23 a.m.] [TwistedScape GameThread] [NpcSpawnInWild] [INFO] Loaded 2048 Event Npc Tiles
+[23 mrt 2026, 12:08:23 a.m.] [TwistedScape GameThread] [EventNpcSpawn] [INFO] Loaded 2048 Event Npc Tiles
+[23 mrt 2026, 12:10:07 a.m.] [TwistedScapeInitializationThread] [ServerProperties] [INFO] Server properties file (./data/LocalProperties.json) was not found, loaded with default settings.
+[23 mrt 2026, 12:10:07 a.m.] [TwistedScapeInitializationThread] [ServerProperties] [INFO] Loaded server properties file (./data/properties.json) successfully.
+[23 mrt 2026, 12:10:07 a.m.] [TwistedScapeInitializationThread] [GameServer] [INFO] Discord logging has been enabled.
+[23 mrt 2026, 12:10:07 a.m.] [TwistedScapeInitializationThread] [GameServer] [INFO] Loaded filestore @ (./data/filestore) successfully.
+[23 mrt 2026, 12:10:07 a.m.] [TwistedScapeInitializationThread] [DefinitionRepository] [INFO] Loading definition repository...
+[23 mrt 2026, 12:10:07 a.m.] [TwistedScapeInitializationThread] [DefinitionRepository] [INFO] Loaded 28601 item definitions.
+[23 mrt 2026, 12:10:07 a.m.] [TwistedScapeInitializationThread] [DefinitionRepository] [INFO] Loaded 12513 npc definitions.
+[23 mrt 2026, 12:10:07 a.m.] [TwistedScapeInitializationThread] [DefinitionRepository] [INFO] Loaded 49927 object definitions.
+[23 mrt 2026, 12:10:07 a.m.] [TwistedScapeInitializationThread] [DefinitionRepository] [INFO] Loaded 15332 varbit definitions.
+[23 mrt 2026, 12:10:07 a.m.] [TwistedScapeInitializationThread] [DefinitionRepository] [INFO] Loaded 5192 enum definitions.
+[23 mrt 2026, 12:10:07 a.m.] [TwistedScapeInitializationThread] [DefinitionRepository] [INFO] Loaded 2570 spotanim definitions.
+[23 mrt 2026, 12:10:07 a.m.] [TwistedScapeInitializationThread] [DefinitionRepository] [INFO] Loaded 898 area definitions.
+[23 mrt 2026, 12:10:07 a.m.] [TwistedScapeInitializationThread] [DefinitionRepository] [INFO] Loaded 10503 Animation definitions.
+[23 mrt 2026, 12:10:07 a.m.] [TwistedScapeInitializationThread] [DefinitionRepository] [INFO] Loaded 4722 struct definitions.
+[23 mrt 2026, 12:10:07 a.m.] [TwistedScapeInitializationThread] [DefinitionRepository] [INFO] Loaded 1187 varclient definitions.
+[23 mrt 2026, 12:10:07 a.m.] [TwistedScapeInitializationThread] [DefinitionRepository] [INFO] Loaded 0 varclientstring definitions.
+[23 mrt 2026, 12:10:07 a.m.] [TwistedScapeInitializationThread] [DefinitionRepository] [INFO] Loaded 4005 varplayer definitions.
+[23 mrt 2026, 12:10:07 a.m.] [TwistedScapeInitializationThread] [DefinitionRepository] [INFO] Loaded 7007 runscript definitions.
+[23 mrt 2026, 12:10:07 a.m.] [TwistedScapeInitializationThread] [DefinitionRepository] [INFO] Loaded 5307 sprites.
+[23 mrt 2026, 12:10:07 a.m.] [TwistedScapeInitializationThread] [DefinitionRepository] [INFO] Loaded 1 textures.
+[23 mrt 2026, 12:10:07 a.m.] [TwistedScapeInitializationThread] [DefinitionRepository] [INFO] Loaded 3682 skeletons.
+[23 mrt 2026, 12:10:07 a.m.] [TwistedScapeInitializationThread] [DefinitionRepository] [INFO] Loaded 2184 skins.
+[23 mrt 2026, 12:10:07 a.m.] [TwistedScapeInitializationThread] [DefinitionRepository] [INFO] Loaded 865 interfaces.
+[23 mrt 2026, 12:10:07 a.m.] [TwistedScapeInitializationThread] [ExamineRepository] [INFO] Loaded 38601 item examines.
+[23 mrt 2026, 12:10:07 a.m.] [TwistedScapeInitializationThread] [ExamineRepository] [INFO] Loaded 49927 object examines.
+[23 mrt 2026, 12:10:07 a.m.] [TwistedScapeInitializationThread] [ExamineRepository] [INFO] Loaded 22513 npc examines.
+[23 mrt 2026, 12:10:08 a.m.] [TwistedScapeInitializationThread] [GameServer] [INFO] Initializing the Bootstrap...
+[23 mrt 2026, 12:10:08 a.m.] [TwistedScapeLoaderThread] [Referral] [INFO] Loaded 0 Potion Consumable Information
+[23 mrt 2026, 12:10:08 a.m.] [TwistedScapeLoaderThread] [PacketInteractionManager] [INFO] Loaded 224 packet interactions
+[23 mrt 2026, 12:10:08 a.m.] [TwistedScapeLoaderThread] [WildernessActivityManager] [INFO] Loading Wilderness Activity Manager
+[23 mrt 2026, 12:10:08 a.m.] [TwistedScapeLoaderThread] [DefinitionLoader] [INFO] Loaded definitions for ./data/def/blood_money_prices.json. It took 24ms.
+[23 mrt 2026, 12:10:08 a.m.] [TwistedScapeLoaderThread] [Slayer] [INFO] Loaded slayer masters for ./data/def/slayermasters.json. It took 3ms.
+[23 mrt 2026, 12:10:08 a.m.] [TwistedScapeLoaderThread] [DefinitionLoader] [INFO] Loaded definitions for ./data/def/shops.json. It took 18ms.
+[23 mrt 2026, 12:10:08 a.m.] [TwistedScapeLoaderThread] [DefinitionLoader] [INFO] Loaded definitions for ./data/def/object_spawns.json. It took 62ms.
+[23 mrt 2026, 12:10:09 a.m.] [TwistedScapeLoaderThread] [DefinitionLoader] [INFO] Loaded definitions for ./data/def/door_definitions.json. It took 7ms.
+[23 mrt 2026, 12:10:09 a.m.] [TwistedScapeLoaderThread] [TournamentManager] [INFO] Config path: C:\hazy\SwiftPk-Server\data\combat\tournaments\tournaments.conf
+[23 mrt 2026, 12:10:09 a.m.] [TwistedScapeLoaderThread] [EquipmentInfo] [INFO] Loaded 3786 equipment information definitions.
+[23 mrt 2026, 12:10:09 a.m.] [TwistedScapeLoaderThread] [EquipmentInfo] [INFO] Loaded 453 equipment render pairs.
+[23 mrt 2026, 12:10:09 a.m.] [TwistedScapeLoaderThread] [EquipmentInfo] [INFO] Loaded 3278 equipment bonuses.
+[23 mrt 2026, 12:10:09 a.m.] [TwistedScapeLoaderThread] [EquipmentInfo] [INFO] Loaded 806 weapon types.
+[23 mrt 2026, 12:10:09 a.m.] [TwistedScapeLoaderThread] [EquipmentInfo] [INFO] Loaded 783 weapon speeds.
+[23 mrt 2026, 12:10:09 a.m.] [TwistedScapeLoaderThread] [EquipmentInfo] [INFO] Loaded 1247 item requirements.
+[23 mrt 2026, 12:10:09 a.m.] [TwistedScapeLoaderThread] [World] [INFO] Loaded 514 NPC combat info sheets.
+[23 mrt 2026, 12:10:09 a.m.] [TwistedScapeLoaderThread] [World] [INFO] Loaded definitions for ./data/map/npcs. It took 34ms.
+[23 mrt 2026, 12:10:09 a.m.] [TwistedScapeLoaderThread] [World] [INFO] Loaded definitions for ./data/map/npcs. It took 6ms.
+[23 mrt 2026, 12:10:09 a.m.] [TwistedScapeLoaderThread] [World] [INFO] Loaded definitions for ./data/map/npcs. It took 21ms.
+[23 mrt 2026, 12:10:09 a.m.] [TwistedScapeLoaderThread] [World] [INFO] Loaded definitions for ./data/map/npcs. It took 164ms.
+[23 mrt 2026, 12:10:09 a.m.] [TwistedScapeLoaderThread] [World] [INFO] Loaded 7329 NPC spawns.
+[23 mrt 2026, 12:10:09 a.m.] [TwistedScapeLoaderThread] [World] [INFO] Loaded 188 item spawns.
+[23 mrt 2026, 12:10:09 a.m.] [TwistedScapeLoaderThread] [ItemWeight] [INFO] Loaded definitions for ./data/list/item_weight.txt. It took 9ms.
+[23 mrt 2026, 12:10:10 a.m.] [TwistedScapeInitializationThread] [NetworkBuilder] [INFO] Server bound to port 43594
+[23 mrt 2026, 12:10:10 a.m.] [TwistedScapeInitializationThread] [GameServer] [INFO] Loaded TwistedScape in PVP mode on port 43594 version v33.
+[23 mrt 2026, 12:10:10 a.m.] [TwistedScapeInitializationThread] [GameServer] [INFO] The Bootstrap has been bound, TwistedScape is now online (it took 2945ms).
+[23 mrt 2026, 12:10:11 a.m.] [TwistedScape GameThread] [NpcSpawnInWild] [INFO] Loaded 2048 Event Npc Tiles
+[23 mrt 2026, 12:10:11 a.m.] [TwistedScape GameThread] [EventNpcSpawn] [INFO] Loaded 2048 Event Npc Tiles
+[23 mrt 2026, 12:11:49 a.m.] [TwistedScapeInitializationThread] [ServerProperties] [INFO] Server properties file (./data/LocalProperties.json) was not found, loaded with default settings.
+[23 mrt 2026, 12:11:49 a.m.] [TwistedScapeInitializationThread] [ServerProperties] [INFO] Loaded server properties file (./data/properties.json) successfully.
+[23 mrt 2026, 12:11:49 a.m.] [TwistedScapeInitializationThread] [GameServer] [INFO] Discord logging has been enabled.
+[23 mrt 2026, 12:11:49 a.m.] [TwistedScapeInitializationThread] [GameServer] [INFO] Loaded filestore @ (./data/filestore) successfully.
+[23 mrt 2026, 12:11:49 a.m.] [TwistedScapeInitializationThread] [DefinitionRepository] [INFO] Loading definition repository...
+[23 mrt 2026, 12:11:49 a.m.] [TwistedScapeInitializationThread] [DefinitionRepository] [INFO] Loaded 28601 item definitions.
+[23 mrt 2026, 12:11:49 a.m.] [TwistedScapeInitializationThread] [DefinitionRepository] [INFO] Loaded 12513 npc definitions.
+[23 mrt 2026, 12:11:49 a.m.] [TwistedScapeInitializationThread] [DefinitionRepository] [INFO] Loaded 49927 object definitions.
+[23 mrt 2026, 12:11:49 a.m.] [TwistedScapeInitializationThread] [DefinitionRepository] [INFO] Loaded 15332 varbit definitions.
+[23 mrt 2026, 12:11:49 a.m.] [TwistedScapeInitializationThread] [DefinitionRepository] [INFO] Loaded 5192 enum definitions.
+[23 mrt 2026, 12:11:49 a.m.] [TwistedScapeInitializationThread] [DefinitionRepository] [INFO] Loaded 2570 spotanim definitions.
+[23 mrt 2026, 12:11:49 a.m.] [TwistedScapeInitializationThread] [DefinitionRepository] [INFO] Loaded 898 area definitions.
+[23 mrt 2026, 12:11:49 a.m.] [TwistedScapeInitializationThread] [DefinitionRepository] [INFO] Loaded 10503 Animation definitions.
+[23 mrt 2026, 12:11:49 a.m.] [TwistedScapeInitializationThread] [DefinitionRepository] [INFO] Loaded 4722 struct definitions.
+[23 mrt 2026, 12:11:49 a.m.] [TwistedScapeInitializationThread] [DefinitionRepository] [INFO] Loaded 1187 varclient definitions.
+[23 mrt 2026, 12:11:49 a.m.] [TwistedScapeInitializationThread] [DefinitionRepository] [INFO] Loaded 0 varclientstring definitions.
+[23 mrt 2026, 12:11:49 a.m.] [TwistedScapeInitializationThread] [DefinitionRepository] [INFO] Loaded 4005 varplayer definitions.
+[23 mrt 2026, 12:11:49 a.m.] [TwistedScapeInitializationThread] [DefinitionRepository] [INFO] Loaded 7007 runscript definitions.
+[23 mrt 2026, 12:11:49 a.m.] [TwistedScapeInitializationThread] [DefinitionRepository] [INFO] Loaded 5307 sprites.
+[23 mrt 2026, 12:11:49 a.m.] [TwistedScapeInitializationThread] [DefinitionRepository] [INFO] Loaded 1 textures.
+[23 mrt 2026, 12:11:49 a.m.] [TwistedScapeInitializationThread] [DefinitionRepository] [INFO] Loaded 3682 skeletons.
+[23 mrt 2026, 12:11:49 a.m.] [TwistedScapeInitializationThread] [DefinitionRepository] [INFO] Loaded 2184 skins.
+[23 mrt 2026, 12:11:49 a.m.] [TwistedScapeInitializationThread] [DefinitionRepository] [INFO] Loaded 865 interfaces.
+[23 mrt 2026, 12:11:50 a.m.] [TwistedScapeInitializationThread] [ExamineRepository] [INFO] Loaded 38601 item examines.
+[23 mrt 2026, 12:11:50 a.m.] [TwistedScapeInitializationThread] [ExamineRepository] [INFO] Loaded 49927 object examines.
+[23 mrt 2026, 12:11:50 a.m.] [TwistedScapeInitializationThread] [ExamineRepository] [INFO] Loaded 22513 npc examines.
+[23 mrt 2026, 12:11:50 a.m.] [TwistedScapeInitializationThread] [GameServer] [INFO] Initializing the Bootstrap...
+[23 mrt 2026, 12:11:50 a.m.] [TwistedScapeLoaderThread] [Referral] [INFO] Loaded 0 Potion Consumable Information
+[23 mrt 2026, 12:11:51 a.m.] [TwistedScapeLoaderThread] [PacketInteractionManager] [INFO] Loaded 224 packet interactions
+[23 mrt 2026, 12:11:51 a.m.] [TwistedScapeLoaderThread] [WildernessActivityManager] [INFO] Loading Wilderness Activity Manager
+[23 mrt 2026, 12:11:51 a.m.] [TwistedScapeLoaderThread] [DefinitionLoader] [INFO] Loaded definitions for ./data/def/blood_money_prices.json. It took 19ms.
+[23 mrt 2026, 12:11:51 a.m.] [TwistedScapeLoaderThread] [Slayer] [INFO] Loaded slayer masters for ./data/def/slayermasters.json. It took 2ms.
+[23 mrt 2026, 12:11:51 a.m.] [TwistedScapeLoaderThread] [DefinitionLoader] [INFO] Loaded definitions for ./data/def/shops.json. It took 14ms.
+[23 mrt 2026, 12:11:51 a.m.] [TwistedScapeLoaderThread] [DefinitionLoader] [INFO] Loaded definitions for ./data/def/object_spawns.json. It took 69ms.
+[23 mrt 2026, 12:11:51 a.m.] [TwistedScapeLoaderThread] [DefinitionLoader] [INFO] Loaded definitions for ./data/def/door_definitions.json. It took 6ms.
+[23 mrt 2026, 12:11:51 a.m.] [TwistedScapeLoaderThread] [TournamentManager] [INFO] Config path: C:\hazy\SwiftPk-Server\data\combat\tournaments\tournaments.conf
+[23 mrt 2026, 12:11:51 a.m.] [TwistedScapeLoaderThread] [EquipmentInfo] [INFO] Loaded 3786 equipment information definitions.
+[23 mrt 2026, 12:11:51 a.m.] [TwistedScapeLoaderThread] [EquipmentInfo] [INFO] Loaded 453 equipment render pairs.
+[23 mrt 2026, 12:11:51 a.m.] [TwistedScapeLoaderThread] [EquipmentInfo] [INFO] Loaded 3278 equipment bonuses.
+[23 mrt 2026, 12:11:51 a.m.] [TwistedScapeLoaderThread] [EquipmentInfo] [INFO] Loaded 806 weapon types.
+[23 mrt 2026, 12:11:51 a.m.] [TwistedScapeLoaderThread] [EquipmentInfo] [INFO] Loaded 783 weapon speeds.
+[23 mrt 2026, 12:11:51 a.m.] [TwistedScapeLoaderThread] [EquipmentInfo] [INFO] Loaded 1247 item requirements.
+[23 mrt 2026, 12:11:51 a.m.] [TwistedScapeLoaderThread] [World] [INFO] Loaded 514 NPC combat info sheets.
+[23 mrt 2026, 12:11:51 a.m.] [TwistedScapeLoaderThread] [World] [INFO] Loaded definitions for ./data/map/npcs. It took 28ms.
+[23 mrt 2026, 12:11:51 a.m.] [TwistedScapeLoaderThread] [World] [INFO] Loaded definitions for ./data/map/npcs. It took 4ms.
+[23 mrt 2026, 12:11:51 a.m.] [TwistedScapeLoaderThread] [World] [INFO] Loaded definitions for ./data/map/npcs. It took 18ms.
+[23 mrt 2026, 12:11:51 a.m.] [TwistedScapeLoaderThread] [World] [INFO] Loaded definitions for ./data/map/npcs. It took 158ms.
+[23 mrt 2026, 12:11:51 a.m.] [TwistedScapeLoaderThread] [World] [INFO] Loaded 7329 NPC spawns.
+[23 mrt 2026, 12:11:51 a.m.] [TwistedScapeLoaderThread] [World] [INFO] Loaded 188 item spawns.
+[23 mrt 2026, 12:11:51 a.m.] [TwistedScapeLoaderThread] [ItemWeight] [INFO] Loaded definitions for ./data/list/item_weight.txt. It took 7ms.
+[23 mrt 2026, 12:11:52 a.m.] [TwistedScapeInitializationThread] [NetworkBuilder] [INFO] Server bound to port 43594
+[23 mrt 2026, 12:11:52 a.m.] [TwistedScapeInitializationThread] [GameServer] [INFO] Loaded TwistedScape in PVP mode on port 43594 version v33.
+[23 mrt 2026, 12:11:52 a.m.] [TwistedScapeInitializationThread] [GameServer] [INFO] The Bootstrap has been bound, TwistedScape is now online (it took 2890ms).
+[23 mrt 2026, 12:11:53 a.m.] [TwistedScape GameThread] [NpcSpawnInWild] [INFO] Loaded 2048 Event Npc Tiles
+[23 mrt 2026, 12:11:53 a.m.] [TwistedScape GameThread] [EventNpcSpawn] [INFO] Loaded 2048 Event Npc Tiles
+[23 mrt 2026, 12:12:15 a.m.] [TwistedScape GameThread] [PacketListener] [TRACE] player Owner: 69army, 127.0.0.1, [2809, 3441, 0], not in wild report: client init
+[23 mrt 2026, 12:12:15 a.m.] [TwistedScape GameThread] [PacketListener] [TRACE] player Owner: 69army, 127.0.0.1, [2809, 3441, 0], not in wild report: Server login response code 0
+[23 mrt 2026, 12:12:16 a.m.] [TwistedScape GameThread] [PacketListener] [TRACE] player Owner: 69army, 127.0.0.1, [2809, 3441, 0], not in wild report: Server login response code is now 2
+[23 mrt 2026, 12:15:14 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] Command received: tele 3091 3479
+[23 mrt 2026, 12:15:14 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] 69army used command ::tele 3091 3479
+[23 mrt 2026, 12:16:59 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] Command received: item 995 2147000000
+[23 mrt 2026, 12:16:59 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] 69army used command ::item 995 2147000000
+[23 mrt 2026, 12:17:15 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] Command received: object
+[23 mrt 2026, 12:18:18 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] Command received: pos
+[23 mrt 2026, 12:18:18 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] 69army used command ::pos
+[23 mrt 2026, 12:18:27 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] Command received: object 411
+[23 mrt 2026, 12:18:27 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] 69army used command ::object 411
+[23 mrt 2026, 12:18:58 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] Command received: removeobj
+[23 mrt 2026, 12:18:58 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] 69army tried to use non-existent command ::removeobj
+[23 mrt 2026, 12:19:02 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] Command received: delobj
+[23 mrt 2026, 12:20:39 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] Command received: max
+[23 mrt 2026, 12:20:39 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] 69army used command ::max
+[23 mrt 2026, 12:20:44 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] Command received: max
+[23 mrt 2026, 12:20:44 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] 69army used command ::max
+[23 mrt 2026, 12:20:47 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] Command received: commands
+[23 mrt 2026, 12:20:47 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] 69army used command ::commands
+[23 mrt 2026, 12:34:51 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] Command received: item 16843 1
+[23 mrt 2026, 12:34:51 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] 69army used command ::item 16843 1

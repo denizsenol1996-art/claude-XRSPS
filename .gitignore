@@ -11,3 +11,7 @@ main_file_cache.dat
 *.dat
 
 repo/
+
+jdk22.zip
+jdk22/
+*.zip
