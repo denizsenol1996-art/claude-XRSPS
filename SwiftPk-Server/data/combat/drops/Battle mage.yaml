@@ -1,0 +1,80 @@
+npcId:
+- 1610
+- 1611
+- 1612
+petItem: "null"
+petRarity: 0
+alwaysDrops:
+- item: BONES
+  minimumAmount: 1
+  maximumAmount: 1
+  chance: 1
+  rareDrop: false
+  sendToBank: false
+drops:
+- item: INFINITY_TOP
+  minimumAmount: 1
+  maximumAmount: 1
+  chance: 52
+  rareDrop: false
+  sendToBank: false
+- item: INFINITY_BOOTS
+  minimumAmount: 1
+  maximumAmount: 1
+  chance: 52
+  rareDrop: false
+  sendToBank: false
+- item: INFINITY_HAT
+  minimumAmount: 1
+  maximumAmount: 1
+  chance: 18
+  rareDrop: false
+  sendToBank: false
+- item: INFINITY_BOOTS
+  minimumAmount: 1
+  maximumAmount: 1
+  chance: 79
+  rareDrop: false
+  sendToBank: false
+- item: INFINITY_GLOVES
+  minimumAmount: 1
+  maximumAmount: 1
+  chance: 18
+  rareDrop: false
+  sendToBank: false
+- item: MASTER_WAND
+  minimumAmount: 1
+  maximumAmount: 1
+  chance: 90
+  rareDrop: false
+  sendToBank: false
+- item: MAGES_BOOK
+  minimumAmount: 1
+  maximumAmount: 1
+  chance: 90
+  rareDrop: false
+  sendToBank: false
+- item: SEERS_RING
+  minimumAmount: 1
+  maximumAmount: 1
+  chance: 127
+  rareDrop: false
+  sendToBank: false
+- item: IMBUED_SARADOMIN_CAPE
+  minimumAmount: 1
+  maximumAmount: 1
+  chance: 317
+  rareDrop: false
+  sendToBank: false
+- item: IMBUED_GUTHIX_CAPE
+  minimumAmount: 1
+  maximumAmount: 1
+  chance: 317
+  rareDrop: false
+  sendToBank: false
+- item: IMBUED_ZAMORAK_CAPE
+  minimumAmount: 1
+  maximumAmount: 1
+  chance: 317
+  rareDrop: false
+  sendToBank: false

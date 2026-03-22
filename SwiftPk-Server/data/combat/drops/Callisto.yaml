@@ -1,0 +1,86 @@
+npcId:
+- 6503
+- 6609
+- 893
+petItem: CALLISTO_CUB
+petRarity: 1000
+alwaysDrops:
+- item: BIG_BONES
+  minimumAmount: 1
+  maximumAmount: 1
+  chance: 1
+  rareDrop: false
+  sendToBank: false
+- item: BLOOD_MONEY
+  minimumAmount: 250
+  maximumAmount: 300
+  chance: 1
+  rareDrop: false
+  sendToBank: false
+drops:
+- item: CALLISTO_CUB
+  minimumAmount: 1
+  maximumAmount: 1
+  chance: 1000
+  rareDrop: true
+  sendToBank: false
+- item: DRAGON_BOOTS
+  minimumAmount: 1
+  maximumAmount: 1
+  chance: 32
+  rareDrop: false
+  sendToBank: false
+- item: AMULET_OF_FURY
+  minimumAmount: 1
+  maximumAmount: 1
+  chance: 32
+  rareDrop: false
+  sendToBank: false
+- item: DHAROKS_ARMOUR_SET
+  minimumAmount: 1
+  maximumAmount: 1
+  chance: 38
+  rareDrop: false
+  sendToBank: false
+- item: BLOOD_MONEY_CASKET
+  minimumAmount: 1
+  maximumAmount: 1
+  chance: 143
+  rareDrop: false
+  sendToBank: false
+- item: DRAGON_PICKAXE
+  minimumAmount: 1
+  maximumAmount: 1
+  chance: 143
+  rareDrop: false
+  sendToBank: false
+- item: TYRANNICAL_RING
+  minimumAmount: 1
+  maximumAmount: 1
+  chance: 164
+  rareDrop: false
+  sendToBank: false
+- item: ARMOUR_MYSTERY_BOX
+  minimumAmount: 1
+  maximumAmount: 1
+  chance: 230
+  rareDrop: false
+  sendToBank: false
+- item: WEAPON_MYSTERY_BOX
+  minimumAmount: 1
+  maximumAmount: 1
+  chance: 230
+  rareDrop: false
+  sendToBank: false
+- item: DONATOR_MYSTERY_BOX
+  minimumAmount: 1
+  maximumAmount: 1
+  chance: 230
+  rareDrop: false
+  sendToBank: false
+- item: KEY_OF_BOXES
+  minimumAmount: 1
+  maximumAmount: 1
+  chance: 575
+  rareDrop: true
+  sendToBank: false

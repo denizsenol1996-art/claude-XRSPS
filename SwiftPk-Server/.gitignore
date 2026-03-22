@@ -1,0 +1,16 @@
+data/filestore/
+/bin/
+/.idea/
+/data/saves/
+/out/
+*.class
+data/saves/
+/data/tradingpost/listings/
+.gradle/
+build/
+*.hprof
+/data/clipping/*
+/data/backups/*
+/data/def/*
+/data/examine/*
+/data/saves/*

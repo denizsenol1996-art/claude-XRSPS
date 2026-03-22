@@ -1,0 +1,13 @@
+target/
+build/
+.gradle/
+.idea/
+out/
+*.class
+
+Hazy Package/
+
+main_file_cache.dat
+*.dat
+
+repo/

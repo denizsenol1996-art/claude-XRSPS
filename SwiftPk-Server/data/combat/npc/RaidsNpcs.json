@@ -1,0 +1,863 @@
+[
+  {
+    // Vanguard
+    "ids": [
+      7527
+    ],
+    "aggressive": true,
+    "aggroradius": 7,
+    "boss": true,
+    "maxhit": 18,
+    "attackspeed": 4,
+    "deathlen": 3,
+    "unstacked": true,
+    "slayerxp": 0,
+    "slayerlvl": 1,
+    "stats": {
+      "attack": 170,
+      "strength": 160,
+      "magic": 150,
+      "ranged": 150,
+      "defence": 160,
+      "hitpoints": 450
+    },
+    "bonuses": {
+      "stabdefence": 150,
+      "slashdefence": 150,
+      "crushdefence": 150,
+      "rangeddefence": 400,
+      "magicdefence": 20
+    },
+    "animations": {
+      "attack": 7441,
+      "block": -1,
+      "death": 7432
+    },
+    "scripts": {
+      "combat": "com.twisted.game.world.entity.combat.method.impl.npcs.raids.cox.Vanguard",
+      "droptable": "com.twisted.game.world.entity.mob.npc.droptables.impl.raids.VanguardDroptable",
+      "aggression": "com.twisted.game.world.entity.mob.npc.aggressive.RaidsAgro"
+    }
+  },
+  {
+    // Vanguard
+    "ids": [
+      7528
+    ],
+    "aggressive": true,
+    "aggroradius": 7,
+    "boss": true,
+    "maxhit": 18,
+    "attackspeed": 4,
+    "deathlen": 3,
+    "unstacked": true,
+    "slayerxp": 0,
+    "slayerlvl": 1,
+    "stats": {
+      "attack": 150,
+      "strength": 150,
+      "magic": 150,
+      "ranged": 215,
+      "defence": 160,
+      "hitpoints": 450
+    },
+    "bonuses": {
+      "stabdefence": 55,
+      "slashdefence": 60,
+      "crushdefence": 100,
+      "rangeddefence": 300,
+      "magicdefence": 400
+    },
+    "animations": {
+      "attack": 7441,
+      "block": -1,
+      "death": 7432
+    },
+    "scripts": {
+      "combat": "com.twisted.game.world.entity.combat.method.impl.npcs.raids.cox.Vanguard",
+      "droptable": "com.twisted.game.world.entity.mob.npc.droptables.impl.raids.VanguardDroptable",
+      "aggression": "com.twisted.game.world.entity.mob.npc.aggressive.RaidsAgro"
+    }
+  },
+  {
+    // Vanguard
+    "ids": [
+      7529
+    ],
+    "aggressive": true,
+    "aggroradius": 7,
+    "boss": true,
+    "maxhit": 18,
+    "attackspeed": 4,
+    "deathlen": 3,
+    "unstacked": true,
+    "slayerxp": 0,
+    "slayerlvl": 1,
+    "stats": {
+      "attack": 150,
+      "strength": 150,
+      "magic": 200,
+      "ranged": 140,
+      "defence": 160,
+      "hitpoints": 450
+    },
+    "bonuses": {
+      "stabdefence": 315,
+      "slashdefence": 340,
+      "crushdefence": 400,
+      "rangeddefence": 50,
+      "magicdefence": 110
+    },
+    "animations": {
+      "attack": 7441,
+      "block": -1,
+      "death": 7432
+    },
+    "scripts": {
+      "combat": "com.twisted.game.world.entity.combat.method.impl.npcs.raids.cox.Vanguard",
+      "droptable": "com.twisted.game.world.entity.mob.npc.droptables.impl.raids.VanguardDroptable",
+      "aggression": "com.twisted.game.world.entity.mob.npc.aggressive.RaidsAgro"
+    }
+  },
+  {
+    // Mutadille
+    "ids": [
+      7561
+    ],
+    "aggressive": true,
+    "aggroradius": 15,
+    "boss": true,
+    "maxhit": 30,
+    "attackspeed": 3,
+    "deathlen": 3,
+    "unstacked": true,
+    "slayerxp": 0,
+    "slayerlvl": 1,
+    "stats": {
+      "attack": 250,
+      "strength": 250,
+      "magic": 250,
+      "ranged": 250,
+      "defence": 220,
+      "hitpoints": 300
+    },
+    "bonuses": {
+      "stabdefence": 170,
+      "slashdefence": 190,
+      "crushdefence": 50,
+      "rangeddefence": 60,
+      "magicdefence": 400
+    },
+    "animations": {
+      "attack": 7410,
+      "block": -1,
+      "death": 7415
+    },
+    "scripts": {
+      "combat": "com.twisted.game.world.entity.combat.method.impl.npcs.raids.cox.MuttadileInTheWater",
+      "aggression": "com.twisted.game.world.entity.mob.npc.aggressive.RaidsAgro"
+    }
+  },
+  {
+    // Mutadille
+    "ids": [
+      7562
+    ],
+    "aggressive": true,
+    "aggroradius": 7,
+    "boss": true,
+    "maxhit": 30,
+    "attackspeed": 3,
+    "deathlen": 3,
+    "unstacked": true,
+    "slayerxp": 0,
+    "slayerlvl": 1,
+    "stats": {
+      "attack": 1,
+      "strength": 1,
+      "magic": 230,
+      "ranged": 330,
+      "defence": 175,
+      "hitpoints": 750
+    },
+    "bonuses": {
+      "stabdefence": 170,
+      "slashdefence": 190,
+      "crushdefence": 50,
+      "rangeddefence": 60,
+      "magicdefence": 400
+    },
+    "animations": {
+      "attack": 7421,
+      "block": -1,
+      "death": 7426
+    },
+    "scripts": {
+      "combat": "com.twisted.game.world.entity.combat.method.impl.npcs.raids.cox.Muttadile",
+      "droptable": "com.twisted.game.world.entity.mob.npc.droptables.impl.raids.BabyMuttadileDroptable",
+      "aggression": "com.twisted.game.world.entity.mob.npc.aggressive.RaidsAgro"
+    }
+  },
+  {
+    // Mutadille
+    "ids": [
+      7563
+    ],
+    "aggressive": true,
+    "aggroradius": 7,
+    "boss": true,
+    "maxhit": 30,
+    "attackspeed": 4,
+    "deathlen": 3,
+    "unstacked": true,
+    "slayerxp": 0,
+    "slayerlvl": 1,
+    "stats": {
+      "attack": 338,
+      "strength": 324,
+      "magic": 250,
+      "ranged": 396,
+      "defence": 220,
+      "hitpoints": 1000
+    },
+    "bonuses": {
+      "stabdefence": -5,
+      "slashdefence": 82,
+      "crushdefence": 60,
+      "rangeddefence": 0,
+      "magicdefence": 75
+    },
+    "animations": {
+      "attack": 7421,
+      "block": -1,
+      "death": 7426
+    },
+    "scripts": {
+      "combat": "com.twisted.game.world.entity.combat.method.impl.npcs.raids.cox.Muttadile",
+      "droptable": "com.twisted.game.world.entity.mob.npc.droptables.impl.raids.MommaMuttadileDroptable",
+      "aggression": "com.twisted.game.world.entity.mob.npc.aggressive.RaidsAgro"
+    }
+  },
+  {
+    // Vasa Nistirio
+    "ids": [
+      7566
+    ],
+    "aggressive": true,
+    "aggroradius": 7,
+    "boss": true,
+    "maxhit": 30,
+    "attackspeed": 4,
+    "deathlen": 3,
+    "unstacked": true,
+    "slayerxp": 0,
+    "slayerlvl": 1,
+    "stats": {
+      "attack": 250,
+      "strength": 250,
+      "magic": 250,
+      "ranged": 395,
+      "defence": 220,
+      "hitpoints": 1500
+    },
+    "bonuses": {
+      "stabdefence": -5,
+      "slashdefence": 82,
+      "crushdefence": 60,
+      "rangeddefence": 0,
+      "magicdefence": 75
+    },
+    "animations": {
+      "attack": 7410,
+      "block": -1,
+      "death": 7415
+    },
+    "scripts": {
+      "combat": "com.twisted.game.world.entity.combat.method.impl.npcs.raids.cox.VasaNistirio",
+      "droptable": "com.twisted.game.world.entity.mob.npc.droptables.impl.raids.VasaNistirioDroptable",
+      "aggression": "com.twisted.game.world.entity.mob.npc.aggressive.RaidsAgro"
+    }
+  },
+  {
+	// Tekton
+	"ids": [
+	  7542
+	],
+    "boss": true,
+	"maxhit": 50,
+	"attackspeed": 4,
+	"deathlen": 3,
+	"unstacked": true,
+	"slayerxp": 0,
+	"slayerlvl": 1,
+	"stats": {
+	  "attack": 500,
+	  "strength": 400,
+	  "magic": 300,
+	  "ranged": 300,
+	  "defence": 280,
+	  "hitpoints": 5000
+	},
+	"bonuses": {
+	  "stabdefence": 50,
+	  "slashdefence": 50,
+	  "crushdefence": 0,
+	  "rangeddefence": 1000,
+	  "magicdefence": 500
+	},
+	"animations": {
+	  "attack": 7482,
+	  "block": -1,
+	  "death": 7495
+	},
+	"scripts": {
+	  "combat": "com.twisted.game.world.entity.combat.method.impl.npcs.raids.cox.Tekton",
+      "aggression": "com.twisted.game.world.entity.mob.npc.aggressive.RaidsAgro"
+	}
+  },
+  {
+    // Tekton
+    "ids": [
+      7544
+    ],
+    "aggressive": true,
+    "aggroradius": 7,
+    "boss": true,
+    "maxhit": 59,
+    "attackspeed": 3,
+    "deathlen": 3,
+    "unstacked": true,
+    "slayerxp": 0,
+    "slayerlvl": 1,
+    "stats": {
+      "attack": 454,
+      "strength": 420,
+      "magic": 0,
+      "ranged": 1,
+      "defence": 205,
+      "hitpoints": 800
+    },
+    "bonuses": {
+      "stabdefence": 280,
+      "slashdefence": 290,
+      "crushdefence": 180,
+      "rangeddefence": 0,
+      "magicdefence": 0
+    },
+    "animations": {
+      "attack": 7482,
+      "block": -1,
+      "death": 7495
+    },
+    "scripts": {
+      "combat": "com.twisted.game.world.entity.combat.method.impl.npcs.raids.cox.Tekton",
+      "droptable": "com.twisted.game.world.entity.mob.npc.droptables.impl.raids.TektonDroptable",
+      "aggression": "com.twisted.game.world.entity.mob.npc.aggressive.RaidsAgro"
+    }
+  },
+  {
+    // Vespula
+    "ids": [
+      7530, 7531
+    ],
+    "aggressive": true,
+    "aggroradius": 7,
+    "boss": true,
+    "maxhit": 35,
+    "attackspeed": 3,
+    "deathlen": 3,
+    "unstacked": true,
+    "slayerxp": 0,
+    "slayerlvl": 1,
+    "stats": {
+      "attack": 150,
+      "strength": 159,
+      "magic": 88,
+      "ranged": 150,
+      "defence": 88,
+      "hitpoints": 1000
+    },
+    "bonuses": {
+      "stabdefence": 0,
+      "slashdefence": 0,
+      "crushdefence": 0,
+      "rangeddefence": 60,
+      "magicdefence": 70
+    },
+    "animations": {
+      "attack": 7455,
+      "block": 7456,
+      "death": 7459
+    },
+    "scripts": {
+      "combat": "com.twisted.game.world.entity.combat.method.impl.npcs.raids.cox.Vespula",
+      "droptable": "com.twisted.game.world.entity.mob.npc.droptables.impl.raids.VespulaDroptable",
+      "aggression": "com.twisted.game.world.entity.mob.npc.aggressive.RaidsAgro"
+    }
+  },
+  {
+    // Vespula
+    "ids": [
+      7532
+    ],
+    "aggressive": true,
+    "aggroradius": 7,
+    "boss": true,
+    "maxhit": 35,
+    "attackspeed": 3,
+    "deathlen": 3,
+    "unstacked": true,
+    "slayerxp": 0,
+    "slayerlvl": 1,
+    "stats": {
+      "attack": 150,
+      "strength": 159,
+      "magic": 88,
+      "ranged": 150,
+      "defence": 88,
+      "hitpoints": 1000
+    },
+    "bonuses": {
+      "stabdefence": 0,
+      "slashdefence": 0,
+      "crushdefence": 0,
+      "rangeddefence": 60,
+      "magicdefence": 70
+    },
+    "animations": {
+      "attack": 7450,
+      "block": 7451,
+      "death": 7458
+    },
+    "scripts": {
+      "combat": "com.twisted.game.world.entity.combat.method.impl.npcs.raids.cox.Vespula",
+      "droptable": "com.twisted.game.world.entity.mob.npc.droptables.impl.raids.VespulaDroptable",
+      "aggression": "com.twisted.game.world.entity.mob.npc.aggressive.RaidsAgro"
+    }
+  },
+  {
+    // Olm Right Hand
+    "ids": [
+      7553
+    ],
+    "boss": true,
+    "maxhit": 33,
+    "attackspeed": 6,
+    "deathlen": 1,
+    "unstacked": true,
+    "aggressive": false,
+    "slayerxp": 0,
+    "slayerlvl": 1,
+    "stats": {
+      "attack": 1,
+      "strength": 68,
+      "magic": 49,
+      "ranged": 1,
+      "defence": 29,
+      "hitpoints": 1000
+    },
+    "bonuses": {
+      "stabdefence": 50,
+      "slashdefence": 50,
+      "crushdefence": 50,
+      "rangeddefence": 200,
+      "magicdefence": 200
+    },
+    "animations": {
+      "attack": -1,
+      "block": -1,
+      "death": -1
+    }
+  },
+  {
+    // Olm
+    "ids": [
+      7554
+    ],
+    "boss": true,
+    "maxhit": 30,
+    "attackspeed": 6,
+    "deathlen": 3,
+    "unstacked": true,
+    "aggressive": true,
+    "aggroradius": 64,
+    "slayerxp": 0,
+    "slayerlvl": 1,
+    "stats": {
+      "attack": 200,
+      "strength": 200,
+      "magic": 200,
+      "ranged": 175 ,
+      "defence": 252,
+      "hitpoints": 1600
+    },
+    "bonuses": {
+      "stabdefence": 200,
+      "slashdefence": 200,
+      "crushdefence": 200,
+      "rangeddefence": 50,
+      "magicdefence": 200
+    },
+    "animations": {
+      "attack": -1,
+      "block": -1,
+      "death": 7348
+    }
+  },
+  {
+    // Olm Left Hand
+    "ids": [
+      7555
+    ],
+    "boss": true,
+    "maxhit": 33,
+    "attackspeed": 6,
+    "deathlen": 1,
+    "unstacked": true,
+    "aggressive": false,
+    "slayerxp": 0,
+    "slayerlvl": 1,
+    "stats": {
+      "attack": 1,
+      "strength": 68,
+      "magic": 49,
+      "ranged": 1,
+      "defence": 29,
+      "hitpoints": 1000
+    },
+    "bonuses": {
+      "stabdefence": 50,
+      "slashdefence": 50,
+      "crushdefence": 50,
+      "rangeddefence": 200,
+      "magicdefence": 200
+    },
+    "animations": {
+      "attack": -1,
+      "block": -1,
+      "death": -1
+    }
+  },
+  {
+    // Centaurs
+    "ids": [
+      15030, 15032
+    ],
+    "boss": true,
+    "maxhit": 25,
+    "attackspeed": 5,
+    "deathlen": 1,
+    "unstacked": true,
+    "aggressive": true,
+    "slayerxp": 0,
+    "slayerlvl": 1,
+    "stats": {
+      "attack": 145,
+      "strength": 145,
+      "magic": 1,
+      "ranged": 1,
+      "defence": 145,
+      "hitpoints": 400
+    },
+    "bonuses": {
+      "stabdefence": 170,
+      "slashdefence": 190,
+      "crushdefence": 190,
+      "rangeddefence": 170,
+      "magicdefence": 100
+    },
+    "animations": {
+      "attack": 7027,
+      "block": -1,
+      "death": 7028
+    },
+    "scripts": {
+      "combat": "com.twisted.game.world.entity.combat.method.impl.npcs.raids.cos.Centaur",
+      "droptable": "com.twisted.game.world.entity.mob.npc.droptables.impl.raids.CentaursDroptable",
+      "aggression": "com.twisted.game.world.entity.mob.npc.aggressive.RaidsAgro"
+    }
+  },
+  {
+    // Dementors
+    "ids": [
+      15028
+    ],
+    "boss": true,
+    "maxhit": 35,
+    "attackspeed": 5,
+    "deathlen": 1,
+    "unstacked": true,
+    "aggressive": true,
+    "slayerxp": 0,
+    "slayerlvl": 1,
+    "stats": {
+      "attack": 340,
+      "strength": 300,
+      "magic": 300,
+      "ranged": 1,
+      "defence": 125,
+      "hitpoints": 500
+    },
+    "bonuses": {
+      "attack": 225,
+      "strength": 31,
+      "stabdefence": 80,
+      "slashdefence": 80,
+      "crushdefence": 80,
+      "rangeddefence": 80,
+      "magicdefence": 20
+    },
+    "animations": {
+      "attack": 5540,
+      "block": -1,
+      "death": 5542
+    },
+    "scripts": {
+      "combat": "com.twisted.game.world.entity.combat.method.impl.npcs.raids.cos.Dementor",
+      "droptable": "com.twisted.game.world.entity.mob.npc.droptables.impl.raids.DementorsDroptable",
+      "aggression": "com.twisted.game.world.entity.mob.npc.aggressive.RaidsAgro"
+    }
+  },
+  {
+    // Fluffy
+    "ids": [
+      15026
+    ],
+    "boss": true,
+    "maxhit": 45,
+    "attackspeed": 5,
+    "deathlen": 1,
+    "unstacked": true,
+    "aggressive": true,
+    "slayerxp": 0,
+    "slayerlvl": 1,
+    "stats": {
+      "attack": 220,
+      "strength": 220,
+      "magic": 220,
+      "ranged": 220,
+      "defence": 100,
+      "hitpoints": 2500
+    },
+    "bonuses": {
+      "attack": 250,
+      "magic": 250,
+      "ranged": 250,
+      "strength": 250,
+      "stabdefence": 150,
+      "slashdefence": 175,
+      "crushdefence": 175,
+      "rangeddefence": 100,
+      "magicdefence": 200
+    },
+    "animations": {
+      "attack": 4491,
+      "block": 4489,
+      "death": 4495
+    },
+    "scripts": {
+      "combat": "com.twisted.game.world.entity.combat.method.impl.npcs.raids.cos.Fluffy",
+      "droptable": "com.twisted.game.world.entity.mob.npc.droptables.impl.raids.FluffyDroptable",
+      "aggression": "com.twisted.game.world.entity.mob.npc.aggressive.RaidsAgro"
+    }
+  },
+  {
+    // Hungarian horntail
+    "ids": [
+      15034
+    ],
+    "boss": true,
+    "maxhit": 25,
+    "attackspeed": 4,
+    "deathlen": 1,
+    "unstacked": true,
+    "aggressive": true,
+    "slayerxp": 0,
+    "slayerlvl": 1,
+    "stats": {
+      "attack": 120,
+      "strength": 120,
+      "defence": 180,
+      "magic": 150,
+      "ranged": 120,
+      "hitpoints": 500
+    },
+    "bonuses": {
+      "stabdefence": 70,
+      "slashdefence": 90,
+      "crushdefence": 90,
+      "rangeddefence": 50,
+      "magicdefence": 60
+    },
+    "animations": {
+      "attack": 80,
+      "block": 89,
+      "death": 92
+    },
+    "scripts": {
+      "combat": "com.twisted.game.world.entity.combat.method.impl.npcs.raids.cos.HungarianHorntail",
+      "droptable": "com.twisted.game.world.entity.mob.npc.droptables.impl.raids.HungarianHorntailDroptable",
+      "aggression": "com.twisted.game.world.entity.mob.npc.aggressive.RaidsAgro"
+    }
+  },
+  {
+    // Fenrir greyback
+    "ids": [
+      15050
+    ],
+    "boss": true,
+    "maxhit": 45,
+    "attackspeed": 4,
+    "deathlen": 1,
+    "unstacked": true,
+    "aggressive": true,
+    "slayerxp": 0,
+    "slayerlvl": 1,
+    "stats": {
+      "attack": 150,
+      "strength": 180,
+      "defence": 175,
+      "magic": 1,
+      "ranged": 1,
+      "hitpoints": 1200
+    },
+    "bonuses": {
+      "stabdefence": 200,
+      "slashdefence": 250,
+      "crushdefence": 275,
+      "rangeddefence": 250,
+      "magicdefence": 250
+    },
+    "animations": {
+      "attack": 6536,
+      "block": 6538,
+      "death": 6537
+    },
+    "scripts": {
+      "combat": "com.twisted.game.world.entity.combat.method.impl.npcs.raids.cos.FenrirGreyback",
+      "droptable": "com.twisted.game.world.entity.mob.npc.droptables.impl.raids.FenrirGreybackDroptable",
+      "aggression": "com.twisted.game.world.entity.mob.npc.aggressive.RaidsAgro"
+    }
+  },
+  {
+    // Lord voldemort
+    "ids": [
+      3443
+    ],
+    "boss": true,
+    "maxhit": 30,
+    "attackspeed": 6,
+    "deathlen": 1,
+    "unstacked": true,
+    "aggressive": true,
+    "slayerxp": 0,
+    "slayerlvl": 1,
+    "stats": {
+      "attack": 200,
+      "strength": 1,
+      "magic": 200,
+      "ranged": 1,
+      "defence": 125,
+      "hitpoints": 3000
+    },
+    "bonuses": {
+      "attack": 150,
+      "strength": 31,
+      "stabdefence": 80,
+      "slashdefence": 80,
+      "crushdefence": 80,
+      "rangeddefence": 80,
+      "magicdefence": 20
+    },
+    "animations": {
+      "attack": 2078,
+      "block": 2079,
+      "death": 804
+    },
+    "scripts": {
+      "combat": "com.twisted.game.world.entity.combat.method.impl.npcs.raids.cos.LordVoldemort",
+      "droptable": "com.twisted.game.world.entity.mob.npc.droptables.impl.raids.LordVoldemortDroptable",
+      "aggression": "com.twisted.game.world.entity.mob.npc.aggressive.RaidsAgro"
+    }
+  },
+  {
+    // Aragog
+    "ids": [
+      15020
+    ],
+    "boss": true,
+    "maxhit": 45,
+    "slayerxp": 2000,
+    "slayerlvl": 1,
+    "attackspeed": 4,
+    "aggroradius": 7,
+    "respawntime": 35,
+    "aggressive": true,
+    "stats": {
+      "attack": 450,
+      "strength": 450,
+      "magic": 450,
+      "ranged": 450,
+      "defence": 125,
+      "hitpoints": 2000
+    },
+    "bonuses": {
+      "attack": 350,
+      "strength": 350,
+      "stabdefence": 255,
+      "slashdefence": 255,
+      "crushdefence": 50,
+      "rangeddefence": 200,
+      "magicdefence": 200
+    },
+    "animations": {
+      "attack": 5319,
+      "block": 5320,
+      "death": 5321
+    },
+    "scripts": {
+      "combat": "com.twisted.game.world.entity.combat.method.impl.npcs.raids.cos.aragog.Aragog",
+      "droptable": "com.twisted.game.world.entity.mob.npc.droptables.impl.raids.AragogDroptable",
+      "aggression": "com.twisted.game.world.entity.mob.npc.aggressive.RaidsAgro"
+    }
+  },
+  {
+    // Aragog minion
+    "ids": [
+      134
+    ],
+    "boss": true,
+    "maxhit": 12,
+    "attackspeed": 4,
+    "aggroradius": 10,
+    "respawntime": 0,
+    "aggressive": true,
+    "stats": {
+      "attack": 150,
+      "strength": 150,
+      "magic": 1,
+      "ranged": 1,
+      "defence": 50,
+      "hitpoints": 100
+    },
+    "bonuses": {
+      "attack": 35,
+      "strength": 35,
+      "stabdefence": 35,
+      "slashdefence": 35,
+      "crushdefence": 35,
+      "rangeddefence": 55,
+      "magicdefence": 55
+    },
+    "animations": {
+      "attack": 5319,
+      "block": 5320,
+      "death": 5321
+    },
+    "scripts": {
+      "combat": "com.twisted.game.world.entity.combat.method.impl.npcs.raids.cos.aragog.AragogMinion",
+      "droptable": "com.twisted.game.world.entity.mob.npc.droptables.impl.raids.AragogDroptable",
+      "aggression": "com.twisted.game.world.entity.mob.npc.aggressive.RaidsAgro"
+    }
+  }
+]

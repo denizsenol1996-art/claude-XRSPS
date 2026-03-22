@@ -1,0 +1,56 @@
+npcId:
+- 7388
+- 7389
+- 7392
+- 7394
+- 7397
+- 7399
+- 7401
+- 7402
+- 7404
+- 7406
+- 7407
+- 7408
+- 7409
+- 7410
+- 7411
+petItem: "null"
+petRarity: 0
+alwaysDrops: []
+drops:
+- item: BLOOD_MONEY
+  minimumAmount: 250
+  maximumAmount: 1500
+  chance: 7
+  rareDrop: false
+  sendToBank: false
+- item: SLAYER_KEY
+  minimumAmount: 1
+  maximumAmount: 1
+  chance: 10
+  rareDrop: false
+  sendToBank: false
+- item: ARMOUR_MYSTERY_BOX
+  minimumAmount: 1
+  maximumAmount: 1
+  chance: 70
+  rareDrop: false
+  sendToBank: false
+- item: WEAPON_MYSTERY_BOX
+  minimumAmount: 1
+  maximumAmount: 1
+  chance: 70
+  rareDrop: false
+  sendToBank: false
+- item: LARRANS_KEY_TIER_I
+  minimumAmount: 1
+  maximumAmount: 1
+  chance: 87
+  rareDrop: false
+  sendToBank: false
+- item: IMBUED_HEART
+  minimumAmount: 1
+  maximumAmount: 1
+  chance: 350
+  rareDrop: false
+  sendToBank: false

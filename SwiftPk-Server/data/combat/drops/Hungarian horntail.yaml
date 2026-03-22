@@ -1,0 +1,18 @@
+npcId:
+- 15034
+petItem: "null"
+petRarity: 0
+alwaysDrops:
+- item: SARADOMIN_BREW4
+  minimumAmount: 3
+  maximumAmount: 3
+  chance: 1
+  rareDrop: false
+  sendToBank: false
+- item: SANFEW_SERUM4
+  minimumAmount: 1
+  maximumAmount: 1
+  chance: 1
+  rareDrop: false
+  sendToBank: false
+drops: []

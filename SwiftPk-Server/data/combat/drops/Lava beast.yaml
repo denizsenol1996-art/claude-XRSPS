@@ -1,0 +1,18 @@
+npcId:
+- 7817
+petItem: LAVA_BABY
+petRarity: 1500
+alwaysDrops: []
+drops:
+- item: LAVA_BABY
+  minimumAmount: 1
+  maximumAmount: 1
+  chance: 1500
+  rareDrop: false
+  sendToBank: false
+- item: MOLTEN_KEY
+  minimumAmount: 1
+  maximumAmount: 1
+  chance: 5
+  rareDrop: false
+  sendToBank: false

@@ -1,0 +1,66 @@
+npcId:
+- 6593
+petItem: "null"
+petRarity: 0
+alwaysDrops:
+- item: LAVA_DRAGON_BONES
+  minimumAmount: 1
+  maximumAmount: 1
+  chance: 1
+  rareDrop: false
+  sendToBank: false
+- item: BLACK_DRAGONHIDE
+  minimumAmount: 1
+  maximumAmount: 1
+  chance: 1
+  rareDrop: false
+  sendToBank: false
+- item: LAVA_SCALE
+  minimumAmount: 1
+  maximumAmount: 1
+  chance: 1
+  rareDrop: false
+  sendToBank: false
+drops:
+- item: DRAGON_BOOTS
+  minimumAmount: 1
+  maximumAmount: 1
+  chance: 41
+  rareDrop: false
+  sendToBank: false
+- item: AMULET_OF_FURY
+  minimumAmount: 1
+  maximumAmount: 1
+  chance: 41
+  rareDrop: false
+  sendToBank: false
+- item: DRAGONFIRE_SHIELD
+  minimumAmount: 1
+  maximumAmount: 1
+  chance: 95
+  rareDrop: false
+  sendToBank: false
+- item: ARMOUR_MYSTERY_BOX
+  minimumAmount: 1
+  maximumAmount: 1
+  chance: 717
+  rareDrop: false
+  sendToBank: false
+- item: WEAPON_MYSTERY_BOX
+  minimumAmount: 1
+  maximumAmount: 1
+  chance: 717
+  rareDrop: false
+  sendToBank: false
+- item: DONATOR_MYSTERY_BOX
+  minimumAmount: 1
+  maximumAmount: 1
+  chance: 717
+  rareDrop: false
+  sendToBank: false
+- item: KEY_OF_BOXES
+  minimumAmount: 1
+  maximumAmount: 1
+  chance: 1435
+  rareDrop: false
+  sendToBank: false

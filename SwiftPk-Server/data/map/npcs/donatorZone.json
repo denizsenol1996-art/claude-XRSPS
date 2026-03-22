@@ -1,0 +1,191 @@
+[
+  {
+    "name": "probita",
+    "id": 5906,
+    "x": 2453,
+    "y": 2850,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 0
+  },
+  {
+    "name": "emblem trader",
+    "id": 308,
+    "x": 2453,
+    "y": 2844,
+    "z": 0,
+    "direction": "N",
+    "walkRange": 0
+  },
+  {
+    "name": "undead combat dummy",
+    "id": 7413,
+    "x": 2456,
+    "y": 2845,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 0
+  },
+  {
+    "name": "Combat dummy",
+    "id": 2668,
+    "x": 2457,
+    "y": 2845,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 0
+  },
+  {
+    "name": "Grand Exchange Clerk",
+    "id": 2148,
+    "x": 2454,
+    "y": 2843,
+    "z": 0,
+    "direction": "E",
+    "walkRange": 0
+  },
+  {
+    "name": "Credit Manager",
+    "id": 2108,
+    "x":2460 ,
+    "y": 2855,
+    "z": 0,
+    "direction": "W",
+    "walkRange": 0
+  },
+  {
+    "name": "Vote Manager",
+    "id": 1815,
+    "x": 2454,
+    "y": 2855,
+    "z": 0,
+    "direction": "E",
+    "walkRange": 0
+  },
+  {
+    "name": "afk shop",
+    "id": 2314,//afkstallupdate
+    "x": 2920,
+    "y": 2789,
+    "z": 0,
+    "radius": 0,
+    "direction": "E"
+  },
+  {
+    "name": "Max hit dummy",
+    "id": 2668,
+    "x": 2911,
+    "y": 2782,
+    "z": 0,
+    "direction": "W",
+    "walkRange": 0
+  },
+  {
+    "name": "Max hit dummy",
+    "id": 7413,
+    "x": 2906,
+    "y": 2782,
+    "z": 0,
+    "direction": "E",
+    "walkRange": 0
+  },
+  {
+    "name": "Banker",
+    "id": 3888,
+    "x": 2910,
+    "y": 2793,
+    "z": 0,
+    "direction": "E",
+    "walkRange": 0
+  },
+  {
+    "name": "Banker",
+    "id": 3888,
+    "x": 2910,
+    "y": 2794,
+    "z": 0,
+    "direction": "E",
+    "walkRange": 0
+  },
+  {
+    "name": "Banker",
+    "id": 3888,
+    "x": 2907,
+    "y": 2794,
+    "z": 0,
+    "direction": "W",
+    "walkRange": 0
+  },
+  {
+    "name": "Banker",
+    "id": 3888,
+    "x": 2907,
+    "y": 2793,
+    "z": 0,
+    "direction": "W",
+    "walkRange": 0
+  },
+  {
+    "name": "Grand Exchange Clerk",
+    "id": 2148,
+    "x": 2909,
+    "y": 2795,
+    "z": 0,
+    "direction": "N",
+    "walkRange": 0
+  },
+  {
+    "name": "Grand Exchange Clerk",
+    "id": 2148,
+    "x": 2908,
+    "y": 2792,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 0
+  },
+  {
+    "name": "Grand Exchange Clerk",
+    "id": 2148,
+    "x": 2909,
+    "y": 2792,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 0
+  },
+  {
+    "name": "Grand Exchange Clerk",
+    "id": 2148,
+    "x": 2908,
+    "y": 2795,
+    "z": 0,
+    "direction": "N",
+    "walkRange": 0
+  },
+  {
+    "name": "Donation Manager",
+    "id": 2108,
+    "x": 2924,
+    "y": 2794,
+    "z": 0,
+    "direction": "W",
+    "walkRange": 0
+  },
+  {
+    "name": "Vote Manager",
+    "id": 1815,
+    "x": 2924,
+    "y": 2789,
+    "z": 0,
+    "direction": "W",
+    "walkRange": 0
+  },
+  {
+    "name": "Surok Magis",
+    "id": 4159,
+    "x": 2455,
+    "y": 2847,
+    "z": 0,
+    "direction": "W",
+    "walkRange": 0
+  }
+]

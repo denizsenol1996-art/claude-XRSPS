@@ -1,0 +1,100 @@
+
+package com.twisted.game.world.entity.mob.player.commands.impl.players;
+
+import com.twisted.game.GameConstants;
+import com.twisted.game.GameEngine;
+import com.twisted.game.content.newplateau.PoolOfWealth;
+import com.twisted.game.world.World;
+import com.twisted.game.world.entity.AttributeKey;
+import com.twisted.game.world.entity.mob.player.Player;
+import com.twisted.game.world.entity.mob.player.commands.Command;
+import com.twisted.game.world.items.Item;
+import com.twisted.game.world.items.container.inventory.Inventory;
+import com.twisted.util.Color;
+import com.twisted.util.DonationRecord;
+import com.google.common.util.concurrent.FutureCallback;
+import com.google.common.util.concurrent.Futures;
+import com.google.common.util.concurrent.ListenableFuture;
+import com.google.common.util.concurrent.MoreExecutors;
+import com.teamgames.endpoints.store.Transaction;
+import lombok.extern.slf4j.Slf4j;
+import org.jetbrains.annotations.NotNull;
+
+import java.util.ArrayList;
+import java.util.List;
+
+
+/**
+ * @author Patrick van Elderen | May, 29, 2021, 11:13
+ * @see <a href="https://github.com/PVE95">Github profile</a>
+ */
+
+@Slf4j
+public class ClaimDonationCommand implements Command {
+
+    public static double totalDonated = 0;
+
+    final ListenableFuture<List<DonationRecord>> getResponse(final Transaction transaction, final List<DonationRecord> donationRecords) {
+        return GameEngine.getInstance().submitLowPriority(() -> {
+            try {
+                final Transaction[] details = transaction.getTransactions();
+                for (var order : details) {
+                    if (order.message == null) {
+                        final DonationRecord rewardRecord = new DonationRecord(order.product_id, order.product_amount, order.amount_purchased, order.product_price, order.message);
+                        donationRecords.add(rewardRecord);
+                    }
+                }
+            } catch (RuntimeException e) {
+                throw new RuntimeException(e);
+            }
+            return donationRecords;
+        });
+    }
+
+    @Override
+    public void execute(Player player, String command, String[] parts) {
+        final String name = player.getUsername().toLowerCase();
+        final String key = GameConstants.EVERYTHING_RS_API_KEY;
+        final List<DonationRecord> records = new ArrayList<>();
+        final Transaction transaction = new Transaction().setApiKey(key).setPlayerName(name);
+        final ListenableFuture<List<DonationRecord>> response = getResponse(transaction, records);
+        Futures.addCallback(response, new FutureCallback<>() {
+            @Override
+            public void onSuccess(List<DonationRecord> result) {
+                GameEngine.getInstance().addSyncTask(() -> {
+                    if (result.isEmpty()) {
+                        player.message(Color.RED.wrap("You currently don't have any items waiting. You must donate first!"));
+                        return;
+                    }
+                    double rank = player.<Double>getAttribOr(AttributeKey.TOTAL_PAYMENT_AMOUNT, 0D);
+                    final Inventory inventory = player.getInventory();
+                    for (DonationRecord record : result) {
+                        final double productPrice = record.productPrice();
+                        final int amountPurchased = record.amountPurchased();
+                        final double totalValue = amountPurchased * productPrice;
+                        final Item reward = new Item(record.itemId(), record.itemAmount());
+                        inventory.addOrBank(reward);
+                        rank += totalValue;
+                        totalDonated += totalValue;
+                    }
+
+                    PoolOfWealth.handle(player, 20_000_000, false, true);
+                    player.putAttrib(AttributeKey.TOTAL_PAYMENT_AMOUNT, rank);
+                    player.getMemberRights().update(player, false);
+                    player.message(Color.PURPLE.wrap("<img=993><shad=0>Thank you for donating! Your new total donated amount is $" + rank + "</shad></img>"));
+                    World.getWorld().sendBroadcast("<img=993>" + Color.MITHRIL.wrap("<shad=0>" + player.getUsername() + " has just donated! Thank them for supporting Hazy!</shad></img>"));
+                });
+            }
+
+            @Override
+            public void onFailure(@NotNull Throwable t) {
+                log.info("Donation API Error - {}", (Object) t.getStackTrace());
+            }
+        }, MoreExecutors.directExecutor());
+    }
+
+    @Override
+    public boolean canUse(Player player) {
+        return true;
+    }
+}

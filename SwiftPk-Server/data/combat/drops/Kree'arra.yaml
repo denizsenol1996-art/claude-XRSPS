@@ -1,0 +1,67 @@
+npcId:
+- 3162
+- 6492
+petItem: PET_KREEARRA
+petRarity: 1000
+alwaysDrops:
+- item: BLOOD_MONEY
+  minimumAmount: 150
+  maximumAmount: 300
+  chance: 1
+  rareDrop: false
+  sendToBank: false
+drops:
+- item: PET_KREEARRA
+  minimumAmount: 1
+  maximumAmount: 1
+  chance: 1000
+  rareDrop: false
+  sendToBank: false
+- item: BLOOD_MONEY
+  minimumAmount: 150
+  maximumAmount: 300
+  chance: 8
+  rareDrop: false
+  sendToBank: false
+- item: ARMOUR_MYSTERY_BOX
+  minimumAmount: 1
+  maximumAmount: 1
+  chance: 140
+  rareDrop: false
+  sendToBank: false
+- item: WEAPON_MYSTERY_BOX
+  minimumAmount: 1
+  maximumAmount: 1
+  chance: 140
+  rareDrop: false
+  sendToBank: false
+- item: ARMADYL_HELMET
+  minimumAmount: 1
+  maximumAmount: 1
+  chance: 280
+  rareDrop: false
+  sendToBank: false
+- item: ARMADYL_CHESTPLATE
+  minimumAmount: 1
+  maximumAmount: 1
+  chance: 280
+  rareDrop: false
+  sendToBank: false
+- item: ARMADYL_CHAINSKIRT
+  minimumAmount: 1
+  maximumAmount: 1
+  chance: 280
+  rareDrop: false
+  sendToBank: false
+- item: ARMADYL_GODSWORD
+  minimumAmount: 1
+  maximumAmount: 1
+  chance: 419
+  rareDrop: false
+  sendToBank: false
+- item: LEGENDARY_MYSTERY_BOX
+  minimumAmount: 1
+  maximumAmount: 1
+  chance: 839
+  rareDrop: false
+  sendToBank: false

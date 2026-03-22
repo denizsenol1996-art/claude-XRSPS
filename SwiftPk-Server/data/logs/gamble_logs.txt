@@ -1,0 +1,213 @@
+[13 Jan 2024, 9:27:18 PM] [Hazy GameThread] Player Hero gamble value difference of 100,000 BM
+[13 Jan 2024, 9:29:28 PM] [Hazy GameThread] Player McSwiftly gamble value difference of 0 BM
+[14 Jan 2024, 7:05:31 PM] [Hazy GameThread] Player Clown gamble value difference of 0 BM
+[14 Jan 2024, 7:06:41 PM] [Hazy GameThread] Player Clown gamble value difference of 0 BM
+[14 Jan 2024, 7:07:55 PM] [Hazy GameThread] Player Jesusrsps gamble value difference of 815 BM
+[14 Jan 2024, 7:08:31 PM] [Hazy GameThread] Player Jesusrsps gamble value difference of 0 BM
+[14 Jan 2024, 7:09:05 PM] [Hazy GameThread] Player Jesusrsps gamble value difference of 0 BM
+[14 Jan 2024, 7:10:35 PM] [Hazy GameThread] Player Clown gamble value difference of 0 BM
+[14 Jan 2024, 7:11:17 PM] [Hazy GameThread] Player McSwiftly gamble value difference of 185 BM
+[14 Jan 2024, 7:12:33 PM] [Hazy GameThread] Player McSwiftly gamble value difference of 197,815 BM
+[14 Jan 2024, 7:13:28 PM] [Hazy GameThread] Player McSwiftly gamble value difference of 197,815 BM
+[14 Jan 2024, 7:16:19 PM] [Hazy GameThread] Player Jesusrsps gamble value difference of 0 BM
+[14 Jan 2024, 7:16:53 PM] [Hazy GameThread] Player Clown gamble value difference of 0 BM
+[14 Jan 2024, 7:17:42 PM] [Hazy GameThread] Player Clown gamble value difference of 300,000 BM
+[14 Jan 2024, 7:18:44 PM] [Hazy GameThread] Player McSwiftly gamble value difference of 600,000 BM
+[14 Jan 2024, 7:22:21 PM] [Hazy GameThread] Player Jesusrsps gamble value difference of 0 BM
+[14 Jan 2024, 7:24:35 PM] [Hazy GameThread] Player Clown gamble value difference of 0 BM
+[14 Jan 2024, 7:25:05 PM] [Hazy GameThread] Player Clown gamble value difference of 0 BM
+[15 Jan 2024, 2:07:31 PM] [Hazy GameThread] Player McSwiftly gamble value difference of 341 BM
+[15 Jan 2024, 2:08:14 PM] [Hazy GameThread] Player McSwiftly gamble value difference of 341 BM
+[20 Jan 2024, 9:50:46 PM] [Hazy GameThread] Player Kazsio gamble value difference of 38,024 BM
+[20 Jan 2024, 9:53:37 PM] [Hazy GameThread] Player Kazsio gamble value difference of 281,500 BM
+[26 Jan 2024, 11:59:16 AM] [Hazy GameThread] Player Noob gamble value difference of 0 BM
+[26 Jan 2024, 12:00:01 PM] [Hazy GameThread] Player P H4T S3TZ gamble value difference of 0 BM
+[26 Jan 2024, 12:00:34 PM] [Hazy GameThread] Player P H4T S3TZ gamble value difference of 0 BM
+[26 Jan 2024, 12:07:04 PM] [Hazy GameThread] Player P H4T S3TZ gamble value difference of 0 BM
+[26 Jan 2024, 12:09:14 PM] [Hazy GameThread] Player P H4T S3TZ gamble value difference of 168,342 BM
+[26 Jan 2024, 12:11:47 PM] [Hazy GameThread] Player Noob gamble value difference of 461,342 BM
+[26 Jan 2024, 12:19:58 PM] [Hazy GameThread] Player P H4T S3TZ gamble value difference of 79,342 BM
+[26 Jan 2024, 12:29:54 PM] [Hazy GameThread] Player Noob gamble value difference of 29,305,997 BM
+[26 Jan 2024, 12:29:54 PM] [Hazy GameThread] Player P H4T S3TZ won a gamble against Player Noob with a value difference of greater than 1,000,000 BM, this was possibly RWT.
+[26 Jan 2024, 12:33:46 PM] [Hazy GameThread] Player P H4T S3TZ gamble value difference of 40,639 BM
+[26 Jan 2024, 12:44:56 PM] [Hazy GameThread] Player Noob gamble value difference of 84,867 BM
+[26 Jan 2024, 12:46:00 PM] [Hazy GameThread] Player Noob gamble value difference of 865,133 BM
+[26 Jan 2024, 12:49:28 PM] [Hazy GameThread] Player Noob gamble value difference of 264,000 BM
+[26 Jan 2024, 10:09:39 PM] [Hazy GameThread] Player P H4T S3TZ gamble value difference of 0 BM
+[26 Jan 2024, 10:21:25 PM] [Hazy GameThread] Player Noob gamble value difference of 0 BM
+[27 Jan 2024, 2:43:02 PM] [Hazy GameThread] Player Redrum8734 gamble value difference of 2,755,751 BM
+[27 Jan 2024, 2:43:02 PM] [Hazy GameThread] Player Deadcountt won a gamble against Player Redrum8734 with a value difference of greater than 1,000,000 BM, this was possibly RWT.
+[27 Jan 2024, 4:36:30 PM] [Hazy GameThread] Player Deadcountt gamble value difference of 0 BM
+[27 Jan 2024, 4:37:37 PM] [Hazy GameThread] Player Deadcountt gamble value difference of 0 BM
+[27 Jan 2024, 4:39:57 PM] [Hazy GameThread] Player Deadcountt gamble value difference of 0 BM
+[27 Jan 2024, 7:35:37 PM] [Hazy GameThread] Player Noob gamble value difference of 1,800,000 BM
+[27 Jan 2024, 7:35:37 PM] [Hazy GameThread] Player Deadcountt won a gamble against Player Noob with a value difference of greater than 1,000,000 BM, this was possibly RWT.
+[27 Jan 2024, 8:09:31 PM] [Hazy GameThread] Player Noob gamble value difference of 0 BM
+[27 Jan 2024, 8:11:22 PM] [Hazy GameThread] Player Noob gamble value difference of 0 BM
+[28 Jan 2024, 5:22:07 AM] [Hazy GameThread] Player Noob gamble value difference of 0 BM
+[28 Jan 2024, 5:22:54 AM] [Hazy GameThread] Player Noob gamble value difference of 0 BM
+[28 Jan 2024, 5:24:41 AM] [Hazy GameThread] Player P H4T S3TZ gamble value difference of 0 BM
+[28 Jan 2024, 8:30:45 AM] [Hazy GameThread] Player P H4T S3TZ gamble value difference of 75,000 BM
+[28 Jan 2024, 8:34:56 AM] [Hazy GameThread] Player Noob gamble value difference of 16,000 BM
+[28 Jan 2024, 8:38:23 AM] [Hazy GameThread] Player Noob gamble value difference of 675,000 BM
+[28 Jan 2024, 8:39:23 AM] [Hazy GameThread] Player P H4T S3TZ gamble value difference of 155,000 BM
+[28 Jan 2024, 9:16:29 AM] [Hazy GameThread] Player P H4T S3TZ gamble value difference of 0 BM
+[28 Jan 2024, 10:39:10 AM] [Hazy GameThread] Player Kuma gamble value difference of 0 BM
+[28 Jan 2024, 10:44:57 AM] [Hazy GameThread] Player Noob gamble value difference of 0 BM
+[28 Jan 2024, 10:45:24 AM] [Hazy GameThread] Player Kuma gamble value difference of 0 BM
+[28 Jan 2024, 10:46:51 AM] [Hazy GameThread] Player Kuma gamble value difference of 0 BM
+[28 Jan 2024, 10:47:37 AM] [Hazy GameThread] Player Kuma gamble value difference of 3,563 BM
+[28 Jan 2024, 11:04:43 AM] [Hazy GameThread] Player P H4T S3TZ gamble value difference of 0 BM
+[28 Jan 2024, 11:07:04 AM] [Hazy GameThread] Player P H4T S3TZ gamble value difference of 50,000 BM
+[28 Jan 2024, 11:08:18 AM] [Hazy GameThread] Player Kuma gamble value difference of 90,000 BM
+[28 Jan 2024, 11:10:04 AM] [Hazy GameThread] Player Kuma gamble value difference of 96,000 BM
+[28 Jan 2024, 11:10:48 AM] [Hazy GameThread] Player Noob gamble value difference of 0 BM
+[28 Jan 2024, 11:11:22 AM] [Hazy GameThread] Player P H4T S3TZ gamble value difference of 20,000 BM
+[28 Jan 2024, 11:12:24 AM] [Hazy GameThread] Player P H4T S3TZ gamble value difference of 116,000 BM
+[28 Jan 2024, 2:01:36 PM] [Hazy GameThread] Player Noob gamble value difference of 259,000 BM
+[28 Jan 2024, 2:04:01 PM] [Hazy GameThread] Player P H4T S3TZ gamble value difference of 200,000 BM
+[28 Jan 2024, 2:04:52 PM] [Hazy GameThread] Player P H4T S3TZ gamble value difference of 471,000 BM
+[28 Jan 2024, 2:05:40 PM] [Hazy GameThread] Player P H4T S3TZ gamble value difference of 240,000 BM
+[28 Jan 2024, 2:07:10 PM] [Hazy GameThread] Player P H4T S3TZ gamble value difference of 40,000 BM
+[28 Jan 2024, 2:08:17 PM] [Hazy GameThread] Player Noob gamble value difference of 1,131,000 BM
+[28 Jan 2024, 2:08:17 PM] [Hazy GameThread] Player P H4T S3TZ won a gamble against Player Noob with a value difference of greater than 1,000,000 BM, this was possibly RWT.
+[28 Jan 2024, 4:35:18 PM] [Hazy GameThread] Player Deadcountt gamble value difference of 490,000 BM
+[28 Jan 2024, 4:36:34 PM] [Hazy GameThread] Player P H4T S3TZ gamble value difference of 440,000 BM
+[28 Jan 2024, 4:39:54 PM] [Hazy GameThread] Player P H4T S3TZ gamble value difference of 105,000 BM
+[28 Jan 2024, 7:44:09 PM] [Hazy GameThread] Player Noob gamble value difference of 3,382,500 BM
+[28 Jan 2024, 7:44:09 PM] [Hazy GameThread] Player Deadcountt won a gamble against Player Noob with a value difference of greater than 1,000,000 BM, this was possibly RWT.
+[28 Jan 2024, 8:55:39 PM] [Hazy GameThread] Player Kuma gamble value difference of 0 BM
+[28 Jan 2024, 8:56:19 PM] [Hazy GameThread] Player Deadcountt gamble value difference of 0 BM
+[30 Jan 2024, 7:23:39 PM] [Hazy GameThread] Player Deadcountt gamble value difference of 475,000 BM
+[31 Jan 2024, 11:19:24 PM] [Hazy GameThread] Player Kuma gamble value difference of 1,000,000 BM
+[31 Jan 2024, 11:23:26 PM] [Hazy GameThread] Player Kuma gamble value difference of 0 BM
+[31 Jan 2024, 11:24:53 PM] [Hazy GameThread] Player Kuma gamble value difference of 0 BM
+[31 Jan 2024, 11:25:25 PM] [Hazy GameThread] Player Oldsnag76 gamble value difference of 0 BM
+[31 Jan 2024, 11:28:11 PM] [Hazy GameThread] Player Oldsnag76 gamble value difference of 255,000 BM
+[01 Feb 2024, 12:00:20 AM] [Hazy GameThread] Player Oldsnag76 gamble value difference of 645,000 BM
+[01 Feb 2024, 11:57:46 AM] [Hazy GameThread] Player Noob gamble value difference of 0 BM
+[01 Feb 2024, 11:59:14 AM] [Hazy GameThread] Player Noob gamble value difference of 0 BM
+[01 Feb 2024, 12:00:23 PM] [Hazy GameThread] Player P H4T S3TZ gamble value difference of 0 BM
+[01 Feb 2024, 12:06:03 PM] [Hazy GameThread] Player P H4T S3TZ gamble value difference of 18,267,834 BM
+[01 Feb 2024, 12:06:03 PM] [Hazy GameThread] Player Noob won a gamble against Player P H4T S3TZ with a value difference of greater than 1,000,000 BM, this was possibly RWT.
+[01 Feb 2024, 12:08:05 PM] [Hazy GameThread] Player P H4T S3TZ gamble value difference of 50 BM
+[01 Feb 2024, 12:09:27 PM] [Hazy GameThread] Player P H4T S3TZ gamble value difference of 0 BM
+[01 Feb 2024, 12:14:42 PM] [Hazy GameThread] Player P H4T S3TZ gamble value difference of 0 BM
+[01 Feb 2024, 12:15:54 PM] [Hazy GameThread] Player P H4T S3TZ gamble value difference of 0 BM
+[01 Feb 2024, 12:18:07 PM] [Hazy GameThread] Player Oldsnag76 gamble value difference of 505,329 BM
+[01 Feb 2024, 1:30:41 PM] [Hazy GameThread] Player Oldsnag76 gamble value difference of 0 BM
+[01 Feb 2024, 1:31:21 PM] [Hazy GameThread] Player Oldsnag76 gamble value difference of 0 BM
+[01 Feb 2024, 1:34:09 PM] [Hazy GameThread] Player Oldsnag76 gamble value difference of 2,000,000 BM
+[01 Feb 2024, 1:34:09 PM] [Hazy GameThread] Player P H4T S3TZ won a gamble against Player Oldsnag76 with a value difference of greater than 1,000,000 BM, this was possibly RWT.
+[01 Feb 2024, 1:36:21 PM] [Hazy GameThread] Player Oldsnag76 gamble value difference of 7,344,874 BM
+[01 Feb 2024, 1:36:21 PM] [Hazy GameThread] Player P H4T S3TZ won a gamble against Player Oldsnag76 with a value difference of greater than 1,000,000 BM, this was possibly RWT.
+[01 Feb 2024, 1:39:38 PM] [Hazy GameThread] Player Noob gamble value difference of 0 BM
+[01 Feb 2024, 1:40:43 PM] [Hazy GameThread] Player Noob gamble value difference of 125 BM
+[01 Feb 2024, 1:41:45 PM] [Hazy GameThread] Player P H4T S3TZ gamble value difference of 0 BM
+[01 Feb 2024, 1:45:39 PM] [Hazy GameThread] Player Noob gamble value difference of 18,029,264 BM
+[01 Feb 2024, 1:45:39 PM] [Hazy GameThread] Player P H4T S3TZ won a gamble against Player Noob with a value difference of greater than 1,000,000 BM, this was possibly RWT.
+[01 Feb 2024, 2:14:09 PM] [Hazy GameThread] Player Lawker gamble value difference of 0 BM
+[01 Feb 2024, 2:19:15 PM] [Hazy GameThread] Player P H4T S3TZ gamble value difference of 3,407 BM
+[01 Feb 2024, 6:58:12 PM] [Hazy GameThread] Player Infernal gamble value difference of 0 BM
+[01 Feb 2024, 6:59:07 PM] [Hazy GameThread] Player 99 Levels gamble value difference of 0 BM
+[01 Feb 2024, 7:00:27 PM] [Hazy GameThread] Player 99 Levels gamble value difference of 0 BM
+[01 Feb 2024, 7:01:03 PM] [Hazy GameThread] Player Infernal gamble value difference of 0 BM
+[01 Feb 2024, 7:01:44 PM] [Hazy GameThread] Player 99 Levels gamble value difference of 0 BM
+[02 Feb 2024, 12:47:12 AM] [Hazy GameThread] Player Oldsnag76 gamble value difference of 0 BM
+[02 Feb 2024, 12:48:13 AM] [Hazy GameThread] Player Kuma gamble value difference of 0 BM
+[02 Feb 2024, 12:48:44 AM] [Hazy GameThread] Player Oldsnag76 gamble value difference of 0 BM
+[03 Feb 2024, 7:58:56 AM] [Hazy GameThread] Player P H4T S3TZ gamble value difference of 0 BM
+[03 Feb 2024, 8:00:41 AM] [Hazy GameThread] Player P H4T S3TZ gamble value difference of 0 BM
+[03 Feb 2024, 8:04:12 AM] [Hazy GameThread] Player Oldsnag76 gamble value difference of 375,000 BM
+[03 Feb 2024, 8:08:53 AM] [Hazy GameThread] Player Oldsnag76 gamble value difference of 187,000 BM
+[03 Feb 2024, 8:09:54 AM] [Hazy GameThread] Player P H4T S3TZ gamble value difference of 187,000 BM
+[03 Feb 2024, 8:11:15 AM] [Hazy GameThread] Player P H4T S3TZ gamble value difference of 172,000 BM
+[05 Feb 2024, 4:45:38 PM] [Hazy GameThread] Player Deadcountt gamble value difference of 0 BM
+[05 Feb 2024, 6:37:15 PM] [Hazy GameThread] Player Kuma gamble value difference of 0 BM
+[05 Feb 2024, 6:38:39 PM] [Hazy GameThread] Player CALLMEDADA gamble value difference of 0 BM
+[05 Feb 2024, 6:40:00 PM] [Hazy GameThread] Player CALLMEDADA gamble value difference of 7,222,500 BM
+[05 Feb 2024, 6:40:00 PM] [Hazy GameThread] Player Kuma won a gamble against Player CALLMEDADA with a value difference of greater than 1,000,000 BM, this was possibly RWT.
+[05 Feb 2024, 9:38:03 PM] [Hazy GameThread] Player Kuma gamble value difference of 3,443,569 BM
+[05 Feb 2024, 9:38:03 PM] [Hazy GameThread] Player CALLMEDADA won a gamble against Player Kuma with a value difference of greater than 1,000,000 BM, this was possibly RWT.
+[06 Feb 2024, 4:31:29 PM] [Hazy GameThread] Player P H4T S3TZ gamble value difference of 3,750,000 BM
+[06 Feb 2024, 4:31:29 PM] [Hazy GameThread] Player Deadcountt won a gamble against Player P H4T S3TZ with a value difference of greater than 1,000,000 BM, this was possibly RWT.
+[06 Feb 2024, 4:32:03 PM] [Hazy GameThread] Player Deadcountt gamble value difference of 3,750,000 BM
+[06 Feb 2024, 4:32:03 PM] [Hazy GameThread] Player P H4T S3TZ won a gamble against Player Deadcountt with a value difference of greater than 1,000,000 BM, this was possibly RWT.
+[06 Feb 2024, 7:57:24 PM] [Hazy GameThread] Player Oldsnag76 gamble value difference of 0 BM
+[06 Feb 2024, 8:23:37 PM] [Hazy GameThread] Player Oldsnag76 gamble value difference of 0 BM
+[06 Feb 2024, 8:26:16 PM] [Hazy GameThread] Player Insomnia gamble value difference of 0 BM
+[07 Feb 2024, 5:38:57 AM] [Hazy GameThread] Player P H4T S3TZ gamble value difference of 116,749 BM
+[07 Feb 2024, 5:40:23 AM] [Hazy GameThread] Player Oldsnag76 gamble value difference of 22,883,251 BM
+[07 Feb 2024, 5:40:23 AM] [Hazy GameThread] Player P H4T S3TZ won a gamble against Player Oldsnag76 with a value difference of greater than 1,000,000 BM, this was possibly RWT.
+[07 Feb 2024, 5:41:33 AM] [Hazy GameThread] Player Oldsnag76 gamble value difference of 5,801,749 BM
+[07 Feb 2024, 5:41:33 AM] [Hazy GameThread] Player P H4T S3TZ won a gamble against Player Oldsnag76 with a value difference of greater than 1,000,000 BM, this was possibly RWT.
+[07 Feb 2024, 7:15:12 AM] [Hazy GameThread] Player Deadcountt gamble value difference of 940,000 BM
+[07 Feb 2024, 7:15:47 AM] [Hazy GameThread] Player Oldsnag76 gamble value difference of 914,584 BM
+[07 Feb 2024, 5:39:48 PM] [Hazy GameThread] Player P H4T S3TZ gamble value difference of 0 BM
+[07 Feb 2024, 5:40:48 PM] [Hazy GameThread] Player P H4T S3TZ gamble value difference of 0 BM
+[07 Feb 2024, 5:41:45 PM] [Hazy GameThread] Player P H4T S3TZ gamble value difference of 0 BM
+[07 Feb 2024, 5:43:35 PM] [Hazy GameThread] Player Deadcountt gamble value difference of 8,958,000 BM
+[07 Feb 2024, 5:43:35 PM] [Hazy GameThread] Player P H4T S3TZ won a gamble against Player Deadcountt with a value difference of greater than 1,000,000 BM, this was possibly RWT.
+[07 Feb 2024, 6:12:29 PM] [Hazy GameThread] Player Pinklooter gamble value difference of 0 BM
+[07 Feb 2024, 6:12:59 PM] [Hazy GameThread] Player 99 Levels gamble value difference of 0 BM
+[07 Feb 2024, 6:40:11 PM] [Hazy GameThread] Player Pinklooter gamble value difference of 0 BM
+[07 Feb 2024, 6:40:55 PM] [Hazy GameThread] Player Pinklooter gamble value difference of 0 BM
+[07 Feb 2024, 8:32:20 PM] [Hazy GameThread] Player Deadcountt gamble value difference of 0 BM
+[07 Feb 2024, 8:32:50 PM] [Hazy GameThread] Player P H4T S3TZ gamble value difference of 0 BM
+[07 Feb 2024, 11:50:32 PM] [Hazy GameThread] Player Oldsnag76 gamble value difference of 33,450,000 BM
+[07 Feb 2024, 11:50:32 PM] [Hazy GameThread] Player P H4T S3TZ won a gamble against Player Oldsnag76 with a value difference of greater than 1,000,000 BM, this was possibly RWT.
+[07 Feb 2024, 11:51:30 PM] [Hazy GameThread] Player P H4T S3TZ gamble value difference of 0 BM
+[08 Feb 2024, 1:31:44 AM] [Hazy GameThread] Player P H4T S3TZ gamble value difference of 0 BM
+[09 Feb 2024, 2:17:41 PM] [Hazy GameThread] Player P H4T S3TZ gamble value difference of 0 BM
+[09 Feb 2024, 2:18:30 PM] [Hazy GameThread] Player Oldsnag76 gamble value difference of 0 BM
+[09 Feb 2024, 2:21:18 PM] [Hazy GameThread] Player P H4T S3TZ gamble value difference of 0 BM
+[09 Feb 2024, 2:22:31 PM] [Hazy GameThread] Player Deadcountt gamble value difference of 0 BM
+[09 Feb 2024, 2:28:14 PM] [Hazy GameThread] Player Deadcountt gamble value difference of 0 BM
+[09 Feb 2024, 2:29:22 PM] [Hazy GameThread] Player P H4T S3TZ gamble value difference of 136,500 BM
+[09 Feb 2024, 2:32:02 PM] [Hazy GameThread] Player P H4T S3TZ gamble value difference of 0 BM
+[09 Feb 2024, 2:33:08 PM] [Hazy GameThread] Player Deadcountt gamble value difference of 0 BM
+[09 Feb 2024, 2:33:50 PM] [Hazy GameThread] Player P H4T S3TZ gamble value difference of 0 BM
+[09 Feb 2024, 2:34:21 PM] [Hazy GameThread] Player Oldsnag76 gamble value difference of 0 BM
+[09 Feb 2024, 2:36:13 PM] [Hazy GameThread] Player P H4T S3TZ gamble value difference of 0 BM
+[09 Feb 2024, 3:32:08 PM] [Hazy GameThread] Player P H4T S3TZ gamble value difference of 0 BM
+[09 Feb 2024, 3:38:30 PM] [Hazy GameThread] Player Insomnia gamble value difference of 0 BM
+[09 Feb 2024, 3:39:27 PM] [Hazy GameThread] Player Insomnia gamble value difference of 0 BM
+[09 Feb 2024, 3:39:56 PM] [Hazy GameThread] Player Insomnia gamble value difference of 0 BM
+[09 Feb 2024, 3:51:20 PM] [Hazy GameThread] Player Deadcountt gamble value difference of 1,874,702 BM
+[09 Feb 2024, 3:51:20 PM] [Hazy GameThread] Player Insomnia won a gamble against Player Deadcountt with a value difference of greater than 1,000,000 BM, this was possibly RWT.
+[09 Feb 2024, 3:56:35 PM] [Hazy GameThread] Player Insomnia gamble value difference of 764,940 BM
+[09 Feb 2024, 4:07:19 PM] [Hazy GameThread] Player Deadcountt gamble value difference of 727,000 BM
+[09 Feb 2024, 4:08:53 PM] [Hazy GameThread] Player P H4T S3TZ gamble value difference of 666,500 BM
+[12 Feb 2024, 3:23:24 PM] [Hazy GameThread] Player P H4T S3TZ gamble value difference of 0 BM
+[12 Feb 2024, 3:32:34 PM] [Hazy GameThread] Player Deadcountt gamble value difference of 407,500 BM
+[12 Feb 2024, 3:33:28 PM] [Hazy GameThread] Player P H4T S3TZ gamble value difference of 245,000 BM
+[12 Feb 2024, 5:49:31 PM] [Hazy GameThread] Player Zamordyl gamble value difference of 0 BM
+[12 Feb 2024, 5:51:15 PM] [Hazy GameThread] Player Zamordyl gamble value difference of 0 BM
+[13 Feb 2024, 3:35:26 PM] [Hazy GameThread] Player Deadcountt gamble value difference of 0 BM
+[13 Feb 2024, 3:36:52 PM] [Hazy GameThread] Player P H4T S3TZ gamble value difference of 150,000 BM
+[13 Feb 2024, 3:38:00 PM] [Hazy GameThread] Player Deadcountt gamble value difference of 91,000 BM
+[13 Feb 2024, 3:41:08 PM] [Hazy GameThread] Player P H4T S3TZ gamble value difference of 9,796,000 BM
+[13 Feb 2024, 3:41:08 PM] [Hazy GameThread] Player Deadcountt won a gamble against Player P H4T S3TZ with a value difference of greater than 1,000,000 BM, this was possibly RWT.
+[02 Sep 2024, 7:12:03 PM] [Hazy GameThread] Player MeowMix gamble value difference of 0 BM
+[02 Sep 2024, 7:15:51 PM] [Hazy GameThread] Player Meowmix2 gamble value difference of 0 BM
+[02 Sep 2024, 7:19:24 PM] [Hazy GameThread] Player MeowMix gamble value difference of 0 BM
+[02 Sep 2024, 7:21:07 PM] [Hazy GameThread] Player MeowMix gamble value difference of 0 BM
+[02 Sep 2024, 7:22:08 PM] [Hazy GameThread] Player MeowMix gamble value difference of 0 BM
+[02 Sep 2024, 7:23:17 PM] [Hazy GameThread] Player MeowMix gamble value difference of 0 BM
+[02 Sep 2024, 7:25:00 PM] [Hazy GameThread] Player MeowMix gamble value difference of 0 BM
+[02 Sep 2024, 7:26:17 PM] [Hazy GameThread] Player MeowMix gamble value difference of 0 BM
+[02 Sep 2024, 7:29:47 PM] [Hazy GameThread] Player Meowmix2 gamble value difference of 0 BM
+[02 Sep 2024, 7:33:51 PM] [Hazy GameThread] Player Meowmix2 gamble value difference of 0 BM
+[02 Sep 2024, 7:34:23 PM] [Hazy GameThread] Player MeowMix gamble value difference of 0 BM
+[02 Sep 2024, 7:34:44 PM] [Hazy GameThread] Player MeowMix gamble value difference of 0 BM
+[02 Sep 2024, 7:36:34 PM] [Hazy GameThread] Player MeowMix gamble value difference of 0 BM
+[02 Sep 2024, 7:37:17 PM] [Hazy GameThread] Player Meowmix2 gamble value difference of 0 BM
+[02 Sep 2024, 7:43:32 PM] [Hazy GameThread] Player MeowMix gamble value difference of 0 BM
+[02 Sep 2024, 7:43:53 PM] [Hazy GameThread] Player MeowMix gamble value difference of 0 BM
+[02 Sep 2024, 7:44:14 PM] [Hazy GameThread] Player MeowMix gamble value difference of 0 BM
+[02 Sep 2024, 7:44:35 PM] [Hazy GameThread] Player Meowmix2 gamble value difference of 0 BM
+[02 Sep 2024, 7:59:28 PM] [Hazy GameThread] Player MeowMix gamble value difference of 0 BM
+[02 Sep 2024, 8:00:24 PM] [Hazy GameThread] Player MeowMix gamble value difference of 0 BM
+[02 Sep 2024, 8:01:37 PM] [Hazy GameThread] Player MeowMix gamble value difference of 0 BM
+[02 Sep 2024, 8:03:20 PM] [Hazy GameThread] Player MeowMix gamble value difference of 0 BM
+[02 Sep 2024, 8:04:18 PM] [Hazy GameThread] Player MeowMix gamble value difference of 0 BM

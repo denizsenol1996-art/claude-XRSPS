@@ -1,0 +1,85 @@
+npcId:
+- 15021
+- 5923
+petItem: GRIM_REAPER_PET
+petRarity: 1500
+alwaysDrops:
+- item: BLOOD_MONEY
+  minimumAmount: 250
+  maximumAmount: 2500
+  chance: 1
+  rareDrop: false
+  sendToBank: false
+drops:
+- item: GRIM_REAPER_PET
+  minimumAmount: 1
+  maximumAmount: 1
+  chance: 1500
+  rareDrop: false
+  sendToBank: false
+- item: CRYSTAL_KEY
+  minimumAmount: 1
+  maximumAmount: 1
+  chance: 26
+  rareDrop: false
+  sendToBank: false
+- item: BLOOD_MONEY_CASKET
+  minimumAmount: 1
+  maximumAmount: 1
+  chance: 30
+  rareDrop: false
+  sendToBank: false
+- item: HWEEN_MYSTERY_BOX
+  minimumAmount: 1
+  maximumAmount: 1
+  chance: 61
+  rareDrop: false
+  sendToBank: false
+- item: VOTE_TICKET
+  minimumAmount: 10
+  maximumAmount: 10
+  chance: 92
+  rareDrop: false
+  sendToBank: false
+- item: WINTER_ITEM_CASKET
+  minimumAmount: 1
+  maximumAmount: 1
+  chance: 102
+  rareDrop: false
+  sendToBank: false
+- item: AMULET_OF_FURY_OR
+  minimumAmount: 1
+  maximumAmount: 1
+  chance: 154
+  rareDrop: false
+  sendToBank: false
+- item: MYSTERY_TICKET
+  minimumAmount: 1
+  maximumAmount: 1
+  chance: 205
+  rareDrop: false
+  sendToBank: false
+- item: LEGENDARY_MYSTERY_BOX
+  minimumAmount: 1
+  maximumAmount: 1
+  chance: 308
+  rareDrop: false
+  sendToBank: false
+- item: KEY_OF_BOXES
+  minimumAmount: 1
+  maximumAmount: 1
+  chance: 616
+  rareDrop: false
+  sendToBank: false
+- item: FIFTY_DOLLAR_BOND
+  minimumAmount: 1
+  maximumAmount: 1
+  chance: 924
+  rareDrop: false
+  sendToBank: false
+- item: MYSTERY_CHEST
+  minimumAmount: 1
+  maximumAmount: 1
+  chance: 1848
+  rareDrop: false
+  sendToBank: false

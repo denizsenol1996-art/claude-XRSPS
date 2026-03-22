@@ -1,0 +1,77 @@
+npcId:
+- 963
+- 965
+- 4303
+- 4304
+- 6500
+- 6501
+petItem: "null"
+petRarity: 0
+alwaysDrops: []
+drops:
+- item: DRAGON_BOOTS
+  minimumAmount: 1
+  maximumAmount: 1
+  chance: 86
+  rareDrop: false
+  sendToBank: false
+- item: AMULET_OF_FURY
+  minimumAmount: 1
+  maximumAmount: 1
+  chance: 86
+  rareDrop: false
+  sendToBank: false
+- item: GUTHANS_ARMOUR_SET
+  minimumAmount: 1
+  maximumAmount: 1
+  chance: 86
+  rareDrop: false
+  sendToBank: false
+- item: VERACS_ARMOUR_SET
+  minimumAmount: 1
+  maximumAmount: 1
+  chance: 86
+  rareDrop: false
+  sendToBank: false
+- item: DHAROKS_ARMOUR_SET
+  minimumAmount: 1
+  maximumAmount: 1
+  chance: 86
+  rareDrop: false
+  sendToBank: false
+- item: TORAGS_ARMOUR_SET
+  minimumAmount: 1
+  maximumAmount: 1
+  chance: 86
+  rareDrop: false
+  sendToBank: false
+- item: AHRIMS_ARMOUR_SET
+  minimumAmount: 1
+  maximumAmount: 1
+  chance: 86
+  rareDrop: false
+  sendToBank: false
+- item: KARILS_ARMOUR_SET
+  minimumAmount: 1
+  maximumAmount: 1
+  chance: 86
+  rareDrop: false
+  sendToBank: false
+- item: WEAPON_MYSTERY_BOX
+  minimumAmount: 1
+  maximumAmount: 1
+  chance: 202
+  rareDrop: false
+  sendToBank: false
+- item: ARMOUR_MYSTERY_BOX
+  minimumAmount: 1
+  maximumAmount: 1
+  chance: 202
+  rareDrop: false
+  sendToBank: false
+- item: KQ_HEAD
+  minimumAmount: 1
+  maximumAmount: 1
+  chance: 1521
+  rareDrop: false
+  sendToBank: false

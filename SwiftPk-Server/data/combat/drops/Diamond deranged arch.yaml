@@ -1,0 +1,30 @@
+npcId:
+- 5912
+petItem: DERANGED_ARCHAEOLOGIST
+petRarity: 2200
+alwaysDrops:
+- item: ENCHANTED_BONES
+  minimumAmount: 1
+  maximumAmount: 1
+  chance: 1
+  rareDrop: false
+  sendToBank: false
+- item: ENCHANTED_KEY_I
+  minimumAmount: 1
+  maximumAmount: 1
+  chance: 1
+  rareDrop: false
+  sendToBank: false
+drops:
+- item: DERANGED_ARCHAEOLOGIST
+  minimumAmount: 1
+  maximumAmount: 1
+  chance: 2200
+  rareDrop: false
+  sendToBank: false
+- item: ENCHANTED_KEY_II
+  minimumAmount: 1
+  maximumAmount: 1
+  chance: 201
+  rareDrop: false
+  sendToBank: false

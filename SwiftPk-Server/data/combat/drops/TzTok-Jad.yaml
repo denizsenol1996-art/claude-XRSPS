@@ -1,0 +1,85 @@
+npcId:
+- 3127
+- 6506
+petItem: TZREKJAD
+petRarity: 1000
+alwaysDrops:
+- item: BLOOD_MONEY
+  minimumAmount: 25
+  maximumAmount: 100
+  chance: 1
+  rareDrop: false
+  sendToBank: false
+drops:
+- item: TZREKJAD
+  minimumAmount: 1
+  maximumAmount: 1
+  chance: 1000
+  rareDrop: false
+  sendToBank: false
+- item: DARK_BOW
+  minimumAmount: 1
+  maximumAmount: 1
+  chance: 16
+  rareDrop: false
+  sendToBank: false
+- item: GRANITE_MAUL_24225
+  minimumAmount: 1
+  maximumAmount: 1
+  chance: 18
+  rareDrop: false
+  sendToBank: false
+- item: DRAGON_BOOTS
+  minimumAmount: 1
+  maximumAmount: 1
+  chance: 21
+  rareDrop: false
+  sendToBank: false
+- item: BANDOS_GODSWORD
+  minimumAmount: 1
+  maximumAmount: 1
+  chance: 149
+  rareDrop: false
+  sendToBank: false
+- item: SARADOMIN_GODSWORD
+  minimumAmount: 1
+  maximumAmount: 1
+  chance: 149
+  rareDrop: false
+  sendToBank: false
+- item: ZAMORAK_GODSWORD
+  minimumAmount: 1
+  maximumAmount: 1
+  chance: 149
+  rareDrop: false
+  sendToBank: false
+- item: ARMADYL_GODSWORD
+  minimumAmount: 1
+  maximumAmount: 1
+  chance: 248
+  rareDrop: false
+  sendToBank: false
+- item: WEAPON_MYSTERY_BOX
+  minimumAmount: 1
+  maximumAmount: 1
+  chance: 248
+  rareDrop: false
+  sendToBank: false
+- item: ARMOUR_MYSTERY_BOX
+  minimumAmount: 1
+  maximumAmount: 1
+  chance: 248
+  rareDrop: false
+  sendToBank: false
+- item: DRAGON_CLAWS
+  minimumAmount: 1
+  maximumAmount: 1
+  chance: 248
+  rareDrop: false
+  sendToBank: false
+- item: INFERNAL_CAPE
+  minimumAmount: 1
+  maximumAmount: 1
+  chance: 372
+  rareDrop: false
+  sendToBank: false

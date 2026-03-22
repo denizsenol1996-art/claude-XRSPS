@@ -1,0 +1,643 @@
+[
+  {
+    "sellerName": "tweetmykills",
+    "lastBuyerName": "Luckyman353",
+    "saleItem": {
+      "id": 21816,
+      "amount": 6
+    },
+    "price": 30000,
+    "timeListed": 1705296908987,
+    "amountSold": 2,
+    "profit": 0,
+    "transactionTime": 1710786649171,
+    "buyersInfo": [
+      "Lagg",
+      "Luckyman353"
+    ]
+  },
+  {
+    "sellerName": "fallen",
+    "lastBuyerName": "Deadcountt",
+    "saleItem": {
+      "id": 22125,
+      "amount": 31
+    },
+    "price": 1000,
+    "timeListed": 1710013503405,
+    "amountSold": 31,
+    "profit": 31000,
+    "transactionTime": 1710539201923,
+    "buyersInfo": [
+      "Deadcountt"
+    ]
+  },
+  {
+    "sellerName": "fallen",
+    "lastBuyerName": "I Pusk Nx I",
+    "saleItem": {
+      "id": 22125,
+      "amount": 31
+    },
+    "price": 1000,
+    "timeListed": 1710013503405,
+    "amountSold": 31,
+    "profit": 31000,
+    "transactionTime": 1710418371686,
+    "buyersInfo": [
+      "I Pusk Nx I"
+    ]
+  },
+  {
+    "sellerName": "werevoid",
+    "lastBuyerName": "Deadcountt",
+    "saleItem": {
+      "id": 11834,
+      "amount": 1
+    },
+    "price": 100000,
+    "timeListed": 1710370904491,
+    "amountSold": 1,
+    "profit": 100000,
+    "transactionTime": 1710371302891,
+    "buyersInfo": [
+      "Deadcountt"
+    ]
+  },
+  {
+    "sellerName": "werevoid",
+    "lastBuyerName": "Deadcountt",
+    "saleItem": {
+      "id": 619,
+      "amount": 8
+    },
+    "price": 50000,
+    "timeListed": 1710371226092,
+    "amountSold": 8,
+    "profit": 400000,
+    "transactionTime": 1710371299891,
+    "buyersInfo": [
+      "Deadcountt"
+    ]
+  },
+  {
+    "sellerName": "cloudy",
+    "lastBuyerName": "Lawker",
+    "saleItem": {
+      "id": 12926,
+      "amount": 1
+    },
+    "price": 8500000,
+    "timeListed": 1706011091401,
+    "amountSold": 1,
+    "profit": 8500000,
+    "transactionTime": 1708877388327,
+    "buyersInfo": [
+      "Lawker"
+    ]
+  },
+  {
+    "sellerName": "tweetmykills",
+    "lastBuyerName": "Yoshi",
+    "saleItem": {
+      "id": 21816,
+      "amount": 6
+    },
+    "price": 30000,
+    "timeListed": 1705296908987,
+    "amountSold": 3,
+    "profit": 90000,
+    "transactionTime": 1707559409164,
+    "buyersInfo": [
+      "Lagg",
+      "Yoshi"
+    ]
+  },
+  {
+    "sellerName": "kodi",
+    "lastBuyerName": "P H4T S3TZ",
+    "saleItem": {
+      "id": 22644,
+      "amount": 3
+    },
+    "price": 750000,
+    "timeListed": 1706935747574,
+    "amountSold": 1,
+    "profit": 750000,
+    "transactionTime": 1707389531761,
+    "buyersInfo": [
+      "P H4T S3TZ"
+    ]
+  },
+  {
+    "sellerName": "oldsnag76",
+    "lastBuyerName": "Insomnia",
+    "saleItem": {
+      "id": 1057,
+      "amount": 2
+    },
+    "price": 800000,
+    "timeListed": 1706550720747,
+    "amountSold": 1,
+    "profit": 0,
+    "transactionTime": 1707158492164,
+    "buyersInfo": [
+      "Insomnia"
+    ]
+  },
+  {
+    "sellerName": "420skill",
+    "lastBuyerName": "Bill Clittin",
+    "saleItem": {
+      "id": 12882,
+      "amount": 2
+    },
+    "price": 50000,
+    "timeListed": 1706832505572,
+    "amountSold": 2,
+    "profit": 100000,
+    "transactionTime": 1707101268367,
+    "buyersInfo": [
+      "Bill Clittin"
+    ]
+  },
+  {
+    "sellerName": "tweetmykills",
+    "lastBuyerName": "Lagg",
+    "saleItem": {
+      "id": 21816,
+      "amount": 6
+    },
+    "price": 30000,
+    "timeListed": 1705296908987,
+    "amountSold": 1,
+    "profit": 30000,
+    "transactionTime": 1706963013388,
+    "buyersInfo": [
+      "Lagg"
+    ]
+  },
+  {
+    "sellerName": "420skill",
+    "lastBuyerName": "Unreal",
+    "saleItem": {
+      "id": 12884,
+      "amount": 1
+    },
+    "price": 50000,
+    "timeListed": 1706832480970,
+    "amountSold": 1,
+    "profit": 50000,
+    "transactionTime": 1706911304776,
+    "buyersInfo": [
+      "Unreal"
+    ]
+  },
+  {
+    "sellerName": "420skill",
+    "lastBuyerName": "Oldsnag76",
+    "saleItem": {
+      "id": 12881,
+      "amount": 5
+    },
+    "price": 50000,
+    "timeListed": 1706632837949,
+    "amountSold": 5,
+    "profit": 0,
+    "transactionTime": 1706763744374,
+    "buyersInfo": [
+      "Darkloria",
+      "Darkloria",
+      "Oldsnag76"
+    ]
+  },
+  {
+    "sellerName": "420skill",
+    "lastBuyerName": "Darkloria",
+    "saleItem": {
+      "id": 12881,
+      "amount": 5
+    },
+    "price": 50000,
+    "timeListed": 1706632837949,
+    "amountSold": 2,
+    "profit": 100000,
+    "transactionTime": 1706705510542,
+    "buyersInfo": [
+      "Darkloria",
+      "Darkloria"
+    ]
+  },
+  {
+    "sellerName": "420skill",
+    "lastBuyerName": "Darkloria",
+    "saleItem": {
+      "id": 12881,
+      "amount": 5
+    },
+    "price": 50000,
+    "timeListed": 1706632837949,
+    "amountSold": 2,
+    "profit": 100000,
+    "transactionTime": 1706705510542,
+    "buyersInfo": [
+      "Darkloria",
+      "Darkloria"
+    ]
+  },
+  {
+    "sellerName": "oldsnag76",
+    "lastBuyerName": "Eggo",
+    "saleItem": {
+      "id": 11834,
+      "amount": 1
+    },
+    "price": 590000,
+    "timeListed": 1706550820347,
+    "amountSold": 1,
+    "profit": 590000,
+    "transactionTime": 1706677963336,
+    "buyersInfo": [
+      "Eggo"
+    ]
+  },
+  {
+    "sellerName": "cloudy",
+    "lastBuyerName": "Darkloria",
+    "saleItem": {
+      "id": 19550,
+      "amount": 1
+    },
+    "price": 750000,
+    "timeListed": 1706011296003,
+    "amountSold": 1,
+    "profit": 750000,
+    "transactionTime": 1706283742946,
+    "buyersInfo": [
+      "Darkloria"
+    ]
+  },
+  {
+    "sellerName": "tweetmykills",
+    "lastBuyerName": "Darkloria",
+    "saleItem": {
+      "id": 11830,
+      "amount": 1
+    },
+    "price": 500000,
+    "timeListed": 1705424444274,
+    "amountSold": 1,
+    "profit": 500000,
+    "transactionTime": 1705921498807,
+    "buyersInfo": [
+      "Darkloria"
+    ]
+  },
+  {
+    "sellerName": "cloudy",
+    "lastBuyerName": "Amura",
+    "saleItem": {
+      "id": 12006,
+      "amount": 1
+    },
+    "price": 3000,
+    "timeListed": 1705841454005,
+    "amountSold": 1,
+    "profit": 3000,
+    "transactionTime": 1705911796806,
+    "buyersInfo": [
+      "Amura"
+    ]
+  },
+  {
+    "sellerName": "infernal",
+    "lastBuyerName": "Voltr",
+    "saleItem": {
+      "id": 22781,
+      "amount": 39
+    },
+    "price": 20,
+    "timeListed": 1705798949405,
+    "amountSold": 39,
+    "profit": 0,
+    "transactionTime": 1705885281011,
+    "buyersInfo": [
+      "Voltr"
+    ]
+  },
+  {
+    "sellerName": "infernal",
+    "lastBuyerName": "Voltr",
+    "saleItem": {
+      "id": 6730,
+      "amount": 20
+    },
+    "price": 20,
+    "timeListed": 1705798944004,
+    "amountSold": 20,
+    "profit": 0,
+    "transactionTime": 1705885275611,
+    "buyersInfo": [
+      "Voltr"
+    ]
+  },
+  {
+    "sellerName": "infernal",
+    "lastBuyerName": "Voltr",
+    "saleItem": {
+      "id": 537,
+      "amount": 30
+    },
+    "price": 20,
+    "timeListed": 1705798938005,
+    "amountSold": 30,
+    "profit": 0,
+    "transactionTime": 1705885227613,
+    "buyersInfo": [
+      "Killajeffa",
+      "Voltr"
+    ]
+  },
+  {
+    "sellerName": "0rng",
+    "lastBuyerName": "Unreal",
+    "saleItem": {
+      "id": 20724,
+      "amount": 1
+    },
+    "price": 120000,
+    "timeListed": 1705615483208,
+    "amountSold": 1,
+    "profit": 120000,
+    "transactionTime": 1705760442031,
+    "buyersInfo": [
+      "Unreal"
+    ]
+  },
+  {
+    "sellerName": "infernal",
+    "lastBuyerName": "2jz",
+    "saleItem": {
+      "id": 537,
+      "amount": 206
+    },
+    "price": 30,
+    "timeListed": 1705645613225,
+    "amountSold": 206,
+    "profit": 4680,
+    "transactionTime": 1705703998028,
+    "buyersInfo": [
+      "Niuka",
+      "2jz",
+      "2jz"
+    ]
+  },
+  {
+    "sellerName": "unreal",
+    "lastBuyerName": "Oldsnag76",
+    "saleItem": {
+      "id": 21816,
+      "amount": 5
+    },
+    "price": 10000,
+    "timeListed": 1705303975788,
+    "amountSold": 1,
+    "profit": 10000,
+    "transactionTime": 1705405968469,
+    "buyersInfo": [
+      "Oldsnag76"
+    ]
+  },
+  {
+    "sellerName": "unreal",
+    "lastBuyerName": "Gloves",
+    "saleItem": {
+      "id": 12881,
+      "amount": 1
+    },
+    "price": 50000,
+    "timeListed": 1705303929587,
+    "amountSold": 1,
+    "profit": 50000,
+    "transactionTime": 1705372010694,
+    "buyersInfo": [
+      "Gloves"
+    ]
+  },
+  {
+    "sellerName": "unreal",
+    "lastBuyerName": "Zack",
+    "saleItem": {
+      "id": 12881,
+      "amount": 1
+    },
+    "price": 50000,
+    "timeListed": 1705303929587,
+    "amountSold": 1,
+    "profit": 50000,
+    "transactionTime": 1705351269593,
+    "buyersInfo": [
+      "Zack"
+    ]
+  },
+  {
+    "sellerName": "mydkisfurry",
+    "lastBuyerName": "Voltr",
+    "saleItem": {
+      "id": 30046,
+      "amount": 1
+    },
+    "price": 20000,
+    "timeListed": 1705248338986,
+    "amountSold": 1,
+    "profit": 0,
+    "transactionTime": 1705251371386,
+    "buyersInfo": [
+      "Voltr"
+    ]
+  },
+  {
+    "sellerName": "pizza",
+    "lastBuyerName": "Prof Chaos",
+    "saleItem": {
+      "id": 12877,
+      "amount": 17
+    },
+    "price": 50000,
+    "timeListed": 1705341781787,
+    "amountSold": 1,
+    "profit": 50000,
+    "transactionTime": 1705400848067,
+    "buyersInfo": [
+      "Prof Chaos"
+    ]
+  },
+  {
+    "sellerName": "unreal",
+    "lastBuyerName": "Idiot",
+    "saleItem": {
+      "id": 2577,
+      "amount": 1
+    },
+    "price": 10000,
+    "timeListed": 1705303831188,
+    "amountSold": 1,
+    "profit": 0,
+    "transactionTime": 1705439531216,
+    "buyersInfo": [
+      "Idiot"
+    ]
+  },
+  {
+    "sellerName": "unreal",
+    "lastBuyerName": "Idiot",
+    "saleItem": {
+      "id": 21902,
+      "amount": 1
+    },
+    "price": 60000,
+    "timeListed": 1705303799387,
+    "amountSold": 1,
+    "profit": 60000,
+    "transactionTime": 1705440933419,
+    "buyersInfo": [
+      "Idiot"
+    ]
+  },
+  {
+    "sellerName": "unreal",
+    "lastBuyerName": "Blood Knight",
+    "saleItem": {
+      "id": 12877,
+      "amount": 1
+    },
+    "price": 50000,
+    "timeListed": 1705303773587,
+    "amountSold": 1,
+    "profit": 0,
+    "transactionTime": 1705556299216,
+    "buyersInfo": [
+      "Blood Knight"
+    ]
+  },
+  {
+    "sellerName": "unreal",
+    "lastBuyerName": "0RNG",
+    "saleItem": {
+      "id": 21816,
+      "amount": 5
+    },
+    "price": 10000,
+    "timeListed": 1705303975788,
+    "amountSold": 2,
+    "profit": 0,
+    "transactionTime": 1705576558812,
+    "buyersInfo": [
+      "Oldsnag76",
+      "0RNG"
+    ]
+  },
+  {
+    "sellerName": "pizza",
+    "lastBuyerName": "Zack",
+    "saleItem": {
+      "id": 12877,
+      "amount": 17
+    },
+    "price": 50000,
+    "timeListed": 1705341781787,
+    "amountSold": 2,
+    "profit": 100000,
+    "transactionTime": 1705622391607,
+    "buyersInfo": [
+      "Prof Chaos",
+      "Zack"
+    ]
+  },
+  {
+    "sellerName": "infernal",
+    "lastBuyerName": "2jz",
+    "saleItem": {
+      "id": 537,
+      "amount": 206
+    },
+    "price": 30,
+    "timeListed": 1705645613225,
+    "amountSold": 206,
+    "profit": 4680,
+    "transactionTime": 1705703998028,
+    "buyersInfo": [
+      "Niuka",
+      "2jz",
+      "2jz"
+    ]
+  },
+  {
+    "sellerName": "infernal",
+    "lastBuyerName": "2jz",
+    "saleItem": {
+      "id": 537,
+      "amount": 206
+    },
+    "price": 30,
+    "timeListed": 1705645613225,
+    "amountSold": 206,
+    "profit": 4680,
+    "transactionTime": 1705703998028,
+    "buyersInfo": [
+      "Niuka",
+      "2jz",
+      "2jz"
+    ]
+  },
+  {
+    "sellerName": "infernal",
+    "lastBuyerName": "Voltr",
+    "saleItem": {
+      "id": 537,
+      "amount": 30
+    },
+    "price": 20,
+    "timeListed": 1705798938005,
+    "amountSold": 30,
+    "profit": 0,
+    "transactionTime": 1705885227613,
+    "buyersInfo": [
+      "Killajeffa",
+      "Voltr"
+    ]
+  },
+  {
+    "sellerName": "mew",
+    "lastBuyerName": "Prophecy",
+    "saleItem": {
+      "id": 6585,
+      "amount": 9
+    },
+    "price": 8000,
+    "timeListed": 1707240665762,
+    "amountSold": 1,
+    "profit": 8000,
+    "transactionTime": 1711063868955,
+    "buyersInfo": [
+      "Prophecy"
+    ]
+  },
+  {
+    "sellerName": "oldsnag76",
+    "lastBuyerName": "Icydye",
+    "saleItem": {
+      "id": 1057,
+      "amount": 2
+    },
+    "price": 800000,
+    "timeListed": 1706550720747,
+    "amountSold": 2,
+    "profit": 800000,
+    "transactionTime": 1711110102662,
+    "buyersInfo": [
+      "Insomnia",
+      "Icydye"
+    ]
+  }
+]

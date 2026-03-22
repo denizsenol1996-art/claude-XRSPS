@@ -1,0 +1,12 @@
+npcId:
+- 15026
+petItem: FLUFFY_JR
+petRarity: 2500
+alwaysDrops: []
+drops:
+- item: FLUFFY_JR
+  minimumAmount: 1
+  maximumAmount: 1
+  chance: 2500
+  rareDrop: false
+  sendToBank: false

@@ -1,0 +1,72 @@
+npcId:
+- 2207
+petItem: "null"
+petRarity: 0
+alwaysDrops:
+- item: BONES
+  minimumAmount: 1
+  maximumAmount: 1
+  chance: 1
+  rareDrop: false
+  sendToBank: false
+drops:
+- item: STEEL_DART
+  minimumAmount: 95
+  maximumAmount: 100
+  chance: 1002
+  rareDrop: false
+  sendToBank: false
+- item: SARADOMIN_SWORD
+  minimumAmount: 1
+  maximumAmount: 1
+  chance: 2147483647
+  rareDrop: false
+  sendToBank: false
+- item: STEEL_ARROW
+  minimumAmount: 95
+  maximumAmount: 100
+  chance: 3
+  rareDrop: false
+  sendToBank: false
+- item: GODSWORD_SHARD_1
+  minimumAmount: 1
+  maximumAmount: 1
+  chance: 273
+  rareDrop: false
+  sendToBank: false
+- item: GODSWORD_SHARD_2
+  minimumAmount: 1
+  maximumAmount: 1
+  chance: 273
+  rareDrop: false
+  sendToBank: false
+- item: GODSWORD_SHARD_3
+  minimumAmount: 1
+  maximumAmount: 1
+  chance: 273
+  rareDrop: false
+  sendToBank: false
+- item: null
+  minimumAmount: 5
+  maximumAmount: 5
+  chance: 7
+  rareDrop: false
+  sendToBank: false
+- item: SUMMER_PIE
+  minimumAmount: 1
+  maximumAmount: 1
+  chance: 12
+  rareDrop: false
+  sendToBank: false
+- item: null
+  minimumAmount: 6
+  maximumAmount: 6
+  chance: 12
+  rareDrop: false
+  sendToBank: false
+- item: MONKFISH
+  minimumAmount: 3
+  maximumAmount: 3
+  chance: 25
+  rareDrop: false
+  sendToBank: false

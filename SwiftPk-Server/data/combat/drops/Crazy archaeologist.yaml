@@ -1,0 +1,48 @@
+npcId:
+- 6618
+petItem: "null"
+petRarity: 0
+alwaysDrops:
+- item: BONES
+  minimumAmount: 1
+  maximumAmount: 1
+  chance: 1
+  rareDrop: false
+  sendToBank: false
+- item: BLOOD_MONEY
+  minimumAmount: 100
+  maximumAmount: 250
+  chance: 1
+  rareDrop: false
+  sendToBank: false
+drops:
+- item: ODIUM_SHARD_2
+  minimumAmount: 1
+  maximumAmount: 1
+  chance: 144
+  rareDrop: false
+  sendToBank: false
+- item: MALEDICTION_SHARD_2
+  minimumAmount: 1
+  maximumAmount: 1
+  chance: 144
+  rareDrop: false
+  sendToBank: false
+- item: BLOOD_MONEY_CASKET
+  minimumAmount: 1
+  maximumAmount: 1
+  chance: 216
+  rareDrop: false
+  sendToBank: false
+- item: ARMOUR_MYSTERY_BOX
+  minimumAmount: 1
+  maximumAmount: 1
+  chance: 432
+  rareDrop: false
+  sendToBank: false
+- item: FEDORA
+  minimumAmount: 1
+  maximumAmount: 1
+  chance: 144
+  rareDrop: false
+  sendToBank: false

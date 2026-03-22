@@ -1,0 +1,12 @@
+npcId:
+- 15032
+petItem: CENTAUR_FEMALE
+petRarity: 2500
+alwaysDrops: []
+drops:
+- item: CENTAUR_FEMALE
+  minimumAmount: 1
+  maximumAmount: 1
+  chance: 2500
+  rareDrop: false
+  sendToBank: false

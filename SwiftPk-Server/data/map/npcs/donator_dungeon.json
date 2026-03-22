@@ -1,0 +1,465 @@
+[
+  {
+    "name": "revenant imp",
+    "id": 7881,
+    "x": 2335,
+    "y": 9804,
+    "z": 0,
+    "direction": "E",
+    "walkRange": 5
+  },
+  {
+    "name": "revenant pyrefiend",
+    "id": 7932,
+    "x": 2329,
+    "y": 9804,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 5
+  },
+  {
+    "name": "revenant imp",
+    "id": 7881,
+    "x": 2327,
+    "y": 9811,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 5
+  },
+  {
+    "name": "revenant dragon",
+    "id": 7940,
+    "x": 2337,
+    "y": 9810,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 5
+  },
+  {
+    "name": "revenant goblin",
+    "id": 7931,
+    "x": 2333,
+    "y": 9809,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 5
+  },
+  {
+    "name": "revenant dark beast",
+    "id": 7938,
+    "x": 2342,
+    "y": 9804,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 5
+  },
+  {
+    "name": "callisto",
+    "id": 6609,
+    "x": 2313,
+    "y": 9835,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 5
+  },
+  {
+    "name": "grizzly bear",
+    "id": 2838,
+    "x": 2314,
+    "y": 9828,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 5
+  },
+  {
+    "name": "grizzly bear",
+    "id": 2838,
+    "x": 2320,
+    "y": 9825,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 5
+  },
+  {
+    "name": "grizzly bear",
+    "id": 2838,
+    "x": 2324,
+    "y": 9828,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 5
+  },
+  {
+    "name": "grizzly bear",
+    "id": 2838,
+    "x": 2324,
+    "y": 9834,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 5
+  },
+  {
+    "name": "grizzly bear",
+    "id": 2838,
+    "x": 2321,
+    "y": 9840,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 5
+  },
+  {
+  },
+  {
+    /*"name": "deadly red spider",
+    "id": 3021,
+    "x": 2352,
+    "y": 9815,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 5
+  },
+  {
+    "name": "deadly red spider",
+    "id": 3021,
+    "x": 2357,
+    "y": 9813,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 5
+  },
+  {
+    "name": "deadly red spider",
+    "id": 3021,
+    "x": 2361,
+    "y": 9815,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 5
+  },
+  {
+    "name": "deadly red spider",
+    "id": 3021,
+    "x": 2350,
+    "y": 9822,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 5
+  },
+  {
+    "name": "deadly red spider",
+    "id": 3021,
+    "x": 2352,
+    "y": 9828,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 5
+  },
+  {
+    "name": "deadly red spider",
+    "id": 3021,
+    "x": 2358,
+    "y": 9831,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 5
+  },*/
+    //donet
+    "name": "mini donator boss",
+    "id": 13391,
+    "x": 2357,
+    "y": 9823,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 5
+  },
+  {
+    "name": "ancient revenant dragon",
+    "id": 16003,
+    "x": 2337,
+    "y": 9854,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 5,
+    "ancientSpawn": true
+  },
+  {
+    "name": "ancient revenant dragon",
+    "id": 16003,
+    "x": 2356,
+    "y": 9853,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 5,
+    "ancientSpawn": true
+  },
+  {
+    "name": "ancient revenant dark beast",
+    "id": 16000,
+    "x": 2350,
+    "y": 9846,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 5,
+    "ancientSpawn": true
+  },
+  {
+    "name": "ancient revenant dark beast",
+    "id": 16000,
+    "x": 2353,
+    "y": 9868,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 5,
+    "ancientSpawn": true
+  },
+  {
+    "name": "revenant demon",
+    "id": 7936,
+    "x": 2323,
+    "y": 9815,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 5
+  },
+  {
+    "name": "revenant hellhound",
+    "id": 7935,
+    "x": 2342,
+    "y": 9811,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 5
+  },
+  {
+    "name": "scorpia",
+    "id": 6615,
+    "x": 2331,
+    "y": 9827,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 5
+
+  },
+  {
+    "name": "Vet'ion",
+    "id": 6611,
+    "x": 2344,
+    "y": 9828,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 5
+  },
+  {
+    "name": "ancient revenant knight",
+    "id": 16004,
+    "x": 2332,
+    "y": 9848,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 5,
+    "ancientSpawn": true
+  },
+  {
+    "name": "ancient revenant knight",
+    "id": 16004,
+    "x": 2330,
+    "y": 9868,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 5,
+    "ancientSpawn": true
+  },
+  {
+    "name": "ancient revenant cyclops",
+    "id": 16002,
+    "x": 2344,
+    "y": 9858,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 5,
+    "ancientSpawn": true
+  },
+  {
+    "name": "ancient revenant cyclops",
+    "id": 16002,
+    "x": 2336,
+    "y": 9867,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 5,
+    "ancientSpawn": true
+  },
+  {
+    "name": "ancient revenant ork",
+    "id": 16001,
+    "x": 2345,
+    "y": 9848,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 5,
+    "ancientSpawn": true
+  },
+  {
+    "name": "ancient revenant ork",
+    "id": 16001,
+    "x": 2356,
+    "y": 9860,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 5,
+    "ancientSpawn": true
+  },
+  {
+    "name": "barrelchest",
+    "id": 6342,
+    "x": 2347,
+    "y": 9883,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 5,
+    "ancientSpawn": true
+
+  },
+  {
+    "name": "chaos elemental",
+    "id": 2054,
+    "x": 2350,
+    "y": 9899,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 5,
+    "ancientSpawn": true
+  },
+  {
+    "name": "ancient king black dragon",//dzone3
+    "id": 16006,
+    "x": 2893,
+    "y": 2759,
+    "z": 0,
+    "ancientSpawn": true
+  },
+  {
+    "name": "ancient king black dragon",//dzone3
+    "id": 16006,
+    //dzone3
+    "x": 2899,
+    "y": 2758,
+    "z": 0,
+    "ancientSpawn": true
+  },
+  {
+    "id": 8928,
+    //serenz
+    "x": 2892,
+    "y": 2778,
+    "z": 0,
+    "walkRange": 2
+  },
+  {
+    "id": 8928,
+    //serenz
+    "x": 2902,
+    "y": 2776,
+    "z": 0,
+    "walkRange": 2
+  },
+  {
+    "id": 6118,
+    //dzone3
+    "x": 2901,
+    "y": 2767,
+    "z": 0,
+    "walkRange": 2
+  },
+  {
+    "id": 6118,
+    //dzone3
+    "x": 2894,
+    "y": 2768,
+    "z": 0,
+    "walkRange": 2
+  },
+  {
+    "name": "ancient barrelchest",
+    //dzone3
+    "id": 16005,
+    "x": 2919,
+    "y": 2768,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 5,
+    "ancientSpawn": true
+  },
+  {
+    "name": "Barrelchest",
+    //dzone3
+    "id": 6342,
+    "x": 2914,
+    "y": 2777,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "Barrelchest",
+    //dzone3
+    "id": 6342,
+    "x": 2921,
+    "y": 2777,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 2
+  },
+  {
+    "name": "ancient barrelchest",
+    //dzone3
+    "id": 16005,
+    "x": 2915,
+    "y": 2768,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 5,
+    "ancientSpawn": true
+  },
+  {
+    "name": "ancient chaos elemental",//dzone3
+    "id": 16007,
+    "x": 2915,
+    "y": 2759,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 5,
+    "ancientSpawn": true
+  },
+  {
+    "name": "ancient chaos elemental",//dzone3
+    "id": 16007,
+    "x": 2921,
+    "y": 2759,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 5,
+    "ancientSpawn": true
+
+  },
+  {
+    "name": "venenatis",
+    "id": 6610,
+    "x": 2319,
+    "y": 9899,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 5,
+    "ancientSpawn": true
+  },
+  {
+    "name": "king black dragon",
+    "id": 239,
+    "x": 2312,
+    "y": 9871,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 5,
+    "ancientSpawn": true
+  }
+]

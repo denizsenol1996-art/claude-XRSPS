@@ -1,0 +1,79 @@
+npcId:
+- 6902
+- 6903
+petItem: "null"
+petRarity: 0
+alwaysDrops:
+- item: BONES
+  minimumAmount: 1
+  maximumAmount: 1
+  chance: 1
+  rareDrop: false
+  sendToBank: false
+drops:
+- item: BLACK_MED_HELM
+  minimumAmount: 1
+  maximumAmount: 1
+  chance: 17
+  rareDrop: false
+  sendToBank: false
+- item: BLACK_CHAINBODY
+  minimumAmount: 1
+  maximumAmount: 1
+  chance: 17
+  rareDrop: false
+  sendToBank: false
+- item: BLACK_PLATESKIRT
+  minimumAmount: 1
+  maximumAmount: 1
+  chance: 17
+  rareDrop: false
+  sendToBank: false
+- item: BLACK_SCIMITAR
+  minimumAmount: 1
+  maximumAmount: 1
+  chance: 17
+  rareDrop: false
+  sendToBank: false
+- item: RUNE_SCIMITAR
+  minimumAmount: 1
+  maximumAmount: 1
+  chance: 52
+  rareDrop: false
+  sendToBank: false
+- item: COSMIC_RUNE
+  minimumAmount: 30
+  maximumAmount: 60
+  chance: 4
+  rareDrop: false
+  sendToBank: false
+- item: GRIMY_CADANTINE
+  minimumAmount: 1
+  maximumAmount: 1
+  chance: 10
+  rareDrop: false
+  sendToBank: false
+- item: GRIMY_KWUARM
+  minimumAmount: 1
+  maximumAmount: 1
+  chance: 10
+  rareDrop: false
+  sendToBank: false
+- item: GRIMY_DWARF_WEED
+  minimumAmount: 1
+  maximumAmount: 1
+  chance: 32
+  rareDrop: false
+  sendToBank: false
+- item: GRIMY_RANARR_WEED
+  minimumAmount: 1
+  maximumAmount: 1
+  chance: 32
+  rareDrop: false
+  sendToBank: false
+- item: INTELLIGENCE
+  minimumAmount: 1
+  maximumAmount: 1
+  chance: 136
+  rareDrop: false
+  sendToBank: false

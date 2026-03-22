@@ -1,0 +1,51 @@
+[13 Jan 2024, 10:21:22 PM] [Hazy GameThread] Player Hero got 1 Blood money (id 13307),  from winning a duel against Eggo V2
+[13 Jan 2024, 10:21:22 PM] [Hazy GameThread] Player Hero already had  from winning a duel against Eggo V2
+[13 Jan 2024, 10:21:22 PM] [Hazy GameThread] Player Eggo V2 (lvl 126) and Hero (lvl 126) duel stake value difference of 1 BM
+[13 Jan 2024, 10:23:20 PM] [Hazy GameThread] Player Eggo V2 got  from winning a duel against Hero
+[13 Jan 2024, 10:23:20 PM] [Hazy GameThread] Player Eggo V2 already had  from winning a duel against Hero
+[13 Jan 2024, 10:23:20 PM] [Hazy GameThread] Player Hero (lvl 126) and Eggo V2 (lvl 126) duel stake value difference of 0 BM
+[14 Jan 2024, 12:59:04 AM] [Hazy GameThread] Player Eggo V2 got 25,000 Blood money (id 13307),  from winning a duel against Clown
+[14 Jan 2024, 12:59:04 AM] [Hazy GameThread] Player Eggo V2 already had 25,000 Blood money (id 13307),  from winning a duel against Clown
+[14 Jan 2024, 12:59:04 AM] [Hazy GameThread] Player Clown (lvl 119) and Eggo V2 (lvl 126) duel stake value difference of 0 BM
+[14 Jan 2024, 1:00:45 AM] [Hazy GameThread] Player Eggo V2 got 25,000 Blood money (id 13307),  from winning a duel against Clown
+[14 Jan 2024, 1:00:45 AM] [Hazy GameThread] Player Eggo V2 already had 25,000 Blood money (id 13307),  from winning a duel against Clown
+[14 Jan 2024, 1:00:45 AM] [Hazy GameThread] Player Clown (lvl 119) and Eggo V2 (lvl 126) duel stake value difference of 0 BM
+[14 Jan 2024, 1:02:17 AM] [Hazy GameThread] Player Eggo V2 got 35,000 Blood money (id 13307),  from winning a duel against Clown
+[14 Jan 2024, 1:02:17 AM] [Hazy GameThread] Player Eggo V2 already had 35,000 Blood money (id 13307),  from winning a duel against Clown
+[14 Jan 2024, 1:02:17 AM] [Hazy GameThread] Player Clown (lvl 119) and Eggo V2 (lvl 126) duel stake value difference of 0 BM
+[14 Jan 2024, 1:03:46 AM] [Hazy GameThread] Player Eggo V2 got 40,000 Blood money (id 13307),  from winning a duel against Clown
+[14 Jan 2024, 1:03:46 AM] [Hazy GameThread] Player Eggo V2 already had 40,000 Blood money (id 13307),  from winning a duel against Clown
+[14 Jan 2024, 1:03:46 AM] [Hazy GameThread] Player Clown (lvl 119) and Eggo V2 (lvl 126) duel stake value difference of 0 BM
+[14 Jan 2024, 1:07:28 AM] [Hazy GameThread] Player Eggo V2 got 40,000 Blood money (id 13307),  from winning a duel against Clown
+[14 Jan 2024, 1:07:28 AM] [Hazy GameThread] Player Eggo V2 already had 40,000 Blood money (id 13307),  from winning a duel against Clown
+[14 Jan 2024, 1:07:28 AM] [Hazy GameThread] Player Clown (lvl 119) and Eggo V2 (lvl 126) duel stake value difference of 0 BM
+[14 Jan 2024, 1:09:07 AM] [Hazy GameThread] Player Eggo V2 got 34,000 Blood money (id 13307),  from winning a duel against Clown
+[14 Jan 2024, 1:09:07 AM] [Hazy GameThread] Player Eggo V2 already had 34,000 Blood money (id 13307),  from winning a duel against Clown
+[14 Jan 2024, 1:09:07 AM] [Hazy GameThread] Player Clown (lvl 119) and Eggo V2 (lvl 126) duel stake value difference of 0 BM
+[25 Jan 2024, 4:59:06 PM] [Hazy GameThread] Player Eggo got 1 Yellow partyhat (id 1040),  from winning a duel against Noob
+[25 Jan 2024, 4:59:06 PM] [Hazy GameThread] Player Eggo already had 1 Lava partyhat (id 18335),  from winning a duel against Noob
+[25 Jan 2024, 4:59:06 PM] [Hazy GameThread] Player Noob (lvl 123) and Eggo (lvl 124) duel stake value difference of 15,000 BM
+[25 Jan 2024, 5:00:45 PM] [Hazy GameThread] Player Eggo got 1 Red halloween mask (id 1057),  from winning a duel against Noob
+[25 Jan 2024, 5:00:45 PM] [Hazy GameThread] Player Eggo already had 1 Yellow partyhat (id 1040),  from winning a duel against Noob
+[25 Jan 2024, 5:00:45 PM] [Hazy GameThread] Player Noob (lvl 123) and Eggo (lvl 124) duel stake value difference of 20,000 BM
+[25 Jan 2024, 5:01:59 PM] [Hazy GameThread] Player Eggo got 1 Green halloween mask (id 1053),  from winning a duel against Noob
+[25 Jan 2024, 5:01:59 PM] [Hazy GameThread] Player Eggo already had 1 Red halloween mask (id 1057),  from winning a duel against Noob
+[25 Jan 2024, 5:01:59 PM] [Hazy GameThread] Player Noob (lvl 123) and Eggo (lvl 124) duel stake value difference of 0 BM
+[25 Jan 2024, 5:04:05 PM] [Hazy GameThread] Player Eggo got 1 Zuriel's robe top (id 22653), 1 Zuriel's robe bottom (id 22656), 1 Vesta's plateskirt (id 22619), 1 Morrigan's coif (id 22638), 1 Primordial boots (id 13239),  from winning a duel against Noob
+[25 Jan 2024, 5:04:05 PM] [Hazy GameThread] Player Eggo already had 1 Green halloween mask (id 1053), 1 Red halloween mask (id 1057), 1 Yellow partyhat (id 1040), 1 Lava partyhat (id 18335),  from winning a duel against Noob
+[25 Jan 2024, 5:04:05 PM] [Hazy GameThread] Player Noob (lvl 123) and Eggo (lvl 124) duel stake value difference of 560,000 BM
+[25 Jan 2024, 5:06:00 PM] [Hazy GameThread] Player Noob got 1 Primordial boots (id 13239), 1 Morrigan's coif (id 22638), 1 Green halloween mask (id 1053), 1 Lava partyhat (id 18335), 1 Zuriel's robe top (id 22653), 1 Zuriel's robe bottom (id 22656), 1 Red halloween mask (id 1057), 1 Yellow partyhat (id 1040), 1 Vesta's plateskirt (id 22619),  from winning a duel against Eggo
+[25 Jan 2024, 5:06:00 PM] [Hazy GameThread] Player Noob already had 1 Kodai wand (id 21006), 1 Ancestral robe top (id 21021), 1 Justiciar legguards (id 22328), 1 Elder maul (id 21003),  from winning a duel against Eggo
+[25 Jan 2024, 5:06:00 PM] [Hazy GameThread] Player Eggo (lvl 124) and Noob (lvl 123) duel stake value difference of 420,000 BM
+[25 Jan 2024, 5:12:46 PM] [Hazy GameThread] Player Zack got 1 3rd age range legs (id 10332), 600,000 Blood money (id 13307), 1 Red halloween mask (id 1057),  from winning a duel against Noob
+[25 Jan 2024, 5:12:46 PM] [Hazy GameThread] Player Zack already had 1 3rd age wand (id 12422), 1 3rd age range coif (id 10334), 600,000 Blood money (id 13307),  from winning a duel against Noob
+[25 Jan 2024, 5:12:46 PM] [Hazy GameThread] Player Noob (lvl 123) and Zack (lvl 126) duel stake value difference of 60,000 BM
+[25 Jan 2024, 5:15:17 PM] [Hazy GameThread] Player Zack got 1 3rd age bow (id 12424), 1 Yellow partyhat (id 1040), 600,000 Blood money (id 13307), 1 Green halloween mask (id 1053),  from winning a duel against Noob
+[25 Jan 2024, 5:15:17 PM] [Hazy GameThread] Player Zack already had 1 Red halloween mask (id 1057), 1 3rd age wand (id 12422), 600,000 Blood money (id 13307), 1 3rd age range legs (id 10332),  from winning a duel against Noob
+[25 Jan 2024, 5:15:17 PM] [Hazy GameThread] Player Noob (lvl 123) and Zack (lvl 126) duel stake value difference of 28,000 BM
+[25 Jan 2024, 5:17:28 PM] [Hazy GameThread] Player Zack got 399,039 Blood money (id 13307), 1 Lava partyhat (id 18335), 1 Ancestral robe top (id 21021), 1 Kodai wand (id 21006), 1 Zuriel's robe bottom (id 22656), 1 Zuriel's robe top (id 22653),  from winning a duel against Noob
+[25 Jan 2024, 5:17:28 PM] [Hazy GameThread] Player Zack already had 399,000 Blood money (id 13307), 1 Yellow partyhat (id 1040), 1 Green halloween mask (id 1053), 1 3rd age wand (id 12422), 1 3rd age range coif (id 10334), 1 3rd age bow (id 12424),  from winning a duel against Noob
+[25 Jan 2024, 5:17:28 PM] [Hazy GameThread] Player Noob (lvl 123) and Zack (lvl 126) duel stake value difference of 363,039 BM
+[25 Jan 2024, 5:19:44 PM] [Hazy GameThread] Player Zack got 1 Morrigan's coif (id 22638), 1 Vesta's plateskirt (id 22619), 1 Morrigan's leather chaps (id 22644), 1 Justiciar legguards (id 22328), 1 Amulet of fury (or) (id 12436), 1 Magma helm (id 13199), 1 Elder maul (id 21003), 1 Primordial boots (id 13239), 1 Bandos chestplate (id 11832), 1 Bandos tassets (id 11834),  from winning a duel against Noob
+[25 Jan 2024, 5:19:44 PM] [Hazy GameThread] Player Zack already had 1 Zuriel's robe top (id 22653), 1 Zuriel's robe bottom (id 22656), 1 Kodai wand (id 21006), 1 Green halloween mask (id 1053), 1 3rd age bow (id 12424), 300,000 Blood money (id 13307), 1 Ancestral robe top (id 21021),  from winning a duel against Noob
+[25 Jan 2024, 5:19:44 PM] [Hazy GameThread] Player Noob (lvl 123) and Zack (lvl 126) duel stake value difference of 258,000 BM

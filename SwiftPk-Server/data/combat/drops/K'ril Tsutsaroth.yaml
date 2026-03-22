@@ -1,0 +1,61 @@
+npcId:
+- 3129
+- 6495
+petItem: PET_KRIL_TSUTSAROTH
+petRarity: 1000
+alwaysDrops:
+- item: BLOOD_MONEY
+  minimumAmount: 150
+  maximumAmount: 300
+  chance: 1
+  rareDrop: false
+  sendToBank: false
+drops:
+- item: PET_KRIL_TSUTSAROTH
+  minimumAmount: 1
+  maximumAmount: 1
+  chance: 1000
+  rareDrop: false
+  sendToBank: false
+- item: BLOOD_MONEY
+  minimumAmount: 150
+  maximumAmount: 300
+  chance: 6
+  rareDrop: false
+  sendToBank: false
+- item: ZAMORAKIAN_SPEAR
+  minimumAmount: 1
+  maximumAmount: 1
+  chance: 77
+  rareDrop: false
+  sendToBank: false
+- item: ZAMORAK_GODSWORD
+  minimumAmount: 1
+  maximumAmount: 1
+  chance: 129
+  rareDrop: false
+  sendToBank: false
+- item: STAFF_OF_THE_DEAD
+  minimumAmount: 1
+  maximumAmount: 1
+  chance: 129
+  rareDrop: false
+  sendToBank: false
+- item: WEAPON_MYSTERY_BOX
+  minimumAmount: 1
+  maximumAmount: 1
+  chance: 193
+  rareDrop: false
+  sendToBank: false
+- item: ARMOUR_MYSTERY_BOX
+  minimumAmount: 1
+  maximumAmount: 1
+  chance: 193
+  rareDrop: false
+  sendToBank: false
+- item: LEGENDARY_MYSTERY_BOX
+  minimumAmount: 1
+  maximumAmount: 1
+  chance: 775
+  rareDrop: false
+  sendToBank: false

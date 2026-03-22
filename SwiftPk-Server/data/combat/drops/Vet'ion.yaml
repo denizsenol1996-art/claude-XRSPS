@@ -1,0 +1,79 @@
+npcId:
+- 6611
+- 6612
+petItem: VETION_JR
+petRarity: 1000
+alwaysDrops:
+- item: BLOOD_MONEY
+  minimumAmount: 350
+  maximumAmount: 500
+  chance: 1
+  rareDrop: false
+  sendToBank: false
+drops:
+- item: VETION_JR
+  minimumAmount: 1
+  maximumAmount: 1
+  chance: 1000
+  rareDrop: false
+  sendToBank: false
+- item: BLOOD_MONEY
+  minimumAmount: 250
+  maximumAmount: 400
+  chance: 36
+  rareDrop: false
+  sendToBank: false
+- item: DRAGON_BOOTS
+  minimumAmount: 1
+  maximumAmount: 1
+  chance: 41
+  rareDrop: false
+  sendToBank: false
+- item: DRAGON_PICKAXE
+  minimumAmount: 1
+  maximumAmount: 1
+  chance: 97
+  rareDrop: false
+  sendToBank: false
+- item: RING_OF_THE_GODS
+  minimumAmount: 1
+  maximumAmount: 1
+  chance: 112
+  rareDrop: false
+  sendToBank: false
+- item: BLOOD_MONEY_CASKET
+  minimumAmount: 1
+  maximumAmount: 1
+  chance: 121
+  rareDrop: false
+  sendToBank: false
+- item: ARMOUR_MYSTERY_BOX
+  minimumAmount: 1
+  maximumAmount: 1
+  chance: 132
+  rareDrop: false
+  sendToBank: false
+- item: WEAPON_MYSTERY_BOX
+  minimumAmount: 1
+  maximumAmount: 1
+  chance: 132
+  rareDrop: false
+  sendToBank: false
+- item: DONATOR_MYSTERY_BOX
+  minimumAmount: 1
+  maximumAmount: 1
+  chance: 132
+  rareDrop: false
+  sendToBank: false
+- item: NEITIZNOT_FACEGUARD
+  minimumAmount: 1
+  maximumAmount: 1
+  chance: 485
+  rareDrop: false
+  sendToBank: false
+- item: KEY_OF_BOXES
+  minimumAmount: 1
+  maximumAmount: 1
+  chance: 729
+  rareDrop: false
+  sendToBank: false

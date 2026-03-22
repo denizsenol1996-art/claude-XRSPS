@@ -1,0 +1,42 @@
+npcId:
+- 6607
+petItem: "null"
+petRarity: 0
+alwaysDrops:
+- item: BONES
+  minimumAmount: 1
+  maximumAmount: 1
+  chance: 1
+  rareDrop: false
+  sendToBank: false
+drops:
+- item: ZAMORAK_MONK_TOP
+  minimumAmount: 1
+  maximumAmount: 1
+  chance: 41
+  rareDrop: false
+  sendToBank: false
+- item: ZAMORAK_MONK_BOTTOM
+  minimumAmount: 1
+  maximumAmount: 1
+  chance: 41
+  rareDrop: false
+  sendToBank: false
+- item: ELDER_CHAOS_HOOD
+  minimumAmount: 1
+  maximumAmount: 1
+  chance: 125
+  rareDrop: false
+  sendToBank: false
+- item: ELDER_CHAOS_TOP
+  minimumAmount: 1
+  maximumAmount: 1
+  chance: 125
+  rareDrop: false
+  sendToBank: false
+- item: ELDER_CHAOS_ROBE
+  minimumAmount: 1
+  maximumAmount: 1
+  chance: 125
+  rareDrop: false
+  sendToBank: false

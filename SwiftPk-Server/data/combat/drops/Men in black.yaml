@@ -1,0 +1,12 @@
+npcId:
+- 7632
+petItem: SKELETON_HELLHOUND_PET
+petRarity: 2000
+alwaysDrops: []
+drops:
+- item: SKELETON_HELLHOUND_PET
+  minimumAmount: 1
+  maximumAmount: 1
+  chance: 2000
+  rareDrop: false
+  sendToBank: false

@@ -1,0 +1,310 @@
+[22 Dec 2023, 10:27:58 AM] [Hazy GameThread] Hero listed: ItemName=Abyssal tentacle ItemAmount=1 Price=100k
+[22 Dec 2023, 10:28:56 AM] [Hazy GameThread] Hero successfully canceled the offer for: Abyssal tentacle
+[26 Dec 2023, 12:35:26 PM] [Hazy GameThread] Alfie listed: ItemName=Revenant ether ItemAmount=35 Price=1k
+[26 Dec 2023, 12:59:20 PM] [Hazy GameThread] Alfie successfully canceled the offer for: Revenant ether
+[13 Jan 2024, 5:31:20 PM] [Hazy GameThread] Clown listed: ItemName=Amulet of fury ItemAmount=5 Price=8k
+[13 Jan 2024, 7:45:08 PM] [Hazy GameThread] Clown successfully canceled the offer for: Amulet of fury
+[14 Jan 2024, 12:43:30 AM] [Hazy GameThread] Voltr listed: ItemName=Dragon crossbow ItemAmount=1 Price=35k
+[14 Jan 2024, 4:34:38 AM] [Hazy GameThread] Clown listed: ItemName=Armadyl godsword ItemAmount=1 Price=200k
+[14 Jan 2024, 8:16:25 AM] [Hazy GameThread] 0RNG listed: ItemName=Infernal cape ItemAmount=1 Price=6660m
+[14 Jan 2024, 8:16:44 AM] [Hazy GameThread] 0RNG successfully canceled the offer for: Infernal cape
+[14 Jan 2024, 11:05:38 AM] [Hazy GameThread] Mydkisfurry listed: ItemName=Enchanted Key (r) ItemAmount=1 Price=20k
+[14 Jan 2024, 11:56:11 AM] [Hazy GameThread] Voltr bought: ItemName=Enchanted Key (r) ItemAmount=1 Price=20k
+[14 Jan 2024, 11:56:29 AM] [Hazy GameThread] Mydkisfurry offer claimed for: Enchanted Key (r) Received=20000 blood money
+[14 Jan 2024, 4:04:31 PM] [Hazy GameThread] GODLIKE listed: ItemName=Dragonfire shield ItemAmount=1 Price=5555m
+[14 Jan 2024, 4:06:14 PM] [Hazy GameThread] GODLIKE successfully canceled the offer for: Dragonfire shield
+[14 Jan 2024, 4:06:40 PM] [Hazy GameThread] GODLIKE listed: ItemName=Dragonfire shield ItemAmount=1 Price=5555m
+[14 Jan 2024, 4:08:02 PM] [Hazy GameThread] GODLIKE successfully canceled the offer for: Dragonfire shield
+[14 Jan 2024, 7:01:52 PM] [Hazy GameThread] Clown successfully canceled the offer for: Armadyl godsword
+[14 Jan 2024, 9:32:13 PM] [Hazy GameThread] Voltr successfully canceled the offer for: Dragon crossbow
+[15 Jan 2024, 12:12:08 AM] [Hazy GameThread] Tweetmykills listed: ItemName=Bracelet of ethereum ItemAmount=1 Price=50k
+[15 Jan 2024, 12:34:44 AM] [Hazy GameThread] Tweetmykills successfully canceled the offer for: Bracelet of ethereum
+[15 Jan 2024, 12:35:08 AM] [Hazy GameThread] Tweetmykills listed: ItemName=Bracelet of ethereum ItemAmount=6 Price=30k
+[15 Jan 2024, 2:29:33 AM] [Hazy GameThread] Unreal listed: ItemName=Dharok's armour set ItemAmount=1 Price=50k
+[15 Jan 2024, 2:29:45 AM] [Hazy GameThread] Unreal listed: ItemName=Dark bow ItemAmount=5 Price=2.5k
+[15 Jan 2024, 2:29:59 AM] [Hazy GameThread] Unreal listed: ItemName=Dragon crossbow ItemAmount=1 Price=60k
+[15 Jan 2024, 2:30:08 AM] [Hazy GameThread] Unreal listed: ItemName=Infinity boots ItemAmount=1 Price=10k
+[15 Jan 2024, 2:30:23 AM] [Hazy GameThread] Unreal listed: ItemName=Granite maul ItemAmount=4 Price=5k
+[15 Jan 2024, 2:30:31 AM] [Hazy GameThread] Unreal listed: ItemName=Ranger boots ItemAmount=1 Price=10k
+[15 Jan 2024, 2:31:25 AM] [Hazy GameThread] Unreal listed: ItemName=Dragon boots ItemAmount=5 Price=8k
+[15 Jan 2024, 2:32:09 AM] [Hazy GameThread] Unreal listed: ItemName=Ahrim's armour set ItemAmount=1 Price=50k
+[15 Jan 2024, 2:32:55 AM] [Hazy GameThread] Unreal listed: ItemName=Bracelet of ethereum ItemAmount=5 Price=10k
+[15 Jan 2024, 1:01:06 PM] [Hazy GameThread] PIZZA listed: ItemName=Niffler pet ItemAmount=1 Price=200m
+[15 Jan 2024, 1:01:34 PM] [Hazy GameThread] PIZZA listed: ItemName=Craw's bow ItemAmount=1 Price=25m
+[15 Jan 2024, 1:02:50 PM] [Hazy GameThread] PIZZA listed: ItemName=Guthan's armour set ItemAmount=2 Price=5k
+[15 Jan 2024, 1:03:01 PM] [Hazy GameThread] PIZZA listed: ItemName=Dharok's armour set ItemAmount=17 Price=50k
+[15 Jan 2024, 1:03:09 PM] [Hazy GameThread] PIZZA listed: ItemName=Verac's armour set ItemAmount=2 Price=5k
+[15 Jan 2024, 1:03:22 PM] [Hazy GameThread] PIZZA listed: ItemName=Torag's armour set ItemAmount=1 Price=5k
+[15 Jan 2024, 1:03:56 PM] [Hazy GameThread] PIZZA listed: ItemName=Key of boxes ItemAmount=1 Price=5m
+[15 Jan 2024, 1:04:09 PM] [Hazy GameThread] PIZZA listed: ItemName=Occult necklace ItemAmount=10 Price=250k
+[15 Jan 2024, 1:05:07 PM] [Hazy GameThread] PIZZA listed: ItemName=Morrigan's leather body ItemAmount=1 Price=5m
+[15 Jan 2024, 1:05:15 PM] [Hazy GameThread] PIZZA successfully canceled the offer for: Niffler pet
+[15 Jan 2024, 1:05:24 PM] [Hazy GameThread] PIZZA listed: ItemName=Niffler pet ItemAmount=1 Price=100m
+[15 Jan 2024, 3:41:09 PM] [Hazy GameThread] Zack bought: ItemName=Ahrim's armour set ItemAmount=1 Price=50k
+[15 Jan 2024, 7:01:51 PM] [Hazy GameThread] Oldsnag76 listed: ItemName=Santa hat ItemAmount=1 Price=10m
+[15 Jan 2024, 8:03:47 PM] [Hazy GameThread] Oldsnag76 listed: ItemName=Bandos chestplate ItemAmount=1 Price=5m
+[15 Jan 2024, 8:04:03 PM] [Hazy GameThread] Oldsnag76 listed: ItemName=Gilded d'hide vambraces ItemAmount=1 Price=1m
+[15 Jan 2024, 9:26:50 PM] [Hazy GameThread] Gloves bought: ItemName=Ahrim's armour set ItemAmount=1 Price=50k
+[15 Jan 2024, 10:54:51 PM] [Hazy GameThread] Tweetmykills listed: ItemName=Primordial boots ItemAmount=1 Price=25m
+[15 Jan 2024, 10:55:45 PM] [Hazy GameThread] Tweetmykills successfully canceled the offer for: Primordial boots
+[15 Jan 2024, 11:04:22 PM] [Hazy GameThread] Tweetmykills listed: ItemName=Heavy ballista ItemAmount=1 Price=750k
+[15 Jan 2024, 11:04:44 PM] [Hazy GameThread] Tweetmykills successfully canceled the offer for: Heavy ballista
+[15 Jan 2024, 11:18:31 PM] [Hazy GameThread] Tweetmykills listed: ItemName=Armadyl chainskirt ItemAmount=1 Price=5m
+[16 Jan 2024, 12:32:49 AM] [Hazy GameThread] Oldsnag76 successfully canceled the offer for: Santa hat
+[16 Jan 2024, 2:35:11 AM] [Hazy GameThread] Kodi listed: ItemName=Thammaron's sceptre ItemAmount=1 Price=20m
+[16 Jan 2024, 4:49:06 AM] [Hazy GameThread] Oldsnag76 successfully canceled the offer for: Bandos chestplate
+[16 Jan 2024, 4:49:10 AM] [Hazy GameThread] Oldsnag76 successfully canceled the offer for: Gilded d'hide vambraces
+[16 Jan 2024, 5:27:28 AM] [Hazy GameThread] Prof Chaos bought: ItemName=Dharok's armour set ItemAmount=1 Price=50k
+[16 Jan 2024, 6:52:48 AM] [Hazy GameThread] Oldsnag76 bought: ItemName=Bracelet of ethereum ItemAmount=1 Price=10k
+[16 Jan 2024, 12:00:37 PM] [Hazy GameThread] Tweetmykills successfully canceled the offer for: Armadyl chainskirt
+[16 Jan 2024, 12:00:44 PM] [Hazy GameThread] Tweetmykills listed: ItemName=Armadyl chainskirt ItemAmount=1 Price=500k
+[16 Jan 2024, 3:19:31 PM] [Hazy GameThread] Unreal offer claimed for: Ahrim's armour set Received=50000 blood money
+[16 Jan 2024, 3:19:38 PM] [Hazy GameThread] Unreal offer claimed for: Bracelet of ethereum Received=10000 blood money
+[16 Jan 2024, 4:12:11 PM] [Hazy GameThread] Idiot bought: ItemName=Ranger boots ItemAmount=1 Price=10k
+[16 Jan 2024, 4:16:32 PM] [Hazy GameThread] Unreal offer claimed for: Ranger boots Received=10000 blood money
+[16 Jan 2024, 4:35:33 PM] [Hazy GameThread] Idiot bought: ItemName=Dragon crossbow ItemAmount=1 Price=60k
+[16 Jan 2024, 5:04:47 PM] [Hazy GameThread] Poil635 listed: ItemName=Gilded 2h sword ItemAmount=1 Price=20m
+[16 Jan 2024, 5:05:20 PM] [Hazy GameThread] Poil635 listed: ItemName=Gilded d'hide body ItemAmount=1 Price=20m
+[16 Jan 2024, 6:43:04 PM] [Hazy GameThread] Tweetmykills listed: ItemName=Key of boxes ItemAmount=1 Price=1.5m
+[16 Jan 2024, 7:28:06 PM] [Hazy GameThread] Mentor listed: ItemName=Granite maul ItemAmount=1 Price=5k
+[16 Jan 2024, 7:28:20 PM] [Hazy GameThread] Mentor listed: ItemName=Granite longsword ItemAmount=3 Price=1k
+[16 Jan 2024, 7:34:23 PM] [Hazy GameThread] Mentor listed: ItemName=Dragon crossbow ItemAmount=1 Price=60k
+[16 Jan 2024, 7:34:29 PM] [Hazy GameThread] Mentor listed: ItemName=Ranger boots ItemAmount=2 Price=10k
+[16 Jan 2024, 7:34:59 PM] [Hazy GameThread] Mentor listed: ItemName=Robin hood hat ItemAmount=2 Price=10k
+[16 Jan 2024, 7:38:26 PM] [Hazy GameThread] Mentor listed: ItemName=Dragonfire shield ItemAmount=1 Price=40k
+[16 Jan 2024, 7:38:50 PM] [Hazy GameThread] Mentor listed: ItemName=Odium ward ItemAmount=2 Price=40k
+[16 Jan 2024, 7:42:42 PM] [Hazy GameThread] Mentor listed: ItemName=Dark bow ItemAmount=5 Price=2k
+[16 Jan 2024, 7:43:50 PM] [Hazy GameThread] Tweetmykills successfully canceled the offer for: Key of boxes
+[17 Jan 2024, 10:27:08 AM] [Hazy GameThread] 0RNG listed: ItemName=Ranger boots ItemAmount=1 Price=10k
+[17 Jan 2024, 10:28:00 AM] [Hazy GameThread] 0RNG listed: ItemName=Dark bow ItemAmount=2 Price=10k
+[17 Jan 2024, 10:29:00 AM] [Hazy GameThread] 0RNG listed: ItemName=Malediction ward ItemAmount=1 Price=30k
+[17 Jan 2024, 10:29:21 AM] [Hazy GameThread] 0RNG listed: ItemName=Granite maul ItemAmount=1 Price=3k
+[17 Jan 2024, 10:34:34 AM] [Hazy GameThread] 0RNG successfully canceled the offer for: Granite maul
+[17 Jan 2024, 10:34:38 AM] [Hazy GameThread] 0RNG successfully canceled the offer for: Malediction ward
+[17 Jan 2024, 10:34:40 AM] [Hazy GameThread] 0RNG successfully canceled the offer for: Dark bow
+[17 Jan 2024, 10:34:43 AM] [Hazy GameThread] 0RNG successfully canceled the offer for: Ranger boots
+[17 Jan 2024, 1:33:53 PM] [Hazy GameThread] Mentor successfully canceled the offer for: Granite maul
+[17 Jan 2024, 1:33:56 PM] [Hazy GameThread] Mentor successfully canceled the offer for: Granite longsword
+[17 Jan 2024, 1:33:59 PM] [Hazy GameThread] Mentor successfully canceled the offer for: Dragon crossbow
+[17 Jan 2024, 1:34:01 PM] [Hazy GameThread] Mentor successfully canceled the offer for: Ranger boots
+[17 Jan 2024, 1:34:04 PM] [Hazy GameThread] Mentor successfully canceled the offer for: Robin hood hat
+[17 Jan 2024, 1:34:06 PM] [Hazy GameThread] Mentor successfully canceled the offer for: Dragonfire shield
+[17 Jan 2024, 1:34:09 PM] [Hazy GameThread] Mentor successfully canceled the offer for: Odium ward
+[17 Jan 2024, 1:34:11 PM] [Hazy GameThread] Mentor successfully canceled the offer for: Dark bow
+[17 Jan 2024, 1:56:04 PM] [Hazy GameThread] 0RNG listed: ItemName=Zuriel's hood ItemAmount=1 Price=120k
+[17 Jan 2024, 1:56:10 PM] [Hazy GameThread] 0RNG successfully canceled the offer for: Zuriel's hood
+[17 Jan 2024, 3:38:13 PM] [Hazy GameThread] Thomas Egan listed: ItemName=Key of boxes ItemAmount=1 Price=3.5m
+[17 Jan 2024, 10:21:42 PM] [Hazy GameThread] Mentor listed: ItemName=Gilded 2h sword ItemAmount=1 Price=20m
+[17 Jan 2024, 10:41:55 PM] [Hazy GameThread] Poil635 successfully canceled the offer for: Gilded 2h sword
+[17 Jan 2024, 10:47:39 PM] [Hazy GameThread] KAZZ listed: ItemName=Infinity top ItemAmount=1 Price=15m
+[18 Jan 2024, 12:38:19 AM] [Hazy GameThread] Blood Knight bought: ItemName=Dharok's armour set ItemAmount=1 Price=50k
+[18 Jan 2024, 1:11:30 AM] [Hazy GameThread] 0RNG listed: ItemName=null ItemAmount=1 Price=100k
+[18 Jan 2024, 1:11:50 AM] [Hazy GameThread] 0RNG listed: ItemName=null ItemAmount=1 Price=15m
+[18 Jan 2024, 1:12:03 AM] [Hazy GameThread] 0RNG successfully canceled the offer for: Harmonised orb
+[18 Jan 2024, 1:12:15 AM] [Hazy GameThread] 0RNG listed: ItemName=null ItemAmount=1 Price=1m
+[18 Jan 2024, 1:12:25 AM] [Hazy GameThread] 0RNG listed: ItemName=null ItemAmount=1 Price=500k
+[18 Jan 2024, 2:56:46 AM] [Hazy GameThread] 0RNG successfully canceled the offer for: Elder maul
+[18 Jan 2024, 4:04:53 AM] [Hazy GameThread] 0RNG listed: ItemName=null ItemAmount=1 Price=80k
+[18 Jan 2024, 6:05:43 AM] [Hazy GameThread] 0RNG successfully canceled the offer for: Dharok's armour set
+[18 Jan 2024, 6:05:49 AM] [Hazy GameThread] 0RNG successfully canceled the offer for: 3rd age longsword
+[18 Jan 2024, 6:15:58 AM] [Hazy GameThread] 0RNG bought: ItemName=Bracelet of ethereum ItemAmount=1 Price=10k
+[18 Jan 2024, 8:30:38 AM] [Hazy GameThread] 0RNG successfully canceled the offer for: Harmonised orb
+[18 Jan 2024, 3:36:57 PM] [Hazy GameThread] 0RNG listed: ItemName=Abyssal tentacle ItemAmount=1 Price=10m
+[18 Jan 2024, 3:37:15 PM] [Hazy GameThread] 0RNG listed: ItemName=Bracelet of ethereum ItemAmount=1 Price=20k
+[18 Jan 2024, 3:37:44 PM] [Hazy GameThread] 0RNG successfully canceled the offer for: Bracelet of ethereum
+[18 Jan 2024, 3:37:58 PM] [Hazy GameThread] 0RNG listed: ItemName=Bracelet of ethereum ItemAmount=3 Price=20k
+[18 Jan 2024, 3:50:09 PM] [Hazy GameThread] Unreal offer claimed for: Dragon crossbow Received=60000 blood money
+[18 Jan 2024, 3:50:12 PM] [Hazy GameThread] Unreal offer claimed for: Dharok's armour set Received=50000 blood money
+[18 Jan 2024, 3:50:22 PM] [Hazy GameThread] Unreal offer claimed for: Bracelet of ethereum Received=10000 blood money
+[18 Jan 2024, 4:02:28 PM] [Hazy GameThread] 0RNG successfully canceled the offer for: Abyssal tentacle
+[18 Jan 2024, 4:02:40 PM] [Hazy GameThread] 0RNG listed: ItemName=Abyssal tentacle ItemAmount=1 Price=10k
+[18 Jan 2024, 4:02:50 PM] [Hazy GameThread] 0RNG listed: ItemName=Dharok's armour set ItemAmount=1 Price=50k
+[18 Jan 2024, 5:04:43 PM] [Hazy GameThread] 0RNG listed: ItemName=Imbued heart ItemAmount=1 Price=120k
+[18 Jan 2024, 6:59:51 PM] [Hazy GameThread] Zack bought: ItemName=Dharok's armour set ItemAmount=1 Price=50k
+[18 Jan 2024, 8:04:25 PM] [Hazy GameThread] 0RNG successfully canceled the offer for: Abyssal tentacle
+[18 Jan 2024, 8:04:45 PM] [Hazy GameThread] 0RNG successfully canceled the offer for: Dharok's armour set
+[19 Jan 2024, 1:26:53 AM] [Hazy GameThread] Infernal listed: ItemName=null ItemAmount=206 Price=30
+[19 Jan 2024, 2:56:36 AM] [Hazy GameThread] Niuka bought: ItemName=Dragon bones ItemAmount=50 Price=1.5k
+[19 Jan 2024, 3:27:23 AM] [Hazy GameThread] Infernal offer claimed for: Dragon bones Received=1500 blood money
+[19 Jan 2024, 5:30:43 AM] [Hazy GameThread] Prof Chaos listed: ItemName=Craw's bow ItemAmount=1 Price=20m
+[19 Jan 2024, 7:41:31 AM] [Hazy GameThread] Thomas Egan successfully canceled the offer for: Key of boxes
+[19 Jan 2024, 5:39:47 PM] [Hazy GameThread] 2jz bought: ItemName=Dragon bones ItemAmount=20 Price=600
+[19 Jan 2024, 5:39:58 PM] [Hazy GameThread] 2jz bought: ItemName=Dragon bones ItemAmount=136 Price=4k
+[20 Jan 2024, 2:00:05 AM] [Hazy GameThread] Prof Chaos successfully canceled the offer for: Craw's bow
+[20 Jan 2024, 9:12:21 AM] [Hazy GameThread] PIZZA successfully canceled the offer for: Craw's bow
+[20 Jan 2024, 9:12:25 AM] [Hazy GameThread] PIZZA successfully canceled the offer for: Guthan's armour set
+[20 Jan 2024, 9:12:27 AM] [Hazy GameThread] PIZZA successfully canceled the offer for: Dharok's armour set
+[20 Jan 2024, 9:12:27 AM] [Hazy GameThread] PIZZA After canceling the offer there was already some unclaimed profits for: Dharok's armour set Received: 100000 blood money!
+[20 Jan 2024, 9:12:27 AM] [Hazy GameThread] PIZZA successfully canceled the offer for: Verac's armour set
+[20 Jan 2024, 9:12:28 AM] [Hazy GameThread] PIZZA successfully canceled the offer for: Torag's armour set
+[20 Jan 2024, 9:12:28 AM] [Hazy GameThread] PIZZA successfully canceled the offer for: Key of boxes
+[20 Jan 2024, 9:12:29 AM] [Hazy GameThread] PIZZA successfully canceled the offer for: Occult necklace
+[20 Jan 2024, 9:12:29 AM] [Hazy GameThread] PIZZA successfully canceled the offer for: Morrigan's leather body
+[20 Jan 2024, 9:12:30 AM] [Hazy GameThread] PIZZA successfully canceled the offer for: Niffler pet
+[20 Jan 2024, 9:20:42 AM] [Hazy GameThread] Unreal bought: ItemName=Imbued heart ItemAmount=1 Price=120k
+[20 Jan 2024, 1:55:48 PM] [Hazy GameThread] Kodi listed: ItemName=Arcane prayer scroll ItemAmount=1 Price=5m
+[20 Jan 2024, 2:23:11 PM] [Hazy GameThread] Kodi successfully canceled the offer for: Arcane prayer scroll
+[20 Jan 2024, 4:35:31 PM] [Hazy GameThread] Infernal offer claimed for: Dragon bones Received=4680 blood money
+[20 Jan 2024, 7:05:55 PM] [Hazy GameThread] Infernal listed: ItemName=null ItemAmount=1 Price=30
+[20 Jan 2024, 7:06:04 PM] [Hazy GameThread] Infernal successfully canceled the offer for: Dragon bones
+[20 Jan 2024, 7:06:12 PM] [Hazy GameThread] Infernal listed: ItemName=null ItemAmount=30 Price=30
+[20 Jan 2024, 7:06:19 PM] [Hazy GameThread] Infernal listed: ItemName=null ItemAmount=39 Price=30
+[20 Jan 2024, 7:06:28 PM] [Hazy GameThread] Infernal listed: ItemName=null ItemAmount=20 Price=30
+[20 Jan 2024, 8:02:03 PM] [Hazy GameThread] Infernal successfully canceled the offer for: Dragon bones
+[20 Jan 2024, 8:02:06 PM] [Hazy GameThread] Infernal successfully canceled the offer for: Wyrm bones
+[20 Jan 2024, 8:02:11 PM] [Hazy GameThread] Infernal successfully canceled the offer for: Dagannoth bones
+[20 Jan 2024, 8:02:18 PM] [Hazy GameThread] Infernal listed: ItemName=null ItemAmount=30 Price=20
+[20 Jan 2024, 8:02:24 PM] [Hazy GameThread] Infernal listed: ItemName=null ItemAmount=20 Price=20
+[20 Jan 2024, 8:02:29 PM] [Hazy GameThread] Infernal listed: ItemName=null ItemAmount=39 Price=20
+[21 Jan 2024, 7:16:22 AM] [Hazy GameThread] Cloudy listed: ItemName=Thammaron's sceptre ItemAmount=1 Price=12m
+[21 Jan 2024, 7:50:54 AM] [Hazy GameThread] Cloudy listed: ItemName=Abyssal tentacle ItemAmount=1 Price=3k
+[21 Jan 2024, 11:14:56 AM] [Hazy GameThread] Killajeffa bought: ItemName=Dragon bones ItemAmount=20 Price=400
+[21 Jan 2024, 5:30:37 PM] [Hazy GameThread] Infernal offer claimed for: Dragon bones Received=400 blood money
+[21 Jan 2024, 8:00:27 PM] [Hazy GameThread] Voltr bought: ItemName=Dragon bones ItemAmount=10 Price=200
+[21 Jan 2024, 8:01:15 PM] [Hazy GameThread] Voltr bought: ItemName=Dagannoth bones ItemAmount=20 Price=400
+[21 Jan 2024, 8:01:21 PM] [Hazy GameThread] Voltr bought: ItemName=Wyrm bones ItemAmount=39 Price=780
+[21 Jan 2024, 8:21:05 PM] [Hazy GameThread] Infernal offer claimed for: Dragon bones Received=200 blood money
+[21 Jan 2024, 8:21:08 PM] [Hazy GameThread] Infernal offer claimed for: Dagannoth bones Received=400 blood money
+[21 Jan 2024, 8:21:11 PM] [Hazy GameThread] Infernal offer claimed for: Wyrm bones Received=780 blood money
+[22 Jan 2024, 3:18:25 AM] [Hazy GameThread] 0RNG offer claimed for: Imbued heart Received=120000 blood money
+[22 Jan 2024, 3:18:30 AM] [Hazy GameThread] 0RNG successfully canceled the offer for: Bracelet of ethereum
+[22 Jan 2024, 3:19:29 AM] [Hazy GameThread] 0RNG listed: ItemName=Armadyl godsword ItemAmount=1 Price=250k
+[22 Jan 2024, 3:20:00 AM] [Hazy GameThread] 0RNG listed: ItemName=Elder maul ItemAmount=1 Price=450k
+[22 Jan 2024, 3:20:12 AM] [Hazy GameThread] 0RNG listed: ItemName=Dragon claws ItemAmount=1 Price=200k
+[22 Jan 2024, 3:23:16 AM] [Hazy GameThread] Amura bought: ItemName=Abyssal tentacle ItemAmount=1 Price=3k
+[22 Jan 2024, 4:18:39 AM] [Hazy GameThread] 0RNG successfully canceled the offer for: Elder maul
+[22 Jan 2024, 4:18:43 AM] [Hazy GameThread] 0RNG successfully canceled the offer for: Dragon claws
+[22 Jan 2024, 6:04:58 AM] [Hazy GameThread] Darkloria bought: ItemName=Armadyl chainskirt ItemAmount=1 Price=500k
+[22 Jan 2024, 8:39:06 AM] [Hazy GameThread] Noob listed: ItemName=Pegasian boots ItemAmount=1 Price=1m
+[22 Jan 2024, 1:19:21 PM] [Hazy GameThread] 0RNG successfully canceled the offer for: Armadyl godsword
+[22 Jan 2024, 2:37:17 PM] [Hazy GameThread] Cloudy offer claimed for: Abyssal tentacle Received=3000 blood money
+[23 Jan 2024, 3:05:01 AM] [Hazy GameThread] Noob listed: ItemName=Sled ItemAmount=1 Price=500k
+[23 Jan 2024, 6:58:11 AM] [Hazy GameThread] Cloudy listed: ItemName=Toxic blowpipe ItemAmount=1 Price=8.5m
+[23 Jan 2024, 6:58:21 AM] [Hazy GameThread] Cloudy successfully canceled the offer for: Thammaron's sceptre
+[23 Jan 2024, 6:58:47 AM] [Hazy GameThread] Cloudy listed: ItemName=Thammaron's sceptre ItemAmount=1 Price=7m
+[23 Jan 2024, 6:59:05 AM] [Hazy GameThread] Cloudy successfully canceled the offer for: Thammaron's sceptre
+[23 Jan 2024, 6:59:17 AM] [Hazy GameThread] Cloudy listed: ItemName=Thammaron's sceptre ItemAmount=1 Price=3.5m
+[23 Jan 2024, 7:00:30 AM] [Hazy GameThread] Cloudy listed: ItemName=Dragon boots ItemAmount=2 Price=75k
+[23 Jan 2024, 7:00:51 AM] [Hazy GameThread] Cloudy listed: ItemName=Armadyl chainskirt ItemAmount=1 Price=5m
+[23 Jan 2024, 7:01:01 AM] [Hazy GameThread] Cloudy listed: ItemName=Zamorak godsword ItemAmount=1 Price=1.7m
+[23 Jan 2024, 7:01:22 AM] [Hazy GameThread] Cloudy listed: ItemName=Statius's full helm ItemAmount=1 Price=2.5m
+[23 Jan 2024, 7:01:28 AM] [Hazy GameThread] Cloudy listed: ItemName=Mage's book ItemAmount=1 Price=5m
+[23 Jan 2024, 7:01:36 AM] [Hazy GameThread] Cloudy listed: ItemName=Ring of suffering ItemAmount=1 Price=750k
+[23 Jan 2024, 7:02:05 AM] [Hazy GameThread] Cloudy listed: ItemName=Light ballista ItemAmount=1 Price=375k
+[23 Jan 2024, 8:23:39 AM] [Hazy GameThread] Cloudy successfully canceled the offer for: Armadyl chainskirt
+[23 Jan 2024, 3:11:53 PM] [Hazy GameThread] Noob successfully canceled the offer for: Sled
+[23 Jan 2024, 5:30:25 PM] [Hazy GameThread] Kodi listed: ItemName=Torn prayer scroll ItemAmount=1 Price=500k
+[23 Jan 2024, 5:30:39 PM] [Hazy GameThread] Kodi successfully canceled the offer for: Torn prayer scroll
+[23 Jan 2024, 5:31:01 PM] [Hazy GameThread] Kodi listed: ItemName=null ItemAmount=1 Price=500k
+[23 Jan 2024, 5:31:10 PM] [Hazy GameThread] Kodi successfully canceled the offer for: Torn prayer scroll
+[23 Jan 2024, 5:31:19 PM] [Hazy GameThread] Kodi listed: ItemName=null ItemAmount=2 Price=500k
+[23 Jan 2024, 5:58:17 PM] [Hazy GameThread] Noob successfully canceled the offer for: Pegasian boots
+[23 Jan 2024, 6:10:41 PM] [Hazy GameThread] Collector listed: ItemName=Odium ward ItemAmount=1 Price=500m
+[23 Jan 2024, 6:10:57 PM] [Hazy GameThread] Collector successfully canceled the offer for: Odium ward
+[23 Jan 2024, 6:11:10 PM] [Hazy GameThread] Collector listed: ItemName=Odium ward ItemAmount=2 Price=1m
+[23 Jan 2024, 6:11:30 PM] [Hazy GameThread] Collector successfully canceled the offer for: Odium ward
+[24 Jan 2024, 2:47:16 AM] [Hazy GameThread] Collector listed: ItemName=Odium ward ItemAmount=1 Price=500k
+[24 Jan 2024, 4:04:13 AM] [Hazy GameThread] Collector successfully canceled the offer for: Odium ward
+[24 Jan 2024, 5:40:49 AM] [Hazy GameThread] Collector listed: ItemName=Dragon crossbow ItemAmount=1 Price=100k
+[24 Jan 2024, 5:41:00 AM] [Hazy GameThread] Collector listed: ItemName=Granite maul ItemAmount=1 Price=150k
+[24 Jan 2024, 7:49:07 AM] [Hazy GameThread] Collector successfully canceled the offer for: Granite maul
+[24 Jan 2024, 3:14:41 PM] [Hazy GameThread] Tweetmykills offer claimed for: Armadyl chainskirt Received=500000 blood money
+[24 Jan 2024, 4:25:47 PM] [Hazy GameThread] Im Sexy Mofo listed: ItemName=Vote ticket ItemAmount=1 Price=50k
+[24 Jan 2024, 6:20:58 PM] [Hazy GameThread] Kodi listed: ItemName=Zaryte vambraces ItemAmount=1 Price=2m
+[24 Jan 2024, 7:10:36 PM] [Hazy GameThread] Kodi successfully canceled the offer for: Zaryte vambraces
+[24 Jan 2024, 7:40:33 PM] [Hazy GameThread] Im Sexy Mofo successfully canceled the offer for: Vote ticket
+[25 Jan 2024, 11:56:20 PM] [Hazy GameThread] Kodi successfully canceled the offer for: Thammaron's sceptre
+[26 Jan 2024, 10:42:22 AM] [Hazy GameThread] Darkloria bought: ItemName=Ring of suffering ItemAmount=1 Price=750k
+[27 Jan 2024, 6:54:35 AM] [Hazy GameThread] Collector successfully canceled the offer for: Dragon crossbow
+[27 Jan 2024, 12:20:20 PM] [Hazy GameThread] Unreal successfully canceled the offer for: Dark bow
+[27 Jan 2024, 12:20:24 PM] [Hazy GameThread] Unreal successfully canceled the offer for: Infinity boots
+[27 Jan 2024, 12:20:32 PM] [Hazy GameThread] Unreal successfully canceled the offer for: Bracelet of ethereum
+[27 Jan 2024, 12:20:35 PM] [Hazy GameThread] Unreal successfully canceled the offer for: Dragon boots
+[27 Jan 2024, 12:20:38 PM] [Hazy GameThread] Unreal successfully canceled the offer for: Granite maul
+[27 Jan 2024, 11:17:51 PM] [Hazy GameThread] Kodi listed: ItemName=Zaryte vambraces ItemAmount=1 Price=3m
+[28 Jan 2024, 1:28:48 AM] [Hazy GameThread] Kodi successfully canceled the offer for: Zaryte vambraces
+[29 Jan 2024, 12:30:28 PM] [Hazy GameThread] J420 listed: ItemName=Dragon javelin ItemAmount=100 Price=50
+[29 Jan 2024, 12:52:00 PM] [Hazy GameThread] Oldsnag76 listed: ItemName=Red halloween mask ItemAmount=2 Price=800k
+[29 Jan 2024, 12:52:10 PM] [Hazy GameThread] Oldsnag76 listed: ItemName=Ham joint ItemAmount=1 Price=800k
+[29 Jan 2024, 12:52:31 PM] [Hazy GameThread] Oldsnag76 listed: ItemName=Gilded axe ItemAmount=1 Price=1m
+[29 Jan 2024, 12:52:40 PM] [Hazy GameThread] Oldsnag76 listed: ItemName=Gilded pickaxe ItemAmount=1 Price=1m
+[29 Jan 2024, 12:52:48 PM] [Hazy GameThread] Oldsnag76 listed: ItemName=Gilded scimitar ItemAmount=1 Price=1m
+[29 Jan 2024, 12:52:57 PM] [Hazy GameThread] Oldsnag76 listed: ItemName=Gilded hasta ItemAmount=2 Price=500k
+[29 Jan 2024, 12:53:09 PM] [Hazy GameThread] Oldsnag76 listed: ItemName=Dragon javelin ItemAmount=310 Price=500
+[29 Jan 2024, 12:53:18 PM] [Hazy GameThread] Oldsnag76 listed: ItemName=Magma helm ItemAmount=1 Price=1m
+[29 Jan 2024, 12:53:31 PM] [Hazy GameThread] Oldsnag76 listed: ItemName=Zuriel's hood ItemAmount=1 Price=2m
+[29 Jan 2024, 12:53:40 PM] [Hazy GameThread] Oldsnag76 listed: ItemName=Bandos tassets ItemAmount=1 Price=590k
+[29 Jan 2024, 12:53:49 PM] [Hazy GameThread] Oldsnag76 listed: ItemName=Tyrannical ring ItemAmount=1 Price=500k
+[29 Jan 2024, 12:54:08 PM] [Hazy GameThread] Oldsnag76 listed: ItemName=Morrigan's javelin ItemAmount=210 Price=5k
+[29 Jan 2024, 12:54:17 PM] [Hazy GameThread] Oldsnag76 listed: ItemName=Saradomin's blessed sword ItemAmount=1 Price=1m
+[29 Jan 2024, 12:57:29 PM] [Hazy GameThread] Oldsnag76 listed: ItemName=Zuriel's staff ItemAmount=1 Price=500k
+[29 Jan 2024, 8:52:07 PM] [Hazy GameThread] J420 successfully canceled the offer for: Dragon javelin
+[29 Jan 2024, 9:56:45 PM] [Hazy GameThread] Oldsnag76 successfully canceled the offer for: Magma helm
+[29 Jan 2024, 9:56:48 PM] [Hazy GameThread] Oldsnag76 successfully canceled the offer for: Zuriel's hood
+[29 Jan 2024, 9:56:52 PM] [Hazy GameThread] Oldsnag76 successfully canceled the offer for: Saradomin's blessed sword
+[29 Jan 2024, 9:56:55 PM] [Hazy GameThread] Oldsnag76 successfully canceled the offer for: Zuriel's staff
+[29 Jan 2024, 11:44:26 PM] [Hazy GameThread] Oldsnag76 listed: ItemName=Craw's bow ItemAmount=1 Price=15m
+[30 Jan 2024, 12:10:35 AM] [Hazy GameThread] Bill Clittin listed: ItemName=Craw's bow ItemAmount=1 Price=10m
+[30 Jan 2024, 12:48:23 AM] [Hazy GameThread] Oldsnag76 successfully canceled the offer for: Craw's bow
+[30 Jan 2024, 7:00:46 AM] [Hazy GameThread] 420skill listed: ItemName=Dragon crossbow ItemAmount=1 Price=70k
+[30 Jan 2024, 8:02:51 AM] [Hazy GameThread] 420skill listed: ItemName=Armadyl chainskirt ItemAmount=1 Price=450k
+[30 Jan 2024, 9:50:45 AM] [Hazy GameThread] 420skill listed: ItemName=Saradomin godsword ItemAmount=1 Price=1m
+[30 Jan 2024, 10:59:44 AM] [Hazy GameThread] 420skill successfully canceled the offer for: Saradomin godsword
+[30 Jan 2024, 11:00:04 AM] [Hazy GameThread] 420skill listed: ItemName=Saradomin godsword ItemAmount=1 Price=500k
+[30 Jan 2024, 11:00:33 AM] [Hazy GameThread] 420skill listed: ItemName=Gilded hasta ItemAmount=1 Price=800k
+[30 Jan 2024, 11:00:53 AM] [Hazy GameThread] 420skill listed: ItemName=Zamorak godsword ItemAmount=1 Price=1m
+[30 Jan 2024, 11:01:03 AM] [Hazy GameThread] 420skill listed: ItemName=Golden apron ItemAmount=1 Price=5m
+[30 Jan 2024, 11:40:37 AM] [Hazy GameThread] 420skill listed: ItemName=Ahrim's armour set ItemAmount=5 Price=50k
+[30 Jan 2024, 11:41:54 AM] [Hazy GameThread] 420skill listed: ItemName=Royal sceptre ItemAmount=1 Price=500k
+[30 Jan 2024, 11:42:01 AM] [Hazy GameThread] 420skill successfully canceled the offer for: Royal sceptre
+[30 Jan 2024, 11:42:12 AM] [Hazy GameThread] 420skill listed: ItemName=Royal sceptre ItemAmount=1 Price=2.5m
+[30 Jan 2024, 10:44:03 PM] [Hazy GameThread] Bill Clittin successfully canceled the offer for: Craw's bow
+[30 Jan 2024, 11:25:27 PM] [Hazy GameThread] Oldsnag76 listed: ItemName=Viggora's chainmace (c) ItemAmount=1 Price=150m
+[31 Jan 2024, 12:12:43 AM] [Hazy GameThread] Eggo bought: ItemName=Bandos tassets ItemAmount=1 Price=590k
+[31 Jan 2024, 1:02:54 AM] [Hazy GameThread] Oldsnag76 offer claimed for: Bandos tassets Received=590000 blood money
+[31 Jan 2024, 1:03:04 AM] [Hazy GameThread] Oldsnag76 successfully canceled the offer for: Viggora's chainmace (c)
+[31 Jan 2024, 7:51:37 AM] [Hazy GameThread] Darkloria bought: ItemName=Ahrim's armour set ItemAmount=1 Price=50k
+[31 Jan 2024, 7:51:50 AM] [Hazy GameThread] Darkloria bought: ItemName=Ahrim's armour set ItemAmount=1 Price=50k
+[31 Jan 2024, 7:53:07 AM] [Hazy GameThread] 420skill successfully canceled the offer for: Zamorak godsword
+[31 Jan 2024, 10:25:46 AM] [Hazy GameThread] 420skill offer claimed for: Ahrim's armour set Received=100000 blood money
+[31 Jan 2024, 5:06:49 PM] [Hazy GameThread] 0RNG listed: ItemName=Voidwaker ItemAmount=1 Price=400m
+[31 Jan 2024, 5:43:39 PM] [Hazy GameThread] 0RNG successfully canceled the offer for: Voidwaker
+[01 Feb 2024, 12:02:24 AM] [Hazy GameThread] Oldsnag76 bought: ItemName=Ahrim's armour set ItemAmount=3 Price=150k
+[01 Feb 2024, 7:06:38 PM] [Hazy GameThread] 420skill offer claimed for: Ahrim's armour set Received=150000 blood money
+[01 Feb 2024, 7:07:15 PM] [Hazy GameThread] 420skill successfully canceled the offer for: Saradomin godsword
+[01 Feb 2024, 7:07:18 PM] [Hazy GameThread] 420skill successfully canceled the offer for: Armadyl chainskirt
+[01 Feb 2024, 7:07:23 PM] [Hazy GameThread] 420skill successfully canceled the offer for: Dragon crossbow
+[01 Feb 2024, 7:07:29 PM] [Hazy GameThread] 420skill listed: ItemName=null ItemAmount=5 Price=50k
+[01 Feb 2024, 7:07:35 PM] [Hazy GameThread] 420skill listed: ItemName=null ItemAmount=2 Price=50k
+[01 Feb 2024, 7:07:43 PM] [Hazy GameThread] 420skill listed: ItemName=null ItemAmount=1 Price=50k
+[01 Feb 2024, 7:07:52 PM] [Hazy GameThread] 420skill listed: ItemName=null ItemAmount=5 Price=50k
+[01 Feb 2024, 7:08:00 PM] [Hazy GameThread] 420skill listed: ItemName=null ItemAmount=1 Price=50k
+[01 Feb 2024, 7:08:10 PM] [Hazy GameThread] 420skill successfully canceled the offer for: Golden apron
+[01 Feb 2024, 7:08:18 PM] [Hazy GameThread] 420skill successfully canceled the offer for: Ahrim's armour set
+[01 Feb 2024, 7:08:25 PM] [Hazy GameThread] 420skill listed: ItemName=null ItemAmount=2 Price=50k
+[02 Feb 2024, 5:01:44 PM] [Hazy GameThread] Unreal bought: ItemName=Karil's armour set ItemAmount=1 Price=50k
+[02 Feb 2024, 11:49:07 PM] [Hazy GameThread] Kodi listed: ItemName=Morrigan's leather chaps ItemAmount=3 Price=750k
+[02 Feb 2024, 11:49:14 PM] [Hazy GameThread] Kodi listed: ItemName=Morrigan's leather body ItemAmount=1 Price=750k
+[03 Feb 2024, 1:47:10 AM] [Hazy GameThread] Kodi successfully canceled the offer for: Morrigan's leather body
+[03 Feb 2024, 7:23:33 AM] [Hazy GameThread] Lagg bought: ItemName=Bracelet of ethereum ItemAmount=1 Price=30k
+[04 Feb 2024, 7:02:37 PM] [Hazy GameThread] Pinklooter listed: ItemName=Gilded 2h sword ItemAmount=1 Price=14m
+[04 Feb 2024, 7:03:02 PM] [Hazy GameThread] Pinklooter listed: ItemName=Gilded pickaxe ItemAmount=1 Price=800k
+[04 Feb 2024, 9:47:48 PM] [Hazy GameThread] Bill Clittin bought: ItemName=Ahrim's armour set ItemAmount=2 Price=100k
+[05 Feb 2024, 1:41:32 PM] [Hazy GameThread] Insomnia bought: ItemName=Red halloween mask ItemAmount=1 Price=800k
+[05 Feb 2024, 4:22:27 PM] [Hazy GameThread] CALLMEDADA listed: ItemName=Ancestral hat ItemAmount=1 Price=25m
+[05 Feb 2024, 4:22:34 PM] [Hazy GameThread] CALLMEDADA listed: ItemName=Kodai wand ItemAmount=1 Price=40m
+[05 Feb 2024, 4:24:32 PM] [Hazy GameThread] CALLMEDADA listed: ItemName=Guardian boots ItemAmount=1 Price=5m
+[05 Feb 2024, 4:24:54 PM] [Hazy GameThread] CALLMEDADA listed: ItemName=Craw's bow ItemAmount=1 Price=10m
+[05 Feb 2024, 4:44:51 PM] [Hazy GameThread] CALLMEDADA successfully canceled the offer for: Ancestral hat
+[05 Feb 2024, 4:44:53 PM] [Hazy GameThread] CALLMEDADA successfully canceled the offer for: Kodai wand
+[05 Feb 2024, 4:44:56 PM] [Hazy GameThread] CALLMEDADA successfully canceled the offer for: Craw's bow
+[05 Feb 2024, 9:20:25 PM] [Hazy GameThread] CALLMEDADA successfully canceled the offer for: Guardian boots
+[06 Feb 2024, 3:34:51 AM] [Hazy GameThread] Oldsnag76 offer claimed for: Red halloween mask Received=800000 blood money
+[06 Feb 2024, 12:31:05 PM] [Hazy GameThread] Mew listed: ItemName=Amulet of fury ItemAmount=9 Price=8k
+[08 Feb 2024, 5:52:11 AM] [Hazy GameThread] P H4T S3TZ bought: ItemName=Morrigan's leather chaps ItemAmount=1 Price=750k
+[10 Feb 2024, 5:03:29 AM] [Hazy GameThread] Yoshi bought: ItemName=Bracelet of ethereum ItemAmount=2 Price=60k
+[10 Feb 2024, 1:27:41 PM] [Hazy GameThread] Kodi offer claimed for: Morrigan's leather chaps Received=750000 blood money
+[10 Feb 2024, 2:50:05 PM] [Hazy GameThread] I0wnzbr listed: ItemName=Bracelet of ethereum ItemAmount=1 Price=150k
+[11 Feb 2024, 2:01:59 PM] [Hazy GameThread] Nastygandalf listed: ItemName=null ItemAmount=1 Price=200k
+[12 Feb 2024, 11:47:34 PM] [Hazy GameThread] Kodi successfully canceled the offer for: Torn prayer scroll
+[12 Feb 2024, 11:47:38 PM] [Hazy GameThread] Kodi successfully canceled the offer for: Morrigan's leather chaps

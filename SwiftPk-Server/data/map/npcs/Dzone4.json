@@ -1,0 +1,92 @@
+[
+  {
+    "name": "Cerberus Z",//dzone4
+    "id": 11278,
+    "x": 2447,
+    "y": 2694,
+    "z": 0,
+    "direction": "E",
+    "walkRange": 0
+  },
+  {
+    "name": "Kerberos Z",//dzone4
+    "id": 16008,
+    "x": 2448,
+    "y": 2719,
+    "z": 0,
+    "direction": "E",
+    "walkRange": 0
+  },
+  {
+    "name": "Corrupted nech Z",//dzone4
+    "id": 16008,
+    "x": 2472,
+    "y": 2696,
+    "z": 0,
+    "direction": "E",
+    "walkRange": 0
+  },
+  {
+    "name": "Corrupted nech Z",//dzone4
+    "id": 15001,
+    "x": 2472,
+    "y": 2720,
+    "z": 0,
+    "direction": "E",
+    "walkRange": 0
+  },
+  {
+    "name": "Elvarg",//dzone4
+    "id": 6118,
+    "x": 2448,
+    "y": 2707,
+    "z": 0,
+    "direction": "E",
+    "walkRange": 0
+  },
+  {
+    "name": "Seren",//dzone4
+    "id": 8928,
+    "x": 2472,
+    "y": 2708,
+    "z": 0,
+    "direction": "E",
+    "walkRange": 0
+  },
+  {
+    "name": "Mending Ork",//dzone4
+    "id": 2616,
+    "x": 2458,
+    "y": 2734,
+    "z": 0,
+    "direction": "E",
+    "walkRange": 0
+  },
+  {
+    "name": "Mending Ork",//dzone4
+    "id": 2616,
+    "x": 2463,
+    "y": 2734,
+    "z": 0,
+    "direction": "E",
+    "walkRange": 0
+  },
+  {
+    "name": "Mending Knight",//dzone4
+    "id": 2617,
+    "x": 2463,
+    "y": 2729,
+    "z": 0,
+    "direction": "E",
+    "walkRange": 0
+  },
+  {
+    "name": "Mending Knight",//dzone4
+    "id": 2617,
+    "x": 2458,
+    "y": 2729,
+    "z": 0,
+    "direction": "E",
+    "walkRange": 0
+  }
+]

@@ -1,0 +1,149 @@
+[
+  {
+    "name": "Corrupted Nechryarch",
+    "id": 15001,
+    "x": 1881,
+    "y": 3855,
+    "z": 0,
+    "direction": "E",
+    "walkRange": 2
+  },
+  {
+    //update15.5
+    "name": "DragonStone Crazy ",
+    "id": 5912,
+    "x": 2472,
+    "y": 2768,
+    "z": 0,
+    "direction": "E",
+    "walkRange": 5
+  },
+  {
+    //dontforget
+    "name": "Nex",
+    "id": 11278,
+    "x": 2925,
+    "y": 5202,
+    "z": 0,
+    "direction": "E",
+    "walkRange": 5
+  },
+  {
+    //update15.5
+    "name": "DragonStone Crazy ",
+    "id": 5912,
+    "x": 2448,
+    "y": 2768,
+    "z": 0,
+    "direction": "E",
+    "walkRange": 5
+  },
+  {
+    //update15.5
+    "name": "DragonStone el fuego ",
+    "id": 5913,
+    "x": 2469,
+    "y": 2784,
+    "z": 0,
+    "direction": "E",
+    "walkRange": 2
+  },
+  {
+    //update15.5
+    "name": "DragonStone el fuego ",
+    "id": 5913,
+    "x": 2446,
+    "y": 2783,
+    "z": 0,
+    "direction": "E",
+    "walkRange": 2
+  },
+  {
+
+    //update15.5
+    "name": "Rev Ork ",
+    "id": 2616,
+    "x": 2461,
+    "y": 2801,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 0
+  },
+  {
+    //update15.5
+    "name": "Rev Ork ",
+    "id": 2616,
+    "x": 2459,
+    "y": 2805,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 0
+  },
+  {
+    //update15.5
+    "name": "Rev Knight ",
+    "id": 2617,
+    "x": 2459,
+    "y": 2803,
+    "z": 0,
+    "direction": "S",
+    "walkRange": 0
+  },
+  {
+    //Dboss
+    "name": "Donation Boss",
+    "id": 15003,
+    "x": 2888,
+    "y": 3293,
+    "z": 0,
+    "direction": "E",
+    "walkRange": 10
+  },
+  {
+    //update15.5
+    "name": "DragonStone Grim ",
+    "id": 5923,
+    "x": 2471,
+    "y": 2802,
+    "z": 0,
+    "direction": "0",
+    "walkRange": 0
+  },
+  {
+    //update15.5
+    "name": "DragonStone Grim ",
+    "id": 5923,
+    "x": 2449,
+    "y": 2802,
+    "z": 0,
+    "direction": "0",
+    "walkRange": 0
+  },
+  {
+    "name": "Corrupted Nechryarch",
+    "id": 15001,
+    "x": 1871,
+    "y": 3852,
+    "z": 0,
+    "direction": "E",
+    "walkRange": 2
+  },
+  {
+    "name": "Corrupted Nechryarch",
+    "id": 15001,
+    "x": 1894,
+    "y": 3845,
+    "z": 0,
+    "direction": "E",
+    "walkRange": 2
+  },
+  {
+    "name": "Corrupted Nechryarch",
+    "id": 15001,
+    "x": 1893,
+    "y": 3858,
+    "z": 0,
+    "direction": "E",
+    "walkRange": 2
+  }
+]

@@ -1,0 +1,12 @@
+npcId:
+- 15020
+petItem: BABY_ARAGOG
+petRarity: 1000
+alwaysDrops: []
+drops:
+- item: BABY_ARAGOG
+  minimumAmount: 1
+  maximumAmount: 1
+  chance: 1000
+  rareDrop: false
+  sendToBank: false

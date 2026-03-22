@@ -1,0 +1,67 @@
+npcId:
+- 9019
+petItem: "null"
+petRarity: 0
+alwaysDrops:
+- item: BLOOD_MONEY
+  minimumAmount: 1000
+  maximumAmount: 2000
+  chance: 1
+  rareDrop: false
+  sendToBank: false
+drops:
+- item: DONATOR_MYSTERY_BOX
+  minimumAmount: 1
+  maximumAmount: 1
+  chance: 56
+  rareDrop: false
+  sendToBank: false
+- item: BLOOD_MONEY
+  minimumAmount: 5000
+  maximumAmount: 8000
+  chance: 67
+  rareDrop: false
+  sendToBank: false
+- item: PRESENT_MYSTERY_BOX
+  minimumAmount: 1
+  maximumAmount: 1
+  chance: 135
+  rareDrop: false
+  sendToBank: false
+- item: LEGENDARY_MYSTERY_BOX
+  minimumAmount: 1
+  maximumAmount: 1
+  chance: 400
+  rareDrop: false
+  sendToBank: false
+- item: EPIC_PET_BOX
+  minimumAmount: 1
+  maximumAmount: 1
+  chance: 550
+  rareDrop: false
+  sendToBank: false
+- item: ELDER_MAUL
+  minimumAmount: 1
+  maximumAmount: 1
+  chance: 800
+  rareDrop: false
+  sendToBank: false
+- item: VIGGORAS_CHAINMACE
+  minimumAmount: 1
+  maximumAmount: 1
+  chance: 800
+  rareDrop: false
+  sendToBank: false
+- item: CRAWS_BOW
+  minimumAmount: 1
+  maximumAmount: 1
+  chance: 800
+  rareDrop: false
+  sendToBank: false
+- item: MENDING_STONE
+  minimumAmount: 1
+  maximumAmount: 1
+  chance: 1000
+  rareDrop: false
+  sendToBank: false
+

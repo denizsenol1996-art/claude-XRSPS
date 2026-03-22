@@ -1,0 +1,55 @@
+npcId:
+- 2205
+- 6493
+petItem: "null"
+petRarity: 0
+alwaysDrops:
+- item: BLOOD_MONEY
+  minimumAmount: 150
+  maximumAmount: 300
+  chance: 1
+  rareDrop: false
+  sendToBank: false
+drops:
+- item: BLOOD_MONEY
+  minimumAmount: 150
+  maximumAmount: 300
+  chance: 5
+  rareDrop: false
+  sendToBank: false
+- item: SARADOMIN_SWORD
+  minimumAmount: 1
+  maximumAmount: 1
+  chance: 45
+  rareDrop: false
+  sendToBank: false
+- item: SARADOMIN_GODSWORD
+  minimumAmount: 1
+  maximumAmount: 1
+  chance: 113
+  rareDrop: false
+  sendToBank: false
+- item: ARMADYL_CROSSBOW
+  minimumAmount: 1
+  maximumAmount: 1
+  chance: 170
+  rareDrop: false
+  sendToBank: false
+- item: WEAPON_MYSTERY_BOX
+  minimumAmount: 1
+  maximumAmount: 1
+  chance: 170
+  rareDrop: false
+  sendToBank: false
+- item: ARMOUR_MYSTERY_BOX
+  minimumAmount: 1
+  maximumAmount: 1
+  chance: 170
+  rareDrop: false
+  sendToBank: false
+- item: LEGENDARY_MYSTERY_BOX
+  minimumAmount: 1
+  maximumAmount: 1
+  chance: 680
+  rareDrop: false
+  sendToBank: false

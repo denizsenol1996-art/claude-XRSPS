@@ -1,0 +1,30 @@
+npcId:
+- 7795
+petItem: "null"
+petRarity: 0
+alwaysDrops:
+- item: WYVERN_BONES
+  minimumAmount: 1
+  maximumAmount: 1
+  chance: 1
+  rareDrop: false
+  sendToBank: false
+drops:
+- item: GRANITE_LONGSWORD
+  minimumAmount: 1
+  maximumAmount: 1
+  chance: 30
+  rareDrop: false
+  sendToBank: false
+- item: ANCIENT_WYVERN_SHIELD
+  minimumAmount: 1
+  maximumAmount: 1
+  chance: 100
+  rareDrop: false
+  sendToBank: false
+- item: DRACONIC_VISAGE
+  minimumAmount: 1
+  maximumAmount: 1
+  chance: 100
+  rareDrop: false
+  sendToBank: false

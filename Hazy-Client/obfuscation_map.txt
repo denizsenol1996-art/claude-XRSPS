@@ -1,0 +1,1728 @@
+com.hazy.CacheDownloader -> a:
+# {"fileName":"CacheDownloader.java","id":"sourceFile"}
+    21:21:void <clinit>() -> <clinit>
+com.hazy.ChatMessage -> b:
+# {"fileName":"ChatMessage.java","id":"sourceFile"}
+com.hazy.Client -> c:
+# {"fileName":"Client.java","id":"sourceFile"}
+    com.hazy.model.content.StatusBars bars -> a
+    java.util.List teleportImageDescriptions -> b
+    int[] teleportSprites -> c
+    java.lang.String[] teleportNames -> d
+    int teleportCategoryIndex -> e
+    java.util.ArrayList expectedHit -> f
+    boolean isDisplayed -> g
+    java.lang.String selectedMsg -> h
+    int widgetId -> i
+    java.util.List tradeSlot -> j
+    com.hazy.cache.graphics.SimpleImage[] skill_sprites -> k
+    java.util.List effects_list -> l
+    com.hazy.util.SecondsTimer lobbyTimer -> m
+    int[] sound_effect_volume -> n
+    java.text.NumberFormat format -> o
+    int frameValueW -> p
+    int frameValueH -> q
+    com.hazy.util.Stopwatch frameDelay -> r
+    com.hazy.util.Stopwatch loggedInWatch -> s
+    int[] modeNamesX -> t
+    int[] modeNamesY -> u
+    int[] channelButtonsX -> v
+    java.lang.String[] modeNames -> w
+    java.lang.String enter_amount_title -> x
+    java.lang.String enter_name_title -> y
+    java.lang.String enter_amount_title2 -> z
+    int cButtonHPos -> A
+    int cButtonCPos -> B
+    int[] fixed_side_icon -> C
+    int[] fixed_tab_id -> D
+    int[] fixed_side_icon_x -> E
+    int[] fixed_side_icon_y -> F
+    int[] resizable_side_icon -> G
+    int[] resizable_side_icon_x -> H
+    int[] resizable_side_icon_y -> I
+    int[] fullscreen_resizable_side_icon -> J
+    int[] fullscreen_resizable_side_icon_x -> K
+    int[] fullscreen_resizable_side_icon_y -> L
+    boolean isViewingQuests -> M
+    int spellbook -> N
+    int[] fixed_red_stones_id -> O
+    int[] fixed_red_stones_x -> P
+    int[] fixed_red_stones_y -> Q
+    int[] resizable_red_stones_x -> R
+    int[] resizable_red_stones_y -> S
+    int[] fullscreen_resizable_red_stones_x -> T
+    int TEXT_CHILD_OFFSET -> U
+    int USE_SPELL -> V
+    boolean exitRequested -> W
+    float spinSpeed -> X
+    boolean startSpin -> Y
+    java.util.List OPTION_DIALOGUE_IDS -> Z
+    java.nio.file.Path colorPath -> aa
+    int update_offset -> ab
+    com.hazy.ChatMessage[] chatMessages -> ac
+    java.util.List splitPrivateChatMessages -> ad
+    int[] tabClickX -> ae
+    int[] tabClickStart -> af
+    int[] tabClickY -> ag
+    com.hazy.cache.graphics.SimpleImage[] mapFunctions -> ah
+    int[] tabAmounts -> ai
+    java.lang.String objectMaps -> aj
+    java.lang.String floorMaps -> ak
+    java.lang.Runtime runtime -> al
+    int clientMemory -> am
+    float REGEN_HEALTH_TIME -> an
+    float REGEN_SPEC_TIME -> ao
+    long regenHealthStart -> ap
+    long regenSpecStart -> aq
+    long loginTime -> ar
+    long logoutTime -> as
+    int lastHp -> at
+    int lastSpec -> au
+    int specialAttack -> av
+    int poisonType -> aw
+    boolean staminaActive -> ax
+    com.hazy.util.SecondsTimer loginTimer -> ay
+    java.util.Deque reports -> az
+    int currentTrackPlaying -> aA
+    com.hazy.model.settings.Settings setting -> aB
+    int[] chatRights -> aC
+    int chatTypeView -> aD
+    int clanChatMode -> aE
+    int autoCastId -> aF
+    int[][] travel_distances -> aG
+    int[] friendsNodeIDs -> aH
+    com.hazy.collection.LinkedList[][][] scene_items -> aI
+    boolean update_flame_components -> aJ
+    int loginScreenState -> aK
+    com.hazy.entity.Npc[] npcs -> aL
+    int[] local_npcs -> aM
+    int[] removedMobs -> aN
+    boolean soundEnabled -> aO
+    com.hazy.util.Stopwatch chatDelay -> aP
+    int[] currentExp -> aQ
+    int[] camera_vertical_shake -> aR
+    boolean[] camera_attributes -> aS
+    boolean drawFlames -> aT
+    java.lang.String reportAbuseInput -> aU
+    int localPlayerIndex -> aV
+    boolean menuOpen -> aW
+    java.lang.String inputString -> aX
+    int maxPlayers -> aY
+    int maxNpcs -> aZ
+    int LOCAL_PLAYER_INDEX -> ba
+    com.hazy.entity.Player[] players -> bb
+    int[] local_players -> bc
+    int[] mobsAwaitingUpdate -> bd
+    com.hazy.io.Buffer[] playerSynchronizationBuffers -> be
+    int anInt897 -> bf
+    java.lang.String[] clanList -> bg
+    int[][] waypoints -> bh
+    byte[] tmpTexture -> bi
+    int[] currentLevels -> bj
+    long[] ignoreListAsLongs -> bk
+    boolean loadingError -> bl
+    int[] camera_horizontal_shake -> bm
+    int[][] tile_cycle_map -> bn
+    com.hazy.cache.graphics.SimpleImage[] sideIcons -> bo
+    boolean aBoolean954 -> bp
+    long[] friendsListAsLongs -> bq
+    int current_track -> br
+    boolean drawingFlames -> bs
+    int scene_draw_x -> bt
+    int scene_draw_y -> bu
+    int[] SPOKEN_PALETTE -> bv
+    int[] anIntArray968 -> bw
+    int[] anIntArray969 -> bx
+    com.hazy.cache.FileStore[] indices -> by
+    int[] settings -> bz
+    boolean aBoolean972 -> bA
+    int spokenMaxCount -> bB
+    int[] scene_text_x -> bC
+    int[] scene_text_y -> bD
+    int[] scene_text_height -> bE
+    int[] scene_text_center_x -> bF
+    int[] scene_text_color -> bG
+    int[] scene_text_effect -> bH
+    int[] scene_text_update_cycle -> bI
+    java.lang.String[] spokenMessage -> bJ
+    int lastKnownPlane -> bK
+    com.hazy.cache.graphics.SimpleImage[] hitMarks -> bL
+    int[] characterDesignColours -> bM
+    boolean aBoolean994 -> bN
+    java.lang.String amountOrNameInput -> bO
+    com.hazy.collection.LinkedList projectiles -> bP
+    boolean aBoolean1017 -> bQ
+    int openWalkableInterface -> bR
+    int[] SKILL_EXPERIENCE -> bS
+    int[] camera_horizontal_speed -> bT
+    boolean updateCharacterCreation -> bU
+    int dialogueId -> bV
+    int[] maximumLevels -> bW
+    int[] anIntArray1045 -> bX
+    boolean characterGender -> bY
+    int[] minimapLeft -> bZ
+    int flashingSidebarId -> ca
+    com.hazy.collection.LinkedList incompleteAnimables -> cb
+    int[] anIntArray1057 -> cc
+    com.hazy.cache.graphics.widget.Widget aClass9_1059 -> cd
+    com.hazy.cache.graphics.IndexedImage[] mapScenes -> ce
+    int barFillColor -> cf
+    int[] characterClothing -> cg
+    int[] minimapHintX -> ch
+    int[] minimapHintY -> ci
+    boolean loadingMap -> cj
+    java.lang.String[] friendsList -> ck
+    java.lang.String[] ignoreList -> cl
+    com.hazy.io.Buffer incoming -> cm
+    int[] firstMenuAction -> cn
+    int[] secondMenuAction -> co
+    int[] menuActionTypes -> cp
+    long[] selectedMenuActions -> cq
+    com.hazy.cache.graphics.SimpleImage[] headIcons -> cr
+    com.hazy.cache.graphics.SimpleImage[] skullIcons -> cs
+    com.hazy.cache.graphics.SimpleImage[] headIconsHint -> ct
+    java.lang.String inputMessage -> cu
+    java.lang.String[] playerOptions -> cv
+    boolean[] playerOptionsHighPriority -> cw
+    int[][][] constructRegionData -> cx
+    int anInt1132 -> cy
+    int spellButtonUsed -> cz
+    com.hazy.cache.graphics.SimpleImage[] minimapHint -> cA
+    boolean inTutorialIsland -> cB
+    boolean continuedDialogue -> cC
+    com.hazy.cache.graphics.SimpleImage[] crosses -> cD
+    boolean canMute -> cE
+    boolean requestMapReconstruct -> cF
+    boolean cutscene -> cG
+    com.hazy.io.Buffer outBuffer -> cH
+    com.hazy.io.PacketSender packetSender -> cI
+    com.hazy.io.Buffer loginBuffer -> cJ
+    int anInt1171 -> cK
+    java.lang.String myUsername -> cL
+    java.lang.String myPassword -> cM
+    boolean genericLoadingError -> cN
+    int[] objectGroups -> cO
+    int reportAbuseInterfaceID -> cP
+    com.hazy.collection.LinkedList spawns -> cQ
+    int camera_tilt -> cR
+    int overlayInterfaceId -> cS
+    com.hazy.io.Buffer chatBuffer -> cT
+    java.lang.String[] menuActionText -> cU
+    int[] camera_vertical_speed -> cV
+    int[] track_ids -> cW
+    int anInt1210 -> cX
+    java.lang.String promptInput -> cY
+    boolean fade_audio -> cZ
+    int[] minimapLineWidth -> da
+    com.hazy.scene.CollisionMap[] collisionMaps -> db
+    int[] BIT_MASKS -> dc
+    int anInt1239 -> dd
+    int[] privateMessageIds -> de
+    int[] track_loop -> df
+    boolean aBoolean1242 -> dg
+    int[] audio_delay -> dh
+    boolean rsAlreadyLoaded -> di
+    boolean update_producers -> dj
+    boolean messagePromptRaised -> dk
+    java.lang.String firstLoginMessage -> dl
+    java.lang.String secondLoginMessage -> dm
+    int backDialogueId -> dn
+    int anInt1279 -> do
+    int[] walking_queue_x -> dp
+    int[] walking_queue_y -> dq
+    int fullscreenInterfaceID -> dr
+    com.hazy.model.content.prayer.PrayerSystem$InterfaceData prayerGrabbed -> ds
+    17640:17644:void addReportToServer(java.lang.String) -> a
+    88:18784:void <init>() -> <init>
+    17929:17932:void lambda$new$2(java.lang.Thread,java.lang.Throwable) -> a
+    84:18754:void <clinit>() -> <clinit>
+com.hazy.Client$1 -> c$1:
+# {"fileName":"Client.java","id":"sourceFile"}
+com.hazy.Client$AnimatedTextureStore -> c$a:
+# {"fileName":"Client.java","id":"sourceFile"}
+    com.hazy.Client$AnimatedTextureStore WATER_DROPLETS -> a
+    com.hazy.Client$AnimatedTextureStore WATER -> b
+    com.hazy.Client$AnimatedTextureStore MAGIC_TREE_STARS -> c
+    com.hazy.Client$AnimatedTextureStore LAVA -> d
+    com.hazy.Client$AnimatedTextureStore INFERNAL_LAVA_54 -> e
+    com.hazy.Client$AnimatedTextureStore CRIMSON_LAVA -> f
+    com.hazy.Client$AnimatedTextureStore GRAY_LAVA -> g
+    com.hazy.Client$AnimatedTextureStore INFERNAL_LAVA -> h
+    com.hazy.Client$AnimatedTextureStore TEXTURE_61 -> i
+    com.hazy.Client$AnimatedTextureStore TEXTURE_62 -> j
+    com.hazy.Client$AnimatedTextureStore TEXTURE_63 -> k
+    com.hazy.Client$AnimatedTextureStore TEXTURE_64 -> l
+    com.hazy.Client$AnimatedTextureStore TEXTURE_65 -> m
+    com.hazy.Client$AnimatedTextureStore TEXTURE_66 -> n
+    com.hazy.Client$AnimatedTextureStore TEXTURE_67 -> o
+    com.hazy.Client$AnimatedTextureStore TEXTURE_68 -> p
+    com.hazy.Client$AnimatedTextureStore TEXTURE_69 -> q
+    com.hazy.Client$AnimatedTextureStore TEXTURE_71 -> r
+    com.hazy.Client$AnimatedTextureStore TEXTURE_72 -> s
+    com.hazy.Client$AnimatedTextureStore TEXTURE_73 -> t
+    com.hazy.Client$AnimatedTextureStore TEXTURE_74 -> u
+    com.hazy.Client$AnimatedTextureStore TEXTURE_75 -> v
+    com.hazy.Client$AnimatedTextureStore TEXTURE_76 -> w
+    com.hazy.Client$AnimatedTextureStore TEXTURE_77 -> x
+    com.hazy.Client$AnimatedTextureStore TEXTURE_78 -> y
+    com.hazy.Client$AnimatedTextureStore TEXTURE_79 -> z
+    com.hazy.Client$AnimatedTextureStore TEXTURE_80 -> A
+    com.hazy.Client$AnimatedTextureStore TEXTURE_81 -> B
+    com.hazy.Client$AnimatedTextureStore TEXTURE_82 -> C
+    com.hazy.Client$AnimatedTextureStore TEXTURE_83 -> D
+    com.hazy.Client$AnimatedTextureStore TEXTURE_84 -> E
+    com.hazy.Client$AnimatedTextureStore TEXTURE_85 -> F
+    com.hazy.Client$AnimatedTextureStore TEXTURE_86 -> G
+    com.hazy.Client$AnimatedTextureStore TEXTURE_87 -> H
+    com.hazy.Client$AnimatedTextureStore TEXTURE_88 -> I
+    com.hazy.Client$AnimatedTextureStore TEXTURE_89 -> J
+    com.hazy.Client$AnimatedTextureStore TEXTURE_90 -> K
+    com.hazy.Client$AnimatedTextureStore TEXTURE_91 -> L
+    com.hazy.Client$AnimatedTextureStore TEXTURE_92 -> M
+    com.hazy.Client$AnimatedTextureStore TEXTURE_93 -> N
+    com.hazy.Client$AnimatedTextureStore TEXTURE_94 -> O
+    com.hazy.Client$AnimatedTextureStore TEXTURE_95 -> P
+    com.hazy.Client$AnimatedTextureStore TEXTURE_96 -> Q
+    com.hazy.Client$AnimatedTextureStore TEXTURE_97 -> R
+    com.hazy.Client$AnimatedTextureStore TEXTURE_98 -> S
+    com.hazy.Client$AnimatedTextureStore TEXTURE_99 -> T
+    com.hazy.Client$AnimatedTextureStore TEXTURE_100 -> U
+    com.hazy.Client$AnimatedTextureStore TEXTURE_101 -> V
+    com.hazy.Client$AnimatedTextureStore TEXTURE_102 -> W
+    com.hazy.Client$AnimatedTextureStore TEXTURE_103 -> X
+    com.hazy.Client$AnimatedTextureStore TEXTURE_104 -> Y
+    com.hazy.Client$AnimatedTextureStore TEXTURE_105 -> Z
+    com.hazy.Client$AnimatedTextureStore TEXTURE_106 -> aa
+    com.hazy.Client$AnimatedTextureStore TEXTURE_107 -> ab
+    com.hazy.Client$AnimatedTextureStore TEXTURE_108 -> ac
+    com.hazy.Client$AnimatedTextureStore TEXTURE_109 -> ad
+    com.hazy.Client$AnimatedTextureStore TEXTURE_110 -> ae
+    com.hazy.Client$AnimatedTextureStore TEXTURE_111 -> af
+    com.hazy.Client$AnimatedTextureStore TEXTURE_112 -> ag
+    com.hazy.Client$AnimatedTextureStore TEXTURE_113 -> ah
+    com.hazy.Client$AnimatedTextureStore TEXTURE_114 -> ai
+    com.hazy.Client$AnimatedTextureStore TEXTURE_115 -> aj
+    com.hazy.Client$AnimatedTextureStore TEXTURE_116 -> ak
+    com.hazy.Client$AnimatedTextureStore TEXTURE_117 -> al
+    com.hazy.Client$AnimatedTextureStore TEXTURE_118 -> am
+    com.hazy.Client$AnimatedTextureStore TEXTURE_119 -> an
+    com.hazy.Client$AnimatedTextureStore TEXTURE_120 -> ao
+    com.hazy.Client$AnimatedTextureStore TEXTURE_121 -> ap
+    com.hazy.Client$AnimatedTextureStore TEXTURE_122 -> aq
+    int material_id -> ar
+    int speed -> as
+    boolean reverse -> at
+    3695:3699:void <init>(java.lang.String,int,int,boolean) -> <init>
+    3620:3689:void <clinit>() -> <clinit>
+com.hazy.Client$ChannelText -> c$b:
+# {"fileName":"Client.java","id":"sourceFile"}
+    com.hazy.Client$ChannelText PUBLIC -> a
+    com.hazy.Client$ChannelText PRIVATE -> b
+    com.hazy.Client$ChannelText CLAN -> c
+    com.hazy.Client$ChannelText TRADE -> d
+    int index -> e
+    int onX -> f
+    int friendsX -> g
+    int offX -> h
+    int hideX -> i
+    907:913:void <init>(java.lang.String,int,int,int,int,int,int) -> <init>
+    898:902:void <clinit>() -> <clinit>
+com.hazy.Client$OldState -> c$c:
+# {"fileName":"Client.java","id":"sourceFile"}
+    15590:15590:void <init>() -> <init>
+com.hazy.Client$RuneType -> c$d:
+# {"fileName":"Client.java","id":"sourceFile"}
+    com.hazy.Client$RuneType AIR -> a
+    com.hazy.Client$RuneType WATER -> b
+    com.hazy.Client$RuneType EARTH -> c
+    com.hazy.Client$RuneType FIRE -> d
+    com.hazy.Client$RuneType MIND -> e
+    com.hazy.Client$RuneType CHAOS -> f
+    com.hazy.Client$RuneType DEATH -> g
+    com.hazy.Client$RuneType BLOOD -> h
+    com.hazy.Client$RuneType COSMIC -> i
+    com.hazy.Client$RuneType NATURE -> j
+    com.hazy.Client$RuneType LAW -> k
+    com.hazy.Client$RuneType BODY -> l
+    com.hazy.Client$RuneType SOUL -> m
+    com.hazy.Client$RuneType ASTRAL -> n
+    com.hazy.Client$RuneType MIST -> o
+    com.hazy.Client$RuneType MUD -> p
+    com.hazy.Client$RuneType DUST -> q
+    com.hazy.Client$RuneType LAVA -> r
+    com.hazy.Client$RuneType STEAM -> s
+    com.hazy.Client$RuneType SMOKE -> t
+    com.hazy.Client$RuneType WRATH -> u
+    int id -> v
+    200:202:void <init>(java.lang.String,int,int) -> <init>
+    193:196:void <clinit>() -> <clinit>
+com.hazy.Client$ScreenMode -> c$e:
+# {"fileName":"Client.java","id":"sourceFile"}
+    com.hazy.Client$ScreenMode FIXED -> a
+    com.hazy.Client$ScreenMode RESIZABLE -> b
+    com.hazy.Client$ScreenMode FULLSCREEN -> c
+    259:259:void <init>(java.lang.String,int) -> <init>
+    259:260:void <clinit>() -> <clinit>
+com.hazy.Client$Tile -> c$f:
+# {"fileName":"Client.java","id":"sourceFile"}
+com.hazy.ClientConstants -> d:
+# {"fileName":"ClientConstants.java","id":"sourceFile"}
+    12:12:void <init>() -> <init>
+    46:185:void <clinit>() -> <clinit>
+com.hazy.GameApplet -> e:
+# {"fileName":"GameApplet.java","id":"sourceFile"}
+    int delay -> a
+    int min_delay -> b
+    long[] aLongArray7 -> c
+    boolean clear_screen -> d
+    boolean awt_focus -> e
+    int[] key_status -> f
+    int[] charQueue -> g
+    int[] keysHeld -> h
+    int forceWidth -> i
+    int forceHeight -> j
+    boolean shiftTeleport -> k
+    int LEFT -> l
+    int RIGHT -> m
+    int DRAG -> n
+    int RELEASED -> o
+    int MOVE -> p
+    java.util.concurrent.atomic.AtomicLong counter -> q
+    27:859:void <init>() -> <init>
+    170:170:void <clinit>() -> <clinit>
+com.hazy.GameFrame -> f:
+# {"fileName":"GameFrame.java","id":"sourceFile"}
+com.hazy.GameFrame$1 -> f$1:
+# {"fileName":"GameFrame.java","id":"sourceFile"}
+com.hazy.IncomingHit -> g:
+# {"fileName":"IncomingHit.java","id":"sourceFile"}
+com.hazy.RichPresence -> h:
+# {"fileName":"RichPresence.java","id":"sourceFile"}
+    java.lang.String CLIENT_ID -> a
+    10:12:void <init>() -> <init>
+com.hazy.cache.Archive -> i:
+# {"fileName":"Archive.java","id":"sourceFile"}
+com.hazy.cache.BufferExt -> j:
+# {"fileName":"BufferExt.java","id":"sourceFile"}
+    7:7:void <init>() -> <init>
+com.hazy.cache.FileStore -> k:
+# {"fileName":"FileStore.java","id":"sourceFile"}
+    31:31:void <clinit>() -> <clinit>
+com.hazy.cache.FileStore$Store -> k$a:
+# {"fileName":"FileStore.java","id":"sourceFile"}
+    com.hazy.cache.FileStore$Store ARCHIVE -> a
+    com.hazy.cache.FileStore$Store MODEL -> b
+    com.hazy.cache.FileStore$Store ANIMATION -> c
+    com.hazy.cache.FileStore$Store MUSIC -> d
+    com.hazy.cache.FileStore$Store MAP -> e
+    int index -> f
+    21:23:void <init>(java.lang.String,int,int) -> <init>
+    7:17:void <clinit>() -> <clinit>
+com.hazy.cache.SpriteManager -> l:
+# {"fileName":"SpriteManager.java","id":"sourceFile"}
+com.hazy.cache.anim.Animation -> m:
+# {"fileName":"Animation.java","id":"sourceFile"}
+    126:127:void <init>() -> <init>
+    8:8:void <clinit>() -> <clinit>
+com.hazy.cache.anim.Sequence -> n:
+# {"fileName":"Sequence.java","id":"sourceFile"}
+    int step -> a
+    boolean stretch -> b
+    int appended_frames -> c
+    int shield_delta -> d
+    int weapon_delta -> e
+    int loops -> f
+    int tempo -> g
+    int priority -> h
+    int reset -> i
+    int precedenceAnimating -> j
+    45:57:void <init>() -> <init>
+com.hazy.cache.anim.Skins -> o:
+# {"fileName":"Skins.java","id":"sourceFile"}
+com.hazy.cache.anim.SpotAnim -> p:
+# {"fileName":"SpotAnimation.java","id":"sourceFile"}
+    int animation_id -> a
+    int model_scale_x -> b
+    int model_scale_y -> c
+    int rotation -> d
+    int ambient -> e
+    int contrast -> f
+    189:207:void <init>() -> <init>
+    208:208:void <clinit>() -> <clinit>
+com.hazy.cache.anim.osrs.OSRSGraphics -> q:
+# {"fileName":"OSRSGraphics.java","id":"sourceFile"}
+    12:12:void <init>() -> <init>
+com.hazy.cache.bzip.BZip2DecompressionState -> r:
+# {"fileName":"BZip2DecompressionState.java","id":"sourceFile"}
+    int[] unzftab -> a
+    int[] cftab -> b
+    boolean[] inUse -> c
+    boolean[] inUse16 -> d
+    byte[] seqToUnseq -> e
+    byte[] mtfa -> f
+    int[] mtfbase -> g
+    byte[] selector -> h
+    byte[] selectorMtf -> i
+    byte[][] len -> j
+    int[][] limit -> k
+    int[][] base -> l
+    int[][] perm -> m
+    int[] minLens -> n
+    44:59:void <init>() -> <init>
+com.hazy.cache.bzip.BZip2Decompressor -> s:
+# {"fileName":"BZip2Decompressor.java","id":"sourceFile"}
+    3:3:void <init>() -> <init>
+    498:498:void <clinit>() -> <clinit>
+com.hazy.cache.config.VariableBits -> t:
+# {"fileName":"VariableBits.java","id":"sourceFile"}
+    boolean aBoolean651 -> a
+    63:65:void <init>() -> <init>
+com.hazy.cache.config.VariableParameter -> u:
+# {"fileName":"VariableParameter.java","id":"sourceFile"}
+    boolean aBoolean713 -> a
+    19:21:void <init>() -> <init>
+com.hazy.cache.def.AreaDefinition -> v:
+# {"fileName":"AreaDefinition.java","id":"sourceFile"}
+    int id -> a
+    int spriteId -> b
+    int field3294 -> c
+    java.lang.String name -> d
+    int fontColor -> e
+    int field3297 -> f
+    int field3310 -> g
+    java.lang.String[] field3298 -> h
+    23:102:void <init>() -> <init>
+    17:17:void <clinit>() -> <clinit>
+com.hazy.cache.def.FloorDefinition -> w:
+# {"fileName":"FloDefinition.java","id":"sourceFile"}
+    int texture -> a
+    boolean hidden -> b
+    191:194:void <init>() -> <init>
+com.hazy.cache.def.ItemDefinition -> x:
+# {"fileName":"ItemDefinition.java","id":"sourceFile"}
+    int shiftClickIndex -> a
+    int id -> b
+    int modelCustomColor -> c
+    int modelCustomColor2 -> d
+    int modelCustomColor3 -> e
+    int modelCustomColor4 -> f
+    int modelSetColor -> g
+    200:995:void <init>() -> <init>
+    929:929:void <clinit>() -> <clinit>
+com.hazy.cache.def.NpcDefinition -> y:
+# {"fileName":"NpcDefinition.java","id":"sourceFile"}
+    boolean rotationFlag -> a
+    int rotateLeftAnimation -> b
+    int rotateRightAnimation -> c
+    int modelCustomColor -> d
+    int modelCustomColor2 -> e
+    int modelCustomColor3 -> f
+    int modelCustomColor4 -> g
+    int modelSetColor -> h
+    int quarterAnticlockwiseTurnAnimation -> i
+    int varbit -> j
+    int halfTurnAnimation -> k
+    int varp -> l
+    int cmb_level -> m
+    int anInt64 -> n
+    int walkingAnimation -> o
+    int occupied_tiles -> p
+    int headIcon -> q
+    int standingAnimation -> r
+    long interfaceType -> s
+    int rotation -> t
+    int quarterClockwiseTurnAnimation -> u
+    boolean isClickable -> v
+    int resizeY -> w
+    boolean renderOnMinimap -> x
+    int resizeX -> y
+    boolean render_priority -> z
+    int runRotate180Animation -> A
+    int runRotateLeftAnimation -> B
+    int runRotateRightAnimation -> C
+    int crawlAnimation -> D
+    int crawlRotate180Animation -> E
+    int runAnimation -> F
+    int crawlRotateLeftAnimation -> G
+    int crawlRotateRightAnimation -> H
+    int defaultHeadIconArchive -> I
+    int interfaceZoom -> J
+    java.util.Map params -> K
+    boolean rev210HeadIcons -> L
+    boolean isInteractable -> M
+    int size -> N
+    838:931:void <init>() -> <init>
+    927:927:void <clinit>() -> <clinit>
+com.hazy.cache.def.ObjectDefinition -> z:
+# {"fileName":"ObjectDefinition.java","id":"sourceFile"}
+    java.util.Map params -> a
+    int id -> b
+    int opcode_78_1 -> c
+    int opcode_79_1 -> d
+    int opcode_79_2 -> e
+    int opcode_78_and_79 -> f
+    249:642:void <init>() -> <init>
+    581:587:void <clinit>() -> <clinit>
+com.hazy.cache.def.SpriteDefinition -> aa:
+# {"fileName":"SpriteDefinition.java","id":"sourceFile"}
+    27:27:void <init>() -> <init>
+com.hazy.cache.def.TextureDefinition -> ab:
+# {"fileName":"TextureDefinition.java","id":"sourceFile"}
+    37:37:void <init>() -> <init>
+com.hazy.cache.def.impl.NpcManager -> ac:
+# {"fileName":"NpcManager.java","id":"sourceFile"}
+    8:8:void <init>() -> <init>
+com.hazy.cache.def.impl.ObjectManager -> ad:
+# {"fileName":"ObjectManager.java","id":"sourceFile"}
+    5:5:void <init>() -> <init>
+com.hazy.cache.def.impl.items.CustomItems -> ae:
+# {"fileName":"CustomItems.java","id":"sourceFile"}
+    12:12:void <init>() -> <init>
+com.hazy.cache.def.impl.npcs.CustomBosses -> af:
+# {"fileName":"CustomBosses.java","id":"sourceFile"}
+    11:11:void <init>() -> <init>
+com.hazy.cache.def.impl.npcs.CustomPets -> ag:
+# {"fileName":"CustomPets.java","id":"sourceFile"}
+    15:15:void <init>() -> <init>
+com.hazy.cache.def.impl.npcs.MemberNpcs -> ah:
+# {"fileName":"MemberNpcs.java","id":"sourceFile"}
+    10:10:void <init>() -> <init>
+com.hazy.cache.def.loaders.SpriteLoader -> ai:
+# {"fileName":"SpriteLoader.java","id":"sourceFile"}
+    30:30:void <init>() -> <init>
+com.hazy.cache.def.loaders.TextureLoader -> aj:
+# {"fileName":"TextureLoader.java","id":"sourceFile"}
+    32:32:void <init>() -> <init>
+com.hazy.cache.def.provider.SpriteProvider -> ak:
+# {"fileName":"SpriteProvider.java","id":"sourceFile"}
+com.hazy.cache.def.provider.TextureProvider -> al:
+# {"fileName":"TextureProvider.java","id":"sourceFile"}
+com.hazy.cache.factory.ItemSpriteFactory -> am:
+# {"fileName":"ItemSpriteFactory.java","id":"sourceFile"}
+    20:20:void <init>() -> <init>
+    22:23:void <clinit>() -> <clinit>
+com.hazy.cache.graphics.IndexedImage -> an:
+# {"fileName":"IndexedImage.java","id":"sourceFile"}
+com.hazy.cache.graphics.MapFunctionLoader -> ao:
+# {"fileName":"MapFunctionLoader.java","id":"sourceFile"}
+    10:10:void <init>() -> <init>
+com.hazy.cache.graphics.SimpleImage -> ap:
+# {"fileName":"SimpleImage.java","id":"sourceFile"}
+com.hazy.cache.graphics.SimpleImage$1 -> ap$1:
+# {"fileName":"SimpleImage.java","id":"sourceFile"}
+com.hazy.cache.graphics.SpecialBarSpriteLoader -> aq:
+# {"fileName":"SpecialBarSpriteLoader.java","id":"sourceFile"}
+    java.lang.String name -> a
+    int id -> b
+    int drawOffsetX -> c
+    int drawOffsetY -> d
+    byte[] spriteData -> e
+    25:31:void <init>() -> <init>
+com.hazy.cache.graphics.SpriteCache -> ar:
+# {"fileName":"SpriteCache.java","id":"sourceFile"}
+    18:18:void <init>() -> <init>
+com.hazy.cache.graphics.dropdown.Dropdown -> as:
+# {"fileName":"Dropdown.java","id":"sourceFile"}
+    com.hazy.cache.graphics.dropdown.Dropdown$1 KEYBIND_SELECTION$4e766e1a -> a
+    com.hazy.cache.graphics.dropdown.Dropdown$2 PLAYER_ATTACK_OPTION_PRIORITY$4e766e1a -> b
+    com.hazy.cache.graphics.dropdown.Dropdown$3 NPC_ATTACK_OPTION_PRIORITY$4e766e1a -> c
+    30:31:void <init>(java.lang.String,int) -> <init>
+    7:7:void <init>(java.lang.String,int,byte) -> <init>
+    7:23:void <clinit>() -> <clinit>
+com.hazy.cache.graphics.dropdown.Dropdown$1 -> as$1:
+# {"fileName":"Dropdown.java","id":"sourceFile"}
+    9:9:void <init>(java.lang.String) -> <init>
+com.hazy.cache.graphics.dropdown.Dropdown$2 -> as$2:
+# {"fileName":"Dropdown.java","id":"sourceFile"}
+    16:16:void <init>(java.lang.String) -> <init>
+com.hazy.cache.graphics.dropdown.Dropdown$3 -> as$3:
+# {"fileName":"Dropdown.java","id":"sourceFile"}
+    23:23:void <init>(java.lang.String) -> <init>
+com.hazy.cache.graphics.dropdown.DropdownMenu -> at:
+# {"fileName":"DropdownMenu.java","id":"sourceFile"}
+com.hazy.cache.graphics.fading_screen.BlackFadingScreen -> au:
+# {"fileName":"BlackFadingScreen.java","id":"sourceFile"}
+com.hazy.cache.graphics.fading_screen.FadingScreen -> av:
+# {"fileName":"FadingScreen.java","id":"sourceFile"}
+com.hazy.cache.graphics.fading_screen.FadingScreenImage -> aw:
+# {"fileName":"FadingScreenImage.java","id":"sourceFile"}
+com.hazy.cache.graphics.font.AdvancedFont -> ax:
+# {"fileName":"AdvancedFont.java","id":"sourceFile"}
+com.hazy.cache.graphics.widget.CombinationRunes -> ay:
+# {"fileName":"CombinationRunes.java","id":"sourceFile"}
+    com.hazy.cache.graphics.widget.CombinationRunes MIST_RUNE -> a
+    com.hazy.cache.graphics.widget.CombinationRunes DUST_RUNE -> b
+    com.hazy.cache.graphics.widget.CombinationRunes MUD_RUNE -> c
+    com.hazy.cache.graphics.widget.CombinationRunes SMOKE_RUNE -> d
+    com.hazy.cache.graphics.widget.CombinationRunes STEAM_RUNE -> e
+    com.hazy.cache.graphics.widget.CombinationRunes LAVA_RUNE -> f
+    int runeItemId -> g
+    int[] combinedRunesId -> h
+    15:18:void <init>(java.lang.String,int,int,int[]) -> <init>
+    3:9:void <clinit>() -> <clinit>
+com.hazy.cache.graphics.widget.DrawLine -> az:
+# {"fileName":"DrawLine.java","id":"sourceFile"}
+com.hazy.cache.graphics.widget.DrawLine$LineType -> az$a:
+# {"fileName":"DrawLine.java","id":"sourceFile"}
+    com.hazy.cache.graphics.widget.DrawLine$LineType HORIZONTAL -> a
+    com.hazy.cache.graphics.widget.DrawLine$LineType VERTICAL -> b
+    23:23:void <init>(java.lang.String,int) -> <init>
+    23:26:void <clinit>() -> <clinit>
+com.hazy.cache.graphics.widget.Slider -> ba:
+# {"fileName":"Slider.java","id":"sourceFile"}
+com.hazy.cache.graphics.widget.SpawnTab -> bb:
+# {"fileName":"SpawnTab.java","id":"sourceFile"}
+    11:11:void <init>() -> <init>
+    13:18:void <clinit>() -> <clinit>
+com.hazy.cache.graphics.widget.SpawnTab$1 -> bb$1:
+# {"fileName":"SpawnTab.java","id":"sourceFile"}
+    22:22:void <clinit>() -> <clinit>
+com.hazy.cache.graphics.widget.SpawnTabAllItems -> bc:
+# {"fileName":"SpawnTabAllItems.java","id":"sourceFile"}
+    13:13:void <init>() -> <init>
+    15:19:void <clinit>() -> <clinit>
+com.hazy.cache.graphics.widget.SpawnTabAllItems$1 -> bc$1:
+# {"fileName":"SpawnTabAllItems.java","id":"sourceFile"}
+    int[] $SwitchMap$com$hazy$cache$graphics$widget$SpawnTabType -> a
+    23:23:void <clinit>() -> <clinit>
+com.hazy.cache.graphics.widget.SpawnTabType -> bd:
+# {"fileName":"SpawnTabType.java","id":"sourceFile"}
+    com.hazy.cache.graphics.widget.SpawnTabType INVENTORY -> a
+    com.hazy.cache.graphics.widget.SpawnTabType BANK -> b
+    com.hazy.cache.graphics.widget.SpawnTabType[] $VALUES -> c
+    7:7:com.hazy.cache.graphics.widget.SpawnTabType[] values() -> a
+    7:7:void <init>(java.lang.String,int) -> <init>
+    7:9:void <clinit>() -> <clinit>
+com.hazy.cache.graphics.widget.SpecialAttackBars -> be:
+# {"fileName":"SpecialAttackBars.java","id":"sourceFile"}
+    com.hazy.cache.graphics.widget.SpecialAttackBars DRAGON_THROWNAXE -> a
+    com.hazy.cache.graphics.widget.SpecialAttackBars TOXIC_BLOWPIPE -> b
+    com.hazy.cache.graphics.widget.SpecialAttackBars TOXIC_BLOWPIPE_CUSTOM -> c
+    com.hazy.cache.graphics.widget.SpecialAttackBars HWEEN_BLOWPIPE_ -> d
+    com.hazy.cache.graphics.widget.SpecialAttackBars DRAGON_KNIVE -> e
+    com.hazy.cache.graphics.widget.SpecialAttackBars DRAGON_KNIVE_P -> f
+    com.hazy.cache.graphics.widget.SpecialAttackBars DRAGON_KNIVE_P_PLUS -> g
+    com.hazy.cache.graphics.widget.SpecialAttackBars DRAGON_KNIVE_P_PLUS_PLUS -> h
+    com.hazy.cache.graphics.widget.SpecialAttackBars DORGESHUUN_CROSSBOW -> i
+    com.hazy.cache.graphics.widget.SpecialAttackBars DRAGON_CROSSBOW -> j
+    com.hazy.cache.graphics.widget.SpecialAttackBars MAGIC_COMP_BOW -> k
+    com.hazy.cache.graphics.widget.SpecialAttackBars RUNE_THROWNAXE -> l
+    com.hazy.cache.graphics.widget.SpecialAttackBars MAGIC_SHORTBOW -> m
+    com.hazy.cache.graphics.widget.SpecialAttackBars MAGIC_SHORTBOW_I -> n
+    com.hazy.cache.graphics.widget.SpecialAttackBars MAGIC_SHORTBOW_I2 -> o
+    com.hazy.cache.graphics.widget.SpecialAttackBars MAGIC_LONGBOW -> p
+    com.hazy.cache.graphics.widget.SpecialAttackBars SEERCULL -> q
+    com.hazy.cache.graphics.widget.SpecialAttackBars ARMADYL_CROSSBOW -> r
+    com.hazy.cache.graphics.widget.SpecialAttackBars LIGHT_BALLISTA -> s
+    com.hazy.cache.graphics.widget.SpecialAttackBars HEAVY_BALLISTA -> t
+    com.hazy.cache.graphics.widget.SpecialAttackBars TIER_5_4_DARK_BOW -> u
+    com.hazy.cache.graphics.widget.SpecialAttackBars TIER_5_3_DARK_BOW -> v
+    com.hazy.cache.graphics.widget.SpecialAttackBars TIER_5_2_DARK_BOW -> w
+    com.hazy.cache.graphics.widget.SpecialAttackBars TIER_5_1_DARK_BOW -> x
+    com.hazy.cache.graphics.widget.SpecialAttackBars TIER_5_DARK_BOW -> y
+    com.hazy.cache.graphics.widget.SpecialAttackBars DARK_BOW_5 -> z
+    com.hazy.cache.graphics.widget.SpecialAttackBars DARK_BOW_4 -> A
+    com.hazy.cache.graphics.widget.SpecialAttackBars DARK_BOW_3 -> B
+    com.hazy.cache.graphics.widget.SpecialAttackBars DARK_BOW_2 -> C
+    com.hazy.cache.graphics.widget.SpecialAttackBars DARK_BOW_1 -> D
+    com.hazy.cache.graphics.widget.SpecialAttackBars DARK_BOW -> E
+    com.hazy.cache.graphics.widget.SpecialAttackBars DAWNBRINGER -> F
+    com.hazy.cache.graphics.widget.SpecialAttackBars MORRIGANS_JAVELIN -> G
+    com.hazy.cache.graphics.widget.SpecialAttackBars MORRIGANS_JAVELIN_23619 -> H
+    com.hazy.cache.graphics.widget.SpecialAttackBars MORRIGANS_THROWING_AXE -> I
+    com.hazy.cache.graphics.widget.SpecialAttackBars ELEMENTAL_BOW -> J
+    com.hazy.cache.graphics.widget.SpecialAttackBars ZARYTE_BOW -> K
+    com.hazy.cache.graphics.widget.SpecialAttackBars STAFF_OF_THE_DEAD -> L
+    com.hazy.cache.graphics.widget.SpecialAttackBars TOXIC_STAFF_UNCHARGED -> M
+    com.hazy.cache.graphics.widget.SpecialAttackBars TOXIC_STAFF_OF_THE_DEAD -> N
+    com.hazy.cache.graphics.widget.SpecialAttackBars TOXIC_STAFF_OF_THE_DEAD_C -> O
+    com.hazy.cache.graphics.widget.SpecialAttackBars STAFF_OF_LIGHT -> P
+    com.hazy.cache.graphics.widget.SpecialAttackBars VOLATILE_NIGHTMARE_STAFF -> Q
+    com.hazy.cache.graphics.widget.SpecialAttackBars ELDRITCH_NIGHTMARE_STAFF -> R
+    com.hazy.cache.graphics.widget.SpecialAttackBars ELEMENTAL_STAFF -> S
+    com.hazy.cache.graphics.widget.SpecialAttackBars STAFF_OF_BALANCE -> T
+    com.hazy.cache.graphics.widget.SpecialAttackBars ANCIENT_GODSWORD -> U
+    com.hazy.cache.graphics.widget.SpecialAttackBars OSMUMTENS_FANG -> V
+    com.hazy.cache.graphics.widget.SpecialAttackBars OSMUMTENS_FANG_OR -> W
+    com.hazy.cache.graphics.widget.SpecialAttackBars VOIDWAKER -> X
+    com.hazy.cache.graphics.widget.SpecialAttackBars URSINE_CHAINMACE -> Y
+    com.hazy.cache.graphics.widget.SpecialAttackBars WEBWEAVER_BOW -> Z
+    com.hazy.cache.graphics.widget.SpecialAttackBars ANCIENT_WARRIOR_SWORD -> aa
+    com.hazy.cache.graphics.widget.SpecialAttackBars ANCIENT_WARRIOR_AXE -> ab
+    com.hazy.cache.graphics.widget.SpecialAttackBars ANCIENT_WARRIOR_MAUL -> ac
+    com.hazy.cache.graphics.widget.SpecialAttackBars ANCIENT_WARRIOR_SWORD_C -> ad
+    com.hazy.cache.graphics.widget.SpecialAttackBars ANCIENT_WARRIOR_AXE_C -> ae
+    com.hazy.cache.graphics.widget.SpecialAttackBars ANCIENT_WARRIOR_MAUL_C -> af
+    com.hazy.cache.graphics.widget.SpecialAttackBars GRANITE_HAMMER -> ag
+    com.hazy.cache.graphics.widget.SpecialAttackBars DRAGON_2H_SWORD -> ah
+    com.hazy.cache.graphics.widget.SpecialAttackBars BONE_DAGGER -> ai
+    com.hazy.cache.graphics.widget.SpecialAttackBars BONE_DAGGER_P1 -> aj
+    com.hazy.cache.graphics.widget.SpecialAttackBars BONE_DAGGER_P2 -> ak
+    com.hazy.cache.graphics.widget.SpecialAttackBars BONE_DAGGER_P3 -> al
+    com.hazy.cache.graphics.widget.SpecialAttackBars NEW_CRYSTAL_HALBERD_FULL_I -> am
+    com.hazy.cache.graphics.widget.SpecialAttackBars NEW_CRYSTAL_HALBERD_FULL -> an
+    com.hazy.cache.graphics.widget.SpecialAttackBars BRINE_SABRE -> ao
+    com.hazy.cache.graphics.widget.SpecialAttackBars RUNE_CLAWS -> ap
+    com.hazy.cache.graphics.widget.SpecialAttackBars EXCALIBUR -> aq
+    com.hazy.cache.graphics.widget.SpecialAttackBars THIRD_AGE_AXE -> ar
+    com.hazy.cache.graphics.widget.SpecialAttackBars THIRD_AGE_PICKAXE -> as
+    com.hazy.cache.graphics.widget.SpecialAttackBars DRAGON_CLAWS_1 -> at
+    com.hazy.cache.graphics.widget.SpecialAttackBars HWEEN_DRAGON_CLAWS_ -> au
+    com.hazy.cache.graphics.widget.SpecialAttackBars DRAGON_WARHAMMER_1 -> av
+    com.hazy.cache.graphics.widget.SpecialAttackBars GRANITE_MAUL_OR1 -> aw
+    com.hazy.cache.graphics.widget.SpecialAttackBars DRAGON_AXE -> ax
+    com.hazy.cache.graphics.widget.SpecialAttackBars DRAGON_BATTLEAXE -> ay
+    com.hazy.cache.graphics.widget.SpecialAttackBars DRAGON_SPEAR -> az
+    com.hazy.cache.graphics.widget.SpecialAttackBars DRAGON_SPEAR_P -> aA
+    com.hazy.cache.graphics.widget.SpecialAttackBars DRAGON_SPEARP -> aB
+    com.hazy.cache.graphics.widget.SpecialAttackBars DRAGON_SPEAR_P1 -> aC
+    com.hazy.cache.graphics.widget.SpecialAttackBars DRAGON_SPEARKP -> aD
+    com.hazy.cache.graphics.widget.SpecialAttackBars SARAS_BLESSED_SWORD_FULL -> aE
+    com.hazy.cache.graphics.widget.SpecialAttackBars SARADOMINS_BLESSED_SWORD -> aF
+    com.hazy.cache.graphics.widget.SpecialAttackBars DRAGON_WARHAMMER -> aG
+    com.hazy.cache.graphics.widget.SpecialAttackBars DRAGON_SWORD -> aH
+    com.hazy.cache.graphics.widget.SpecialAttackBars DINHS_BULWARK -> aI
+    com.hazy.cache.graphics.widget.SpecialAttackBars DRAGON_LONGSWORD -> aJ
+    com.hazy.cache.graphics.widget.SpecialAttackBars ARMADYL_GODSWORD_20593 -> aK
+    com.hazy.cache.graphics.widget.SpecialAttackBars ARMADYL_GODSWORD -> aL
+    com.hazy.cache.graphics.widget.SpecialAttackBars ARMADYL_FROSTSWORD -> aM
+    com.hazy.cache.graphics.widget.SpecialAttackBars BEGINNER_AGS -> aN
+    com.hazy.cache.graphics.widget.SpecialAttackBars HWEEN_AGS -> aO
+    com.hazy.cache.graphics.widget.SpecialAttackBars BANDOS_GODSWORD -> aP
+    com.hazy.cache.graphics.widget.SpecialAttackBars SARADOMIN_GODSWORD -> aQ
+    com.hazy.cache.graphics.widget.SpecialAttackBars DRAGON_SCIMITAR_OR -> aR
+    com.hazy.cache.graphics.widget.SpecialAttackBars ZAMORAK_GODSWORD -> aS
+    com.hazy.cache.graphics.widget.SpecialAttackBars DRAGON_HARPOON -> aT
+    com.hazy.cache.graphics.widget.SpecialAttackBars INFERNAL_HARPOON -> aU
+    com.hazy.cache.graphics.widget.SpecialAttackBars INFERNAL_HARPOON_UNCHARGED -> aV
+    com.hazy.cache.graphics.widget.SpecialAttackBars DRAGON_DAGGER_P1 -> aW
+    com.hazy.cache.graphics.widget.SpecialAttackBars GRANITE_MAUL_OR -> aX
+    com.hazy.cache.graphics.widget.SpecialAttackBars ZAMORAKIAN_SPEAR -> aY
+    com.hazy.cache.graphics.widget.SpecialAttackBars ANCIENT_MACE -> aZ
+    com.hazy.cache.graphics.widget.SpecialAttackBars ABYSSAL_WHIP -> ba
+    com.hazy.cache.graphics.widget.SpecialAttackBars GRANITE_MAUL -> bb
+    com.hazy.cache.graphics.widget.SpecialAttackBars HWEEN_GRANITE_MAUL_ -> bc
+    com.hazy.cache.graphics.widget.SpecialAttackBars GRANITE_MAUL_24944 -> bd
+    com.hazy.cache.graphics.widget.SpecialAttackBars SARADOMIN_SWORD -> be
+    com.hazy.cache.graphics.widget.SpecialAttackBars DRAGON_DAGGERP -> bf
+    com.hazy.cache.graphics.widget.SpecialAttackBars DRAGON_DAGGERP_24949 -> bg
+    com.hazy.cache.graphics.widget.SpecialAttackBars BEGINNER_DRAGON_CLAWS -> bh
+    com.hazy.cache.graphics.widget.SpecialAttackBars FROST_CLAWS -> bi
+    com.hazy.cache.graphics.widget.SpecialAttackBars DRAGON_CLAWS -> bj
+    com.hazy.cache.graphics.widget.SpecialAttackBars DRAGON_CLAWS_OR -> bk
+    com.hazy.cache.graphics.widget.SpecialAttackBars DARKLIGHT -> bl
+    com.hazy.cache.graphics.widget.SpecialAttackBars ZAMORAKIAN_HASTA -> bm
+    com.hazy.cache.graphics.widget.SpecialAttackBars ARMADYL_GODSWORD_OR1 -> bn
+    com.hazy.cache.graphics.widget.SpecialAttackBars DRAGON_HALBERD -> bo
+    com.hazy.cache.graphics.widget.SpecialAttackBars BARRELCHEST_ANCHOR -> bp
+    com.hazy.cache.graphics.widget.SpecialAttackBars DRAGON_PICKAXE -> bq
+    com.hazy.cache.graphics.widget.SpecialAttackBars ARMADYL_GODSWORD_OR -> br
+    com.hazy.cache.graphics.widget.SpecialAttackBars BANDOS_GODSWORD_OR -> bs
+    com.hazy.cache.graphics.widget.SpecialAttackBars SARADOMIN_GODSWORD_OR -> bt
+    com.hazy.cache.graphics.widget.SpecialAttackBars ZAMORAK_GODSWORD_OR -> bu
+    com.hazy.cache.graphics.widget.SpecialAttackBars DRAGON_MACE -> bv
+    com.hazy.cache.graphics.widget.SpecialAttackBars INQUISITORS_MACE -> bw
+    com.hazy.cache.graphics.widget.SpecialAttackBars SHADOW_MACE -> bx
+    com.hazy.cache.graphics.widget.SpecialAttackBars ABYSSAL_WHIP_1 -> by
+    com.hazy.cache.graphics.widget.SpecialAttackBars DRAGON_SCIMITAR_OR1 -> bz
+    com.hazy.cache.graphics.widget.SpecialAttackBars DRAGON_DAGGER_OR -> bA
+    com.hazy.cache.graphics.widget.SpecialAttackBars INFERNAL_AXE -> bB
+    com.hazy.cache.graphics.widget.SpecialAttackBars INFERNAL_AXE_UNCHARGED -> bC
+    com.hazy.cache.graphics.widget.SpecialAttackBars INFERNAL_PICKAXE -> bD
+    com.hazy.cache.graphics.widget.SpecialAttackBars INFERNAL_PICKAXE_UNCHARGED -> bE
+    com.hazy.cache.graphics.widget.SpecialAttackBars DRAGON_DAGGER -> bF
+    com.hazy.cache.graphics.widget.SpecialAttackBars DRAGON_DAGGER_P -> bG
+    com.hazy.cache.graphics.widget.SpecialAttackBars ABYSSAL_BLUDGEON -> bH
+    com.hazy.cache.graphics.widget.SpecialAttackBars ABYSSAL_DAGGER -> bI
+    com.hazy.cache.graphics.widget.SpecialAttackBars ABYSSAL_DAGGER_P1 -> bJ
+    com.hazy.cache.graphics.widget.SpecialAttackBars ABYSSAL_DAGGER_P2 -> bK
+    com.hazy.cache.graphics.widget.SpecialAttackBars DRAGON_SWORD_OR -> bL
+    com.hazy.cache.graphics.widget.SpecialAttackBars ABYSSAL_DAGGER_P3 -> bM
+    com.hazy.cache.graphics.widget.SpecialAttackBars ARCLIGHT -> bN
+    com.hazy.cache.graphics.widget.SpecialAttackBars VOLCANIC_ABYSSAL_WHIP -> bO
+    com.hazy.cache.graphics.widget.SpecialAttackBars FROZEN_ABYSSAL_WHIP -> bP
+    com.hazy.cache.graphics.widget.SpecialAttackBars ABYSSAL_TENTACLE -> bQ
+    com.hazy.cache.graphics.widget.SpecialAttackBars ABYSSAL_TENTACLE_24948 -> bR
+    com.hazy.cache.graphics.widget.SpecialAttackBars ABYSSAL_TENTACLE_OR -> bS
+    com.hazy.cache.graphics.widget.SpecialAttackBars DRAGON_SCIMITAR -> bT
+    com.hazy.cache.graphics.widget.SpecialAttackBars BLADE_OF_SAELDOR_T -> bU
+    com.hazy.cache.graphics.widget.SpecialAttackBars DRAGON_PICKAXE_OR -> bV
+    com.hazy.cache.graphics.widget.SpecialAttackBars VESTAS_LONGSWORD_23615 -> bW
+    com.hazy.cache.graphics.widget.SpecialAttackBars VESTAS_LONGSWORD -> bX
+    com.hazy.cache.graphics.widget.SpecialAttackBars ANCIENT_VESTAS_LONGSWORD -> bY
+    com.hazy.cache.graphics.widget.SpecialAttackBars VESTAS_SPEAR -> bZ
+    com.hazy.cache.graphics.widget.SpecialAttackBars STATIUS_WARHAMMER -> ca
+    com.hazy.cache.graphics.widget.SpecialAttackBars STATIUS_WARHAMMER_23620 -> cb
+    com.hazy.cache.graphics.widget.SpecialAttackBars ANCIENT_STATIUS_WARHAMMER -> cc
+    com.hazy.cache.graphics.widget.SpecialAttackBars IVANDIS_FLAIL -> cd
+    com.hazy.cache.graphics.widget.SpecialAttackBars ROD_OF_IVANDIS_10 -> ce
+    com.hazy.cache.graphics.widget.SpecialAttackBars ROD_OF_IVANDIS_9 -> cf
+    com.hazy.cache.graphics.widget.SpecialAttackBars ROD_OF_IVANDIS_8 -> cg
+    com.hazy.cache.graphics.widget.SpecialAttackBars ROD_OF_IVANDIS_7 -> ch
+    com.hazy.cache.graphics.widget.SpecialAttackBars ROD_OF_IVANDIS_6 -> ci
+    com.hazy.cache.graphics.widget.SpecialAttackBars ROD_OF_IVANDIS_5 -> cj
+    com.hazy.cache.graphics.widget.SpecialAttackBars ROD_OF_IVANDIS_4 -> ck
+    com.hazy.cache.graphics.widget.SpecialAttackBars ROD_OF_IVANDIS_3 -> cl
+    com.hazy.cache.graphics.widget.SpecialAttackBars ROD_OF_IVANDIS_2 -> cm
+    com.hazy.cache.graphics.widget.SpecialAttackBars ROD_OF_IVANDIS_1 -> cn
+    int itemId -> co
+    int interfaceId -> cp
+    int specialMeter -> cq
+    int tooltipChild -> cr
+    double specialAmount -> cs
+    java.lang.String tooltip -> ct
+    195:202:void <init>(java.lang.String,int,int,java.lang.String,double,int,int,int) -> <init>
+    8:189:void <clinit>() -> <clinit>
+com.hazy.cache.graphics.widget.TradeOpacity -> bf:
+# {"fileName":"TradeOpacity.java","id":"sourceFile"}
+com.hazy.cache.graphics.widget.Widget -> bg:
+# {"fileName":"Widget.java","id":"sourceFile"}
+    int dropdownHover -> a
+    int transparency -> b
+    int hoverXOffset -> c
+    int hoverYOffset -> d
+    int spriteXOffset -> e
+    int spriteYOffset -> f
+    int clickSprite1 -> g
+    int childToIntersect -> h
+    int radioID -> i
+    int clickSprite2 -> j
+    int pauseTicks -> k
+    boolean updateConfig -> l
+    boolean endReached -> m
+    boolean collection -> n
+    boolean displayAmount -> o
+    boolean displayExamine -> p
+    boolean toggled -> q
+    boolean hovered -> r
+    boolean isAchievementHover -> s
+    boolean isHovered -> t
+    boolean fullCint -> u
+    boolean drawNumber -> v
+    boolean geSearchButton -> w
+    boolean isRadioButton -> x
+    boolean serverCheck -> y
+    boolean clickable -> z
+    boolean fancy -> A
+    java.lang.String defaultInputFieldText -> B
+    java.lang.String inputRegex -> C
+    int childCount -> D
+    468:2750:void <init>() -> <init>
+    454:4101:void <clinit>() -> <clinit>
+com.hazy.cache.graphics.widget.impl.AchievementWidget -> bh:
+# {"fileName":"AchievementWidget.java","id":"sourceFile"}
+    12:12:void <init>() -> <init>
+com.hazy.cache.graphics.widget.impl.BankWidget -> bi:
+# {"fileName":"BankWidget.java","id":"sourceFile"}
+    16:16:void <init>() -> <init>
+com.hazy.cache.graphics.widget.impl.BarrowsRewardWidget -> bj:
+# {"fileName":"BarrowsRewardWidget.java","id":"sourceFile"}
+    6:6:void <init>() -> <init>
+com.hazy.cache.graphics.widget.impl.ClanChatSidebarWidget -> bk:
+# {"fileName":"ClanChatSidebarWidget.java","id":"sourceFile"}
+    14:14:void <init>() -> <init>
+com.hazy.cache.graphics.widget.impl.ClientSettingsWidget -> bl:
+# {"fileName":"ClientSettingsWidget.java","id":"sourceFile"}
+    13:13:void <init>() -> <init>
+com.hazy.cache.graphics.widget.impl.CollectionLogWidget -> bm:
+# {"fileName":"CollectionLogWidget.java","id":"sourceFile"}
+    6:6:void <init>() -> <init>
+com.hazy.cache.graphics.widget.impl.DailyTasksWidget -> bn:
+# {"fileName":"DailyTasksWidget.java","id":"sourceFile"}
+    10:10:void <init>() -> <init>
+com.hazy.cache.graphics.widget.impl.DialogueWidget -> bo:
+# {"fileName":"DialogueWidget.java","id":"sourceFile"}
+    5:5:void <init>() -> <init>
+com.hazy.cache.graphics.widget.impl.DonationPromoWidget -> bp:
+# {"fileName":"DonationPromoWidget.java","id":"sourceFile"}
+    12:12:void <init>() -> <init>
+com.hazy.cache.graphics.widget.impl.DropInterfaceWidget -> bq:
+# {"fileName":"DropInterfaceWidget.java","id":"sourceFile"}
+    6:6:void <init>() -> <init>
+com.hazy.cache.graphics.widget.impl.DuelArenaWidget -> br:
+# {"fileName":"DuelArenaWidget.java","id":"sourceFile"}
+    6:6:void <init>() -> <init>
+com.hazy.cache.graphics.widget.impl.EnchantBoltsWidget -> bs:
+# {"fileName":"EnchantBoltsWidget.java","id":"sourceFile"}
+    12:12:void <init>() -> <init>
+com.hazy.cache.graphics.widget.impl.EquipmentWidget -> bt:
+# {"fileName":"EquipmentWidget.java","id":"sourceFile"}
+    13:13:void <init>() -> <init>
+com.hazy.cache.graphics.widget.impl.EventWidget -> bu:
+# {"fileName":"EventWidget.java","id":"sourceFile"}
+    10:10:void <init>() -> <init>
+com.hazy.cache.graphics.widget.impl.ForgeWidget -> bv:
+# {"fileName":"ForgeWidget.java","id":"sourceFile"}
+    6:6:void <init>() -> <init>
+com.hazy.cache.graphics.widget.impl.GambleWidget -> bw:
+# {"fileName":"GambleWidget.java","id":"sourceFile"}
+    12:12:void <init>() -> <init>
+com.hazy.cache.graphics.widget.impl.IronmanWidget -> bx:
+# {"fileName":"IronmanWidget.java","id":"sourceFile"}
+    11:11:void <init>() -> <init>
+com.hazy.cache.graphics.widget.impl.ItemSimulationWidget -> by:
+# {"fileName":"ItemSimulationWidget.java","id":"sourceFile"}
+    10:10:void <init>() -> <init>
+com.hazy.cache.graphics.widget.impl.ItemsKeptOnDeathWidget -> bz:
+# {"fileName":"ItemsKeptOnDeathWidget.java","id":"sourceFile"}
+    6:6:void <init>() -> <init>
+com.hazy.cache.graphics.widget.impl.JewelryWidget -> ca:
+# {"fileName":"JewelryWidget.java","id":"sourceFile"}
+    5:5:void <init>() -> <init>
+com.hazy.cache.graphics.widget.impl.KeybindingWidget -> cb:
+# {"fileName":"KeybindingWidget.java","id":"sourceFile"}
+    10:10:void <init>() -> <init>
+com.hazy.cache.graphics.widget.impl.KillCountWidget -> cc:
+# {"fileName":"KillCountWidget.java","id":"sourceFile"}
+    6:6:void <init>() -> <init>
+com.hazy.cache.graphics.widget.impl.LogoutWidget -> cd:
+# {"fileName":"LogoutWidget.java","id":"sourceFile"}
+    7:7:void <init>() -> <init>
+com.hazy.cache.graphics.widget.impl.LootingBagWidget -> ce:
+# {"fileName":"LootingBagWidget.java","id":"sourceFile"}
+    12:12:void <init>() -> <init>
+com.hazy.cache.graphics.widget.impl.MagicSidebarWidget -> cf:
+# {"fileName":"MagicSidebarWidget.java","id":"sourceFile"}
+    6:6:void <init>() -> <init>
+com.hazy.cache.graphics.widget.impl.MysteryBoxWidget -> cg:
+# {"fileName":"MysteryBoxWidget.java","id":"sourceFile"}
+    6:6:void <init>() -> <init>
+com.hazy.cache.graphics.widget.impl.OptionTabWidget -> ch:
+# {"fileName":"OptionTabWidget.java","id":"sourceFile"}
+    10:10:void <init>() -> <init>
+com.hazy.cache.graphics.widget.impl.OrnateJewelleryBoxWidget -> ci:
+# {"fileName":"OrnateJewelleryBoxWidget.java","id":"sourceFile"}
+    10:10:void <init>() -> <init>
+com.hazy.cache.graphics.widget.impl.PetInsuranceWidget -> cj:
+# {"fileName":"PetInsuranceWidget.java","id":"sourceFile"}
+    10:10:void <init>() -> <init>
+com.hazy.cache.graphics.widget.impl.PrayerSidebarWidget -> ck:
+# {"fileName":"PrayerSidebarWidget.java","id":"sourceFile"}
+    7:7:void <init>() -> <init>
+com.hazy.cache.graphics.widget.impl.PresetWidget -> cl:
+# {"fileName":"PresetWidget.java","id":"sourceFile"}
+    12:12:void <init>() -> <init>
+com.hazy.cache.graphics.widget.impl.PriceChecker -> cm:
+# {"fileName":"PriceChecker.java","id":"sourceFile"}
+    14:14:void <init>() -> <init>
+com.hazy.cache.graphics.widget.impl.QuestTabSidebarWidget -> cn:
+# {"fileName":"QuestTabSidebarWidget.java","id":"sourceFile"}
+    11:11:void <init>() -> <init>
+com.hazy.cache.graphics.widget.impl.RaidsWidget -> co:
+# {"fileName":"RaidsWidget.java","id":"sourceFile"}
+    12:12:void <init>() -> <init>
+com.hazy.cache.graphics.widget.impl.ReferralWidget -> cp:
+# {"fileName":"ReferralWidget.java","id":"sourceFile"}
+    11:11:void <init>() -> <init>
+com.hazy.cache.graphics.widget.impl.RunePouchWidget -> cq:
+# {"fileName":"RunePouchWidget.java","id":"sourceFile"}
+    6:6:void <init>() -> <init>
+com.hazy.cache.graphics.widget.impl.ScrollWidget -> cr:
+# {"fileName":"ScrollWidget.java","id":"sourceFile"}
+    10:10:void <init>() -> <init>
+com.hazy.cache.graphics.widget.impl.ShopWidget -> cs:
+# {"fileName":"ShopWidget.java","id":"sourceFile"}
+    14:14:void <init>() -> <init>
+com.hazy.cache.graphics.widget.impl.SkillSidebarWidget -> ct:
+# {"fileName":"SkillSidebarWidget.java","id":"sourceFile"}
+    6:6:void <init>() -> <init>
+    12:12:void <clinit>() -> <clinit>
+com.hazy.cache.graphics.widget.impl.SlayerRewardWidget -> cu:
+# {"fileName":"SlayerRewardWidget.java","id":"sourceFile"}
+    12:12:void <init>() -> <init>
+com.hazy.cache.graphics.widget.impl.TaskWidget -> cv:
+# {"fileName":"TaskWidget.java","id":"sourceFile"}
+    10:10:void <init>() -> <init>
+com.hazy.cache.graphics.widget.impl.TeleportWidget -> cw:
+# {"fileName":"TeleportWidget.java","id":"sourceFile"}
+    13:13:void <init>() -> <init>
+com.hazy.cache.graphics.widget.impl.TitleWidget -> cx:
+# {"fileName":"TitleWidget.java","id":"sourceFile"}
+    10:10:void <init>() -> <init>
+com.hazy.cache.graphics.widget.impl.TournamentWidget -> cy:
+# {"fileName":"TournamentWidget.java","id":"sourceFile"}
+    6:6:void <init>() -> <init>
+com.hazy.cache.graphics.widget.impl.TradeWidget -> cz:
+# {"fileName":"TradeWidget.java","id":"sourceFile"}
+    6:6:void <init>() -> <init>
+com.hazy.cache.graphics.widget.impl.TradingPostWidget -> da:
+# {"fileName":"TradingPostWidget.java","id":"sourceFile"}
+    12:12:void <init>() -> <init>
+com.hazy.cache.graphics.widget.impl.UnmorphWidget -> db:
+# {"fileName":"UnmorphWidget.java","id":"sourceFile"}
+    6:6:void <init>() -> <init>
+com.hazy.cache.graphics.widget.impl.WeaponInterfacesWidget -> dc:
+# {"fileName":"WeaponInterfacesWidget.java","id":"sourceFile"}
+    7:7:void <init>() -> <init>
+com.hazy.cache.graphics.widget.impl.WildernessWidget -> dd:
+# {"fileName":"WildernessWidget.java","id":"sourceFile"}
+    6:6:void <init>() -> <init>
+com.hazy.collection.Cacheable -> de:
+# {"fileName":"Cacheable.java","id":"sourceFile"}
+    com.hazy.collection.Cacheable nextCacheable -> a
+    com.hazy.collection.Cacheable previousCacheable -> b
+    3:3:void <init>() -> <init>
+com.hazy.collection.Deque -> df:
+# {"fileName":"Deque.java","id":"sourceFile"}
+    com.hazy.collection.Linkable head -> a
+    8:12:void <init>() -> <init>
+com.hazy.collection.HashTable -> dg:
+# {"fileName":"HashTable.java","id":"sourceFile"}
+    int size -> a
+    com.hazy.collection.Node[] cache -> b
+    8:16:void <init>() -> <init>
+com.hazy.collection.Linkable -> dh:
+# {"fileName":"Linkable.java","id":"sourceFile"}
+    com.hazy.collection.Linkable previous -> a
+    com.hazy.collection.Linkable next -> b
+    3:3:void <init>() -> <init>
+com.hazy.collection.LinkedList -> di:
+# {"fileName":"LinkedList.java","id":"sourceFile"}
+    com.hazy.collection.Node head -> a
+    22:26:void <init>() -> <init>
+com.hazy.collection.Node -> dj:
+# {"fileName":"Node.java","id":"sourceFile"}
+    com.hazy.collection.Node prev -> c
+    com.hazy.collection.Node next -> d
+    3:3:void <init>() -> <init>
+com.hazy.collection.Queue -> dk:
+# {"fileName":"Queue.java","id":"sourceFile"}
+    com.hazy.collection.Cacheable head -> a
+    8:12:void <init>() -> <init>
+com.hazy.collection.TempCache -> dl:
+# {"fileName":"TempCache.java","id":"sourceFile"}
+    com.hazy.collection.Cacheable empty -> a
+    int capacity -> b
+    int spaceLeft -> c
+    com.hazy.collection.HashTable table -> d
+    com.hazy.collection.Queue references -> e
+    35:41:void <init>(int) -> <init>
+com.hazy.draw.ProducingGraphicsBuffer -> dm:
+# {"fileName":"ProducingGraphicsBuffer.java","id":"sourceFile"}
+com.hazy.draw.Rasterizer2D -> dn:
+# {"fileName":"Rasterizer2D.java","id":"sourceFile"}
+    17:17:void <init>() -> <init>
+    909:928:void <clinit>() -> <clinit>
+com.hazy.draw.Rasterizer3D -> do:
+# {"fileName":"Rasterizer3D.java","id":"sourceFile"}
+    int media_length -> i
+    int[] HSL_TO_RGB -> e
+    int[] anIntArray1468 -> j
+    int[] anIntArray1469 -> f
+    int[] SINE -> g
+    int[] COSINE -> h
+    8:8:void <init>() -> <init>
+    4505:8231:void <clinit>() -> <clinit>
+com.hazy.entity.Entity -> dp:
+# {"fileName":"Entity.java","id":"sourceFile"}
+    int index -> e
+    int[] waypoint_x -> f
+    int[] waypoint_y -> g
+    int engaged_entity_id -> h
+    int rotation -> i
+    byte field1191 -> j
+    byte field1192 -> k
+    byte field1193 -> l
+    byte field1133 -> m
+    int running_animation_id -> n
+    int height -> o
+    int idle_animation_id -> p
+    int standing_turn_animation_id -> q
+    int[] damage_dealt -> r
+    int[] damage_marker -> s
+    int[] damage_cycle -> t
+    int queued_animation_id -> u
+    int graphic_id -> v
+    int animation -> w
+    int game_tick_status -> x
+    int message_cycle -> y
+    int occupied_tiles -> z
+    boolean dynamic -> A
+    boolean[] waypoint_traveled -> B
+    int walk_animation_id -> C
+    int turn_around_animation_id -> D
+    int pivot_right_animation_id -> E
+    int pivot_left_animation_id -> F
+    8:108:void <init>() -> <init>
+com.hazy.entity.GroundItem -> dq:
+# {"fileName":"GroundItem.java","id":"sourceFile"}
+    3:3:void <init>() -> <init>
+com.hazy.entity.InteractiveObject -> dr:
+# {"fileName":"InteractiveObject.java","id":"sourceFile"}
+    6:6:void <init>() -> <init>
+com.hazy.entity.Item -> ds:
+# {"fileName":"Item.java","id":"sourceFile"}
+    8:9:void <init>() -> <init>
+com.hazy.entity.Npc -> dt:
+# {"fileName":"Npc.java","id":"sourceFile"}
+    int headIcon -> e
+    int ownerIndex -> f
+    10:14:void <init>() -> <init>
+com.hazy.entity.Player -> du:
+# {"fileName":"Player.java","id":"sourceFile"}
+    long key -> e
+    boolean reference_pose -> f
+    int[] appearance_colors -> g
+    boolean visible -> h
+    int[] player_appearance -> i
+    java.lang.String title -> j
+    java.lang.String titleColor -> k
+    382:419:void <init>() -> <init>
+    398:398:void <clinit>() -> <clinit>
+com.hazy.entity.Renderable -> dv:
+# {"fileName":"Renderable.java","id":"sourceFile"}
+    int model_height -> e
+    int sceneId -> f
+    15:42:void <init>() -> <init>
+com.hazy.entity.model.IdentityKit -> dw:
+# {"fileName":"IdentityKit.java","id":"sourceFile"}
+    int bodyPartId -> a
+    int[] originalColors -> b
+    int[] replacementColors -> c
+    int[] headModels -> d
+    12:20:void <init>() -> <init>
+com.hazy.entity.model.Model -> dx:
+# {"fileName":"Model.java","id":"sourceFile"}
+    byte face_priority -> e
+    boolean within_tile -> f
+    boolean aBoolean1618 -> g
+    java.util.Set repeatedTextureModels -> h
+    120:123:void addAll(int[]) -> a
+    88:151:void <init>() -> <init>
+    21:117:void <clinit>() -> <clinit>
+com.hazy.entity.model.ModelColorUtil -> dy:
+# {"fileName":"ModelColorUtil.java","id":"sourceFile"}
+    5:5:void <init>() -> <init>
+com.hazy.entity.model.ModelHeader -> dz:
+# {"fileName":"ModelHeader.java","id":"sourceFile"}
+    5:6:void <init>() -> <init>
+com.hazy.entity.model.Vertex -> ea:
+# {"fileName":"Vertex.java","id":"sourceFile"}
+    3:3:void <init>() -> <init>
+com.hazy.io.Buffer -> eb:
+# {"fileName":"Buffer.java","id":"sourceFile"}
+    com.hazy.net.IsaacCipher cipher -> e
+    byte[] payload -> f
+    int pos -> g
+    56:59:void <init>(byte[]) -> <init>
+    62:65:com.hazy.io.Buffer create$4ad725ef(com.hazy.net.IsaacCipher) -> a
+    12:41:void <clinit>() -> <clinit>
+com.hazy.io.ByteBuffer -> ec:
+# {"fileName":"ByteBuffer.java","id":"sourceFile"}
+    3:3:void <init>() -> <init>
+com.hazy.io.InputStream -> ed:
+# {"fileName":"InputStream.java","id":"sourceFile"}
+    30:32:void <clinit>() -> <clinit>
+com.hazy.io.PacketBuilder -> ee:
+# {"fileName":"PacketBuilder.java","id":"sourceFile"}
+com.hazy.io.PacketSender -> ef:
+# {"fileName":"PacketSender.java","id":"sourceFile"}
+    com.hazy.io.Buffer buffer -> a
+    11:13:void <init>() -> <init>
+com.hazy.io.jaggrab.JagGrab -> eg:
+# {"fileName":"JagGrab.java","id":"sourceFile"}
+    int[] CRCs -> b
+    26:26:void <init>() -> <init>
+    310:313:void resetCrcs() -> a
+    40:317:void <clinit>() -> <clinit>
+com.hazy.io.jaggrab.JagGrabConstants -> eh:
+# {"fileName":"JagGrabConstants.java","id":"sourceFile"}
+    java.lang.String[] PRELOAD_FILES -> a
+    5:5:void <init>() -> <init>
+    10:33:void <clinit>() -> <clinit>
+com.hazy.model.EffectTimer -> ei:
+# {"fileName":"EffectTimer.java","id":"sourceFile"}
+com.hazy.model.ModelLoader -> ej:
+# {"fileName":"ModelLoader.java","id":"sourceFile"}
+    6:6:void <init>() -> <init>
+com.hazy.model.content.Announcement -> ek:
+# {"fileName":"Announcement.java","id":"sourceFile"}
+com.hazy.model.content.ExpCounter -> el:
+# {"fileName":"ExpCounter.java","id":"sourceFile"}
+    13:13:void <init>() -> <init>
+    20:21:void <clinit>() -> <clinit>
+com.hazy.model.content.ExpCounter$ExpGain -> el$a:
+# {"fileName":"ExpCounter.java","id":"sourceFile"}
+com.hazy.model.content.ExpCounter$ExpSprite -> el$b:
+# {"fileName":"ExpCounter.java","id":"sourceFile"}
+com.hazy.model.content.Keybinding -> em:
+# {"fileName":"Keybinding.java","id":"sourceFile"}
+    14:14:void <init>() -> <init>
+    19:29:void <clinit>() -> <clinit>
+com.hazy.model.content.StatusBars -> en:
+# {"fileName":"StatusBars.java","id":"sourceFile"}
+    com.hazy.model.content.StatusBars$Restore restore -> a
+    33:35:void <init>() -> <init>
+com.hazy.model.content.StatusBars$BarType -> en$a:
+# {"fileName":"StatusBars.java","id":"sourceFile"}
+    com.hazy.model.content.StatusBars$BarType HP -> b
+    com.hazy.model.content.StatusBars$BarType PRAYER -> a
+    int normal -> c
+    int heal -> d
+    int poisoned -> e
+    int venom -> f
+    int icon -> g
+    108:112:void <init>(java.lang.String,byte) -> <init>
+    114:120:void <init>(java.lang.String) -> <init>
+    78:80:void <clinit>() -> <clinit>
+com.hazy.model.content.StatusBars$Restore -> en$b:
+# {"fileName":"StatusBars.java","id":"sourceFile"}
+    com.hazy.model.content.StatusBars$Restore NONE -> a
+    com.hazy.model.content.StatusBars$Restore PRAYER_3 -> b
+    int item -> c
+    int restore -> d
+    com.hazy.model.content.StatusBars$BarType type -> e
+    java.util.Map restoreMap -> f
+    com.hazy.model.content.StatusBars$Restore[] $VALUES -> g
+    58:62:void <init>(java.lang.String,int,int,int,com.hazy.model.content.StatusBars$BarType) -> <init>
+    37:70:void <clinit>() -> <clinit>
+    1037:1037:com.hazy.model.content.StatusBars$Restore[] values():37:37 -> <clinit>
+    1037:1037:void <clinit>():67 -> <clinit>
+com.hazy.model.content.account.Account -> eo:
+# {"fileName":"Account.java","id":"sourceFile"}
+com.hazy.model.content.account.AccountManager -> ep:
+# {"fileName":"AccountManager.java","id":"sourceFile"}
+    35:35:void <clinit>() -> <clinit>
+com.hazy.model.content.hoverMenu.HoverMenu -> eq:
+# {"fileName":"HoverMenu.java","id":"sourceFile"}
+com.hazy.model.content.hoverMenu.HoverMenuManager -> er:
+# {"fileName":"HoverMenuManager.java","id":"sourceFile"}
+    18:18:void <init>() -> <init>
+    22:497:void <clinit>() -> <clinit>
+com.hazy.model.content.prayer.PrayerSystem -> es:
+# {"fileName":"PrayerSystem.java","id":"sourceFile"}
+    5:5:void <init>() -> <init>
+com.hazy.model.content.prayer.PrayerSystem$InterfaceData -> es$a:
+# {"fileName":"PrayerSystem.java","id":"sourceFile"}
+    com.hazy.model.content.prayer.PrayerSystem$InterfaceData THICK_SKIN -> a
+    com.hazy.model.content.prayer.PrayerSystem$InterfaceData BURST_OF_STRENGTH -> b
+    com.hazy.model.content.prayer.PrayerSystem$InterfaceData CLARITY_OF_THOUGHT -> c
+    com.hazy.model.content.prayer.PrayerSystem$InterfaceData SHARP_EYE -> d
+    com.hazy.model.content.prayer.PrayerSystem$InterfaceData MYSTIC_WILL -> e
+    com.hazy.model.content.prayer.PrayerSystem$InterfaceData ROCK_SKIN -> f
+    com.hazy.model.content.prayer.PrayerSystem$InterfaceData SUPERHUMAN_STRENGTH -> g
+    com.hazy.model.content.prayer.PrayerSystem$InterfaceData IMPROVED_REFLEXES -> h
+    com.hazy.model.content.prayer.PrayerSystem$InterfaceData RAPID_RESTORE -> i
+    com.hazy.model.content.prayer.PrayerSystem$InterfaceData RAPID_HEAL -> j
+    com.hazy.model.content.prayer.PrayerSystem$InterfaceData PROTECT_ITEM -> k
+    com.hazy.model.content.prayer.PrayerSystem$InterfaceData HAWK_EYE -> l
+    com.hazy.model.content.prayer.PrayerSystem$InterfaceData MYSTIC_LORE -> m
+    com.hazy.model.content.prayer.PrayerSystem$InterfaceData STEEL_SKIN -> n
+    com.hazy.model.content.prayer.PrayerSystem$InterfaceData ULTIMATE_STRENGTH -> o
+    com.hazy.model.content.prayer.PrayerSystem$InterfaceData INCREDIBLE_REFLEXES -> p
+    com.hazy.model.content.prayer.PrayerSystem$InterfaceData PROTECT_FROM_MAGIC -> q
+    com.hazy.model.content.prayer.PrayerSystem$InterfaceData PROTECT_FROM_MISSILES -> r
+    com.hazy.model.content.prayer.PrayerSystem$InterfaceData PROTECT_FROM_MELEE -> s
+    com.hazy.model.content.prayer.PrayerSystem$InterfaceData EAGLE_EYE -> t
+    com.hazy.model.content.prayer.PrayerSystem$InterfaceData MYSTIC_MIGHT -> u
+    com.hazy.model.content.prayer.PrayerSystem$InterfaceData RETRIBUTION -> v
+    com.hazy.model.content.prayer.PrayerSystem$InterfaceData REDEMPTION -> w
+    com.hazy.model.content.prayer.PrayerSystem$InterfaceData SMITE -> x
+    com.hazy.model.content.prayer.PrayerSystem$InterfaceData PRESERVE -> y
+    com.hazy.model.content.prayer.PrayerSystem$InterfaceData CHIVALRY -> z
+    com.hazy.model.content.prayer.PrayerSystem$InterfaceData PIETY -> A
+    com.hazy.model.content.prayer.PrayerSystem$InterfaceData RIGOUR -> B
+    com.hazy.model.content.prayer.PrayerSystem$InterfaceData AUGURY -> C
+    int buttonId -> D
+    int tooltipId -> E
+    int spriteId -> F
+    int spriteX -> G
+    int spriteY -> H
+    30:36:void <init>(java.lang.String,int,int,int,int,int,int) -> <init>
+    9:23:void <clinit>() -> <clinit>
+com.hazy.model.content.prayer.Save -> et:
+# {"fileName":"Save.java","id":"sourceFile"}
+    12:12:void <init>() -> <init>
+com.hazy.model.settings.SettingData -> eu:
+# {"fileName":"SettingData.java","id":"sourceFile"}
+    com.hazy.model.settings.SettingData$1 STATUS_BARS$96968f6 -> a
+    com.hazy.model.settings.SettingData$2 DRAW_FPS$96968f6 -> b
+    com.hazy.model.settings.SettingData$3 DRAW_SPEC_BUTTON$96968f6 -> c
+    com.hazy.model.settings.SettingData$4 ORBS_ARC_SETTING$96968f6 -> d
+    com.hazy.model.settings.SettingData$5 ENTITY_FEED_SETTING$96968f6 -> e
+    com.hazy.model.settings.SettingData$6 WIDGETS_SETTING$96968f6 -> f
+    com.hazy.model.settings.SettingData$7 DISPLAY_PLAYER_OVERHEAD_NAMES_SETTING$96968f6 -> g
+    com.hazy.model.settings.SettingData$8 DISPLAY_PLAYER_OVERHEAD_HP_SETTING$96968f6 -> h
+    com.hazy.model.settings.SettingData$9 DISPLAY_NPC_OVERHEAD_NAMES_SETTING$96968f6 -> i
+    com.hazy.model.settings.SettingData$10 DISPLAY_NPC_OVERHEAD_HP_SETTING$96968f6 -> j
+    com.hazy.model.settings.SettingData$11 DISPLAY_GROUND_ITEMS_SETTING$96968f6 -> k
+    com.hazy.model.settings.SettingData$12 FILTER_GROUND_ITEMS_SETTING$96968f6 -> l
+    com.hazy.model.settings.SettingData$13 MOVE_PRAYERS_SETTING$96968f6 -> m
+    com.hazy.model.settings.SettingData$14 DRAW_GROUND_SNOW$96968f6 -> n
+    java.lang.String setting -> o
+    241:243:void <init>(java.lang.String,int,java.lang.String) -> <init>
+    5:5:void <init>(java.lang.String,int,java.lang.String,byte) -> <init>
+    5:215:void <clinit>() -> <clinit>
+com.hazy.model.settings.SettingData$1 -> eu$1:
+# {"fileName":"SettingData.java","id":"sourceFile"}
+    7:7:void <init>(java.lang.String,java.lang.String) -> <init>
+com.hazy.model.settings.SettingData$10 -> eu$2:
+# {"fileName":"SettingData.java","id":"sourceFile"}
+    151:151:void <init>(java.lang.String,java.lang.String) -> <init>
+com.hazy.model.settings.SettingData$11 -> eu$3:
+# {"fileName":"SettingData.java","id":"sourceFile"}
+    167:167:void <init>(java.lang.String,java.lang.String) -> <init>
+com.hazy.model.settings.SettingData$12 -> eu$4:
+# {"fileName":"SettingData.java","id":"sourceFile"}
+    183:183:void <init>(java.lang.String,java.lang.String) -> <init>
+com.hazy.model.settings.SettingData$13 -> eu$5:
+# {"fileName":"SettingData.java","id":"sourceFile"}
+    199:199:void <init>(java.lang.String,java.lang.String) -> <init>
+com.hazy.model.settings.SettingData$14 -> eu$6:
+# {"fileName":"SettingData.java","id":"sourceFile"}
+    215:215:void <init>(java.lang.String,java.lang.String) -> <init>
+com.hazy.model.settings.SettingData$2 -> eu$7:
+# {"fileName":"SettingData.java","id":"sourceFile"}
+    23:23:void <init>(java.lang.String,java.lang.String) -> <init>
+com.hazy.model.settings.SettingData$3 -> eu$8:
+# {"fileName":"SettingData.java","id":"sourceFile"}
+    39:39:void <init>(java.lang.String,java.lang.String) -> <init>
+com.hazy.model.settings.SettingData$4 -> eu$9:
+# {"fileName":"SettingData.java","id":"sourceFile"}
+    55:55:void <init>(java.lang.String,java.lang.String) -> <init>
+com.hazy.model.settings.SettingData$5 -> eu$10:
+# {"fileName":"SettingData.java","id":"sourceFile"}
+    71:71:void <init>(java.lang.String,java.lang.String) -> <init>
+com.hazy.model.settings.SettingData$6 -> eu$11:
+# {"fileName":"SettingData.java","id":"sourceFile"}
+    87:87:void <init>(java.lang.String,java.lang.String) -> <init>
+com.hazy.model.settings.SettingData$7 -> eu$12:
+# {"fileName":"SettingData.java","id":"sourceFile"}
+    103:103:void <init>(java.lang.String,java.lang.String) -> <init>
+com.hazy.model.settings.SettingData$8 -> eu$13:
+# {"fileName":"SettingData.java","id":"sourceFile"}
+    119:119:void <init>(java.lang.String,java.lang.String) -> <init>
+com.hazy.model.settings.SettingData$9 -> eu$14:
+# {"fileName":"SettingData.java","id":"sourceFile"}
+    135:135:void <init>(java.lang.String,java.lang.String) -> <init>
+com.hazy.model.settings.Settings -> ev:
+# {"fileName":"Settings.java","id":"sourceFile"}
+    boolean status_bars -> a
+    boolean draw_fps -> b
+    boolean draw_special_orb -> c
+    boolean draw_orb_arc -> d
+    boolean draw_health_overlay -> e
+    boolean draw_timers -> f
+    boolean toggle_overhead_names -> g
+    boolean toggle_overhead_hp -> h
+    boolean toggle_npc_overhead_names -> i
+    boolean toggle_npc_overhead_hp -> j
+    boolean toggle_item_pile_names -> k
+    boolean filter_item_pile_names -> l
+    boolean moving_prayers -> m
+    boolean ground_snow -> n
+    boolean shift_pet_options -> o
+    int drag_item_value -> p
+    boolean incinerator -> q
+    boolean hide_equipment_button -> r
+    boolean hide_inventory_button -> s
+    int player_attack_priority -> t
+    int npc_attack_priority -> u
+    boolean show_hit_predictor -> v
+    boolean show_exp_counter -> w
+    int counter_size -> x
+    int counter_color -> y
+    float counter_speed -> z
+    boolean counter_group -> A
+    int sound_state -> B
+    boolean toggle_music -> C
+    boolean showHitPredictor -> D
+    boolean hidePrivateChat -> E
+    boolean loginLogoutNotification -> F
+    boolean profanityFilter -> G
+    boolean cameraMovement -> H
+    boolean shiftClick -> I
+    boolean esc_close -> J
+    boolean mouseButtons -> K
+    boolean acceptAid -> L
+    int brightness -> M
+    boolean zoomToggle -> N
+    boolean chatEffects -> O
+    boolean privateChat -> P
+    boolean transparentSidePanel -> Q
+    boolean transparentChatbox -> R
+    boolean sideStonesArrangement -> S
+    boolean roofs -> T
+    boolean orbs -> U
+    java.lang.String fileLine -> V
+    16:69:void <init>() -> <init>
+com.hazy.model.settings.SettingsAction -> ew:
+# {"fileName":"SettingsAction.java","id":"sourceFile"}
+com.hazy.model.texture.TextureCoordinate -> ex:
+# {"fileName":"TextureCoordinate.java","id":"sourceFile"}
+com.hazy.net.BufferedConnection -> ey:
+# {"fileName":"BufferedConnection.java","id":"sourceFile"}
+com.hazy.net.IsaacCipher -> ez:
+# {"fileName":"IsaacCipher.java","id":"sourceFile"}
+com.hazy.net.LoginResponse -> fa:
+# {"fileName":"LoginResponse.java","id":"sourceFile"}
+com.hazy.net.ServerToClientPackets -> fb:
+# {"fileName":"ServerToClientPackets.java","id":"sourceFile"}
+    int[] PACKET_SIZES -> a
+    26:28:void <init>() -> <init>
+    29:287:void <clinit>() -> <clinit>
+com.hazy.net.requester.Provider -> fc:
+# {"fileName":"Provider.java","id":"sourceFile"}
+    3:3:void <init>() -> <init>
+com.hazy.net.requester.Resource -> fd:
+# {"fileName":"Resource.java","id":"sourceFile"}
+    boolean incomplete -> e
+    13:15:void <init>() -> <init>
+com.hazy.net.requester.ResourceProvider -> fe:
+# {"fileName":"ResourceProvider.java","id":"sourceFile"}
+    com.hazy.collection.LinkedList requested -> a
+    java.lang.String loadingMessage -> b
+    byte[] payload -> c
+    byte[][] fileStatus -> d
+    com.hazy.collection.LinkedList extras -> e
+    boolean running -> f
+    boolean expectingData -> g
+    com.hazy.collection.LinkedList complete -> h
+    byte[] gzipInputBuffer -> i
+    com.hazy.collection.Queue requests -> j
+    int[][] versions -> k
+    com.hazy.collection.LinkedList unrequested -> l
+    com.hazy.collection.LinkedList mandatoryRequests -> m
+    java.util.zip.CRC32 crc32 -> n
+    java.lang.String currentDownload -> o
+    int[] file_amounts -> p
+    java.lang.String[] crcNames -> q
+    int[][] crcs -> r
+    boolean debugCheapHaxValues -> s
+    int[] cheapHaxValues -> t
+    63:525:void <init>() -> <init>
+com.hazy.scene.CollisionMap -> ff:
+# {"fileName":"CollisionMap.java","id":"sourceFile"}
+    int inset_x -> a
+    int inset_y -> b
+    int width -> c
+    int height -> d
+    int[][] adjacencies -> e
+    14:21:void <init>() -> <init>
+    24:33:void init() -> a
+com.hazy.scene.HeightCalc -> fg:
+# {"fileName":"HeightCalc.java","id":"sourceFile"}
+    double JAGEX_RADIAN -> a
+    int[] SIN -> b
+    int[] COS -> c
+    2:2:void <init>() -> <init>
+    6:18:void <clinit>() -> <clinit>
+com.hazy.scene.Projectile -> fh:
+# {"fileName":"Projectile.java","id":"sourceFile"}
+com.hazy.scene.MapRegion -> fi:
+# {"fileName":"Region.java","id":"sourceFile"}
+    16:47:void <clinit>() -> <clinit>
+com.hazy.scene.SceneCluster -> fj:
+# {"fileName":"SceneCluster.java","id":"sourceFile"}
+    3:3:void <init>() -> <init>
+com.hazy.scene.SceneGraph -> fk:
+# {"fileName":"SceneGraph.java","id":"sourceFile"}
+    int culling_index -> a
+    2035:2215:void <clinit>() -> <clinit>
+com.hazy.scene.SceneObject -> fl:
+# {"fileName":"SceneObject.java","id":"sourceFile"}
+com.hazy.scene.StaticObject -> fm:
+# {"fileName":"StaticObject.java","id":"sourceFile"}
+com.hazy.scene.object.GroundDecoration -> fn:
+# {"fileName":"GroundDecoration.java","id":"sourceFile"}
+    8:9:void <init>() -> <init>
+com.hazy.scene.object.SpawnedObject -> fo:
+# {"fileName":"SpawnedObject.java","id":"sourceFile"}
+    int getLongetivity -> a
+    7:9:void <init>() -> <init>
+com.hazy.scene.object.Wall -> fp:
+# {"fileName":"Wall.java","id":"sourceFile"}
+    5:5:void <init>() -> <init>
+com.hazy.scene.object.WallDecoration -> fq:
+# {"fileName":"WallDecoration.java","id":"sourceFile"}
+    5:5:void <init>() -> <init>
+com.hazy.scene.object.tile.ShapedTile -> fr:
+# {"fileName":"ComplexTile.java","id":"sourceFile"}
+    246:290:void <clinit>() -> <clinit>
+com.hazy.scene.object.tile.SimpleTile -> fs:
+# {"fileName":"SimpleTile.java","id":"sourceFile"}
+com.hazy.scene.object.tile.Tile -> ft:
+# {"fileName":"Tile.java","id":"sourceFile"}
+com.hazy.sign.SignLink -> fu:
+# {"fileName":"SignLink.java","id":"sourceFile"}
+    44:45:void <init>() -> <init>
+    172:177:java.lang.String findCacheDir() -> a
+    181:186:java.lang.String findDataDir() -> b
+    15:263:void <clinit>() -> <clinit>
+com.hazy.sound.Envelope -> fv:
+# {"fileName":"Envelope.java","id":"sourceFile"}
+    11:11:void <init>() -> <init>
+com.hazy.sound.Filter -> fw:
+# {"fileName":"Filter.java","id":"sourceFile"}
+    int[] pairs -> a
+    int[][][] phases -> b
+    int[][][] magnitudes -> c
+    int[] unity -> d
+    23:28:void <init>() -> <init>
+    18:19:void <clinit>() -> <clinit>
+com.hazy.sound.SoundConstants -> fx:
+# {"fileName":"SoundConstants.java","id":"sourceFile"}
+    6:6:void <init>() -> <init>
+com.hazy.sound.SoundPlayer -> fy:
+# {"fileName":"SoundPlayer.java","id":"sourceFile"}
+com.hazy.sound.Synthesizer -> fz:
+# {"fileName":"Synthesizer.java","id":"sourceFile"}
+    int[] oscillatorVolume -> a
+    int[] anIntArray107 -> b
+    int[] anIntArray108 -> c
+    int delayDecay -> d
+    int duration -> e
+    37:43:void <init>() -> <init>
+    31:35:void <clinit>() -> <clinit>
+com.hazy.sound.Track -> ga:
+# {"fileName":"Track.java","id":"sourceFile"}
+    com.hazy.sound.Synthesizer[] synthesizers -> a
+    11:13:void <init>() -> <init>
+    141:142:void <clinit>() -> <clinit>
+com.hazy.util.Assets -> gb:
+# {"fileName":"Assets.java","id":"sourceFile"}
+    9:9:void <init>() -> <init>
+com.hazy.util.CacheUtils -> gc:
+# {"fileName":"CacheUtils.java","id":"sourceFile"}
+    19:19:void <init>() -> <init>
+com.hazy.util.CacheUtils$1 -> gc$1:
+# {"fileName":"CacheUtils.java","id":"sourceFile"}
+com.hazy.util.ChatCrown -> gd:
+# {"fileName":"ChatCrown.java","id":"sourceFile"}
+    com.hazy.util.ChatCrown MOD_CROWN -> a
+    com.hazy.util.ChatCrown ADMIN_CROWN -> b
+    com.hazy.util.ChatCrown OWNER_CROWN -> c
+    com.hazy.util.ChatCrown DEVELOPER -> d
+    com.hazy.util.ChatCrown MEMBER -> e
+    com.hazy.util.ChatCrown SUPER_MEMBER -> f
+    com.hazy.util.ChatCrown ELITE_MEMBER -> g
+    com.hazy.util.ChatCrown EXTREME_MEMBER -> h
+    com.hazy.util.ChatCrown LEGENDARY_MEMBER -> i
+    com.hazy.util.ChatCrown VIP -> j
+    com.hazy.util.ChatCrown SPONSOR_MEMBER -> k
+    com.hazy.util.ChatCrown BRONZE_YOUTUBER -> l
+    com.hazy.util.ChatCrown SILVER_YOUTUBER -> m
+    com.hazy.util.ChatCrown GOLD_YOUTUBER -> n
+    com.hazy.util.ChatCrown IRON_MAN -> o
+    com.hazy.util.ChatCrown ULTIMATE_IRONMAN -> p
+    com.hazy.util.ChatCrown HARDCORE_IRONMAN -> q
+    com.hazy.util.ChatCrown ELITE_IRONMAN -> r
+    com.hazy.util.ChatCrown GROUP_IRONMAN -> s
+    com.hazy.util.ChatCrown DARK_LORD -> t
+    com.hazy.util.ChatCrown SECURITY_MOD -> u
+    com.hazy.util.ChatCrown EVENT_MANAGER -> w
+    com.hazy.util.ChatCrown SUPPORT -> v
+    com.hazy.util.ChatCrown PKER_ICON -> x
+    java.lang.String identifier -> y
+    int spriteId -> z
+    47:50:void <init>(java.lang.String,int,java.lang.String,int) -> <init>
+    8:60:void <clinit>() -> <clinit>
+com.hazy.util.ChatMessageCodec -> ge:
+# {"fileName":"ChatMessageCodec.java","id":"sourceFile"}
+    5:5:void <init>() -> <init>
+    7:14:void <clinit>() -> <clinit>
+com.hazy.util.ChunkUtil -> gf:
+# {"fileName":"ChunkUtil.java","id":"sourceFile"}
+    3:3:void <init>() -> <init>
+com.hazy.util.ConfigUtility -> gg:
+# {"fileName":"ConfigUtility.java","id":"sourceFile"}
+    9:9:void <init>() -> <init>
+com.hazy.util.Constraint -> gh:
+# {"fileName":"Constraint.java","id":"sourceFile"}
+com.hazy.util.CustomItemIdentifiers -> gi:
+# {"fileName":"CustomItemIdentifiers.java","id":"sourceFile"}
+    6:6:void <init>() -> <init>
+com.hazy.util.CustomNpcIdentifiers -> gj:
+# {"fileName":"CustomNpcIdentifiers.java","id":"sourceFile"}
+    7:7:void <init>() -> <init>
+com.hazy.util.FileUtils -> gk:
+# {"fileName":"FileUtils.java","id":"sourceFile"}
+    33:33:void <init>() -> <init>
+com.hazy.util.FileUtils$1 -> gk$1:
+# {"fileName":"FileUtils.java","id":"sourceFile"}
+com.hazy.util.HardwareAddress -> gl:
+# {"fileName":"HardwareAddress.java","id":"sourceFile"}
+com.hazy.util.ImageDescription -> gm:
+# {"fileName":"ImageDescription.java","id":"sourceFile"}
+com.hazy.util.ItemIdentifiers -> gn:
+# {"fileName":"ItemIdentifiers.java","id":"sourceFile"}
+    4:4:void <init>() -> <init>
+com.hazy.util.MemberRights -> go:
+# {"fileName":"MemberRights.java","id":"sourceFile"}
+    com.hazy.util.MemberRights NONE -> a
+    com.hazy.util.MemberRights MEMBER -> b
+    com.hazy.util.MemberRights SUPER_MEMBER -> c
+    com.hazy.util.MemberRights ELITE_MEMBER -> d
+    com.hazy.util.MemberRights EXTREME_MEMBER -> e
+    com.hazy.util.MemberRights LEGENDARY_MEMBER -> f
+    com.hazy.util.MemberRights VIP -> g
+    com.hazy.util.MemberRights SPONSOR_MEMBER -> h
+    com.hazy.util.ChatCrown crown -> i
+    java.util.Map rights -> j
+    com.hazy.util.MemberRights[] $VALUES -> k
+    20:22:void <init>(java.lang.String,int,com.hazy.util.ChatCrown) -> <init>
+    6:33:void <clinit>() -> <clinit>
+    1006:1006:com.hazy.util.MemberRights[] values():6:6 -> <clinit>
+    1006:1006:void <clinit>():30 -> <clinit>
+com.hazy.util.MessageCensor -> gp:
+# {"fileName":"MessageCensor.java","id":"sourceFile"}
+    6:6:void <init>() -> <init>
+    14:14:void <clinit>() -> <clinit>
+com.hazy.util.MouseDetection -> gq:
+# {"fileName":"MouseDetection.java","id":"sourceFile"}
+com.hazy.util.NpcIdentifiers -> gr:
+# {"fileName":"NpcIdentifiers.java","id":"sourceFile"}
+    4:4:void <init>() -> <init>
+com.hazy.util.ObjectIdentifiers -> gs:
+# {"fileName":"ObjectIdentifiers.java","id":"sourceFile"}
+    3:3:void <init>() -> <init>
+com.hazy.util.PlayerRights -> gt:
+# {"fileName":"PlayerRights.java","id":"sourceFile"}
+    com.hazy.util.PlayerRights PLAYER -> a
+    com.hazy.util.PlayerRights MODERATOR -> b
+    com.hazy.util.PlayerRights ADMINISTRATOR -> c
+    com.hazy.util.PlayerRights OWNER -> d
+    com.hazy.util.PlayerRights DEVELOPER -> e
+    com.hazy.util.PlayerRights BRONZE_YOUTUBER -> f
+    com.hazy.util.PlayerRights IRON_MAN -> g
+    com.hazy.util.PlayerRights ULTIMATE_IRONMAN -> h
+    com.hazy.util.PlayerRights HARDCORE_IRONMAN -> i
+    com.hazy.util.PlayerRights SUPPORT -> j
+    com.hazy.util.PlayerRights SILVER_YOUTUBER -> k
+    com.hazy.util.PlayerRights GOLD_YOUTUBER -> l
+    com.hazy.util.PlayerRights ELITE_IRONMAN -> m
+    com.hazy.util.PlayerRights GROUP_IRONMAN -> n
+    com.hazy.util.PlayerRights DARK_LORD -> o
+    com.hazy.util.PlayerRights SECURITY_MODERATOR -> p
+    com.hazy.util.PlayerRights EVENT_MANAGER -> q
+    com.hazy.util.ChatCrown crown -> r
+    java.util.Map rights -> s
+    com.hazy.util.PlayerRights[] $VALUES -> t
+    29:31:void <init>(java.lang.String,int,com.hazy.util.ChatCrown) -> <init>
+    6:42:void <clinit>() -> <clinit>
+    1006:1006:com.hazy.util.PlayerRights[] values():6:6 -> <clinit>
+    1006:1006:void <clinit>():39 -> <clinit>
+com.hazy.util.SecondsTimer -> gu:
+# {"fileName":"SecondsTimer.java","id":"sourceFile"}
+    17:18:void <init>() -> <init>
+com.hazy.util.SkillConstants -> gv:
+# {"fileName":"SkillConstants.java","id":"sourceFile"}
+    3:3:void <init>() -> <init>
+    7:27:void <clinit>() -> <clinit>
+com.hazy.util.Stopwatch -> gw:
+# {"fileName":"Stopwatch.java","id":"sourceFile"}
+    long time -> a
+    7:42:void <init>() -> <init>
+com.hazy.util.StringUtils -> gx:
+# {"fileName":"StringUtils.java","id":"sourceFile"}
+    5:5:void <init>() -> <init>
+    7:9:void <clinit>() -> <clinit>
+com.hazy.util.UniqueIdentifier -> gy:
+# {"fileName":"UniqueIdentifier.java","id":"sourceFile"}
+    12:12:void <init>() -> <init>
+com.hazy.util.Unzip -> gz:
+# {"fileName":"Unzip.java","id":"sourceFile"}
+    10:10:void <init>() -> <init>
+com.hazy.util.Utils -> ha:
+# {"fileName":"Utils.java","id":"sourceFile"}
+    5:5:void <init>() -> <init>
