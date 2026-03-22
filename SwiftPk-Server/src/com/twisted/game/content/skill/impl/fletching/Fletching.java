@@ -23,7 +23,7 @@ import java.util.HashMap;
  */
 public class Fletching extends PacketInteraction {
 
-    private static final Logger logger = LogManager.getLogger();
+    private static final Logger logger = LogManager.getLogger(Fletching.class);
 
     private final static HashMap<Integer, Fletchable> FLETCHABLES = new HashMap<>();
 

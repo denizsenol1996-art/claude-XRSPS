@@ -57,6 +57,7 @@
     </pluginRepositories>
 
     <build>
+        <sourceDirectory>src</sourceDirectory>
         <resources>
             <resource>
                 <directory>src/main/resources</directory>
@@ -135,8 +136,8 @@
                         </goals>
                         <configuration>
                             <sourceDirs>
-                                <sourceDir>${project.basedir}/src/main/kotlin</sourceDir>
-                                <sourceDir>${project.basedir}/src/main/java</sourceDir>
+                                <sourceDir>${project.basedir}/src</sourceDir>
+                                <sourceDir>${project.basedir}/src</sourceDir>
                             </sourceDirs>
                         </configuration>
                     </execution>

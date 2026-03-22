@@ -27,9 +27,23 @@ import static com.twisted.util.ItemIdentifiers.*;
 public class AccountSelection extends PacketInteraction {
 
     public static void open(Player player) {
-        player.getInterfaceManager().open(42400);
-        player.putAttrib(AttributeKey.GAME_MODE_SELECTED,42423);
-        refreshOptions(player);
+        player.unlock();
+        player.ironMode(IronMode.NONE);
+        player.mode(GameMode.TRAINED_ACCOUNT);
+        if (!player.getPlayerRights().isStaffMemberOrYoutuber(player)) {
+            player.setPlayerRights(PlayerRights.PLAYER);
+        }
+        player.getPacketSender().sendRights();
+        player.inventory().addOrBank(new Item(BEGINNER_WEAPON_PACK));
+        player.getInventory().addAll(GameConstants.STARTER_ITEMS);
+        player.setSpellbook(MagicSpellbook.NORMAL);
+        player.clearAttrib(AttributeKey.TUTORIAL);
+        player.putAttrib(AttributeKey.NEW_ACCOUNT, false);
+        player.getUpdateFlag().flag(Flag.APPEARANCE);
+        player.looks().hide(false);
+        player.getInterfaceManager().close();
+        World.getWorld().sendWorldMessage("@blu@[New Player] " + player.getUsername() + " has just logged in for first time welcome!");
+        player.message("Welcome! You have been set up as a Normal account.");
     }
     public static void refreshOptions(Player player) {
         switch (player.<Integer>getAttribOr(AttributeKey.GAME_MODE_SELECTED, 42405)) {

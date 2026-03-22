@@ -11,7 +11,7 @@ tasks.withType<Jar> {
     manifest {
         application {
             mainClass.set("Application")
-            applicationDefaultJvmArgs = listOf("--developer-mode")
+            applicationDefaultJvmArgs = listOf()
         }
         attributes("Main-Class" to "net.runelite.client.Application")
     }

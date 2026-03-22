@@ -476,6 +476,17 @@ public class ButtonClickPacketListener implements PacketListener {
             return;
         }
 
+        // Direct account selection handling
+        if (button == 42402 || button == 42403 || button == 42423 || button == 42405 || button == 42406) {
+            player.putAttrib(AttributeKey.GAME_MODE_SELECTED, button);
+            AccountSelection.refreshOptions(player);
+            return;
+        }
+        if (button == 42419) {
+            new AccountSelection().confirm(player);
+            return;
+        }
+
         if(player.locked()) {
             // unique case: since prayers always 'activate' when clicked client side, we'll try to just wait until
             // we unlock and trigger the button so the client stays in sync.
