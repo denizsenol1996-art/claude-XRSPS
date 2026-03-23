@@ -14752,3 +14752,5 @@
 [22 mrt 2026, 9:58:31 p.m.] [TwistedScape GameThread] [Logout] Deregistering player - Mr Pp
 [22 mrt 2026, 10:09:30 p.m.] [TwistedScape GameThread] [Logout] Deregistering player - 69army
 [22 mrt 2026, 10:10:00 p.m.] [TwistedScape GameThread] [Logout] Deregistering player - 69army
+[23 mrt 2026, 2:55:37 a.m.] [TwistedScape GameThread] [Logout] Deregistering player - 69army
+[23 mrt 2026, 3:21:43 a.m.] [TwistedScape GameThread] [Logout] Deregistering player - 69army

@@ -6572,3 +6572,4 @@ data/LocalProperties.json) was not found, loaded with default settings.
 [23 mrt 2026, 2:57:09 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] 69army used command ::cleararea 40
 [23 mrt 2026, 2:57:21 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] Command received: cleararea 40
 [23 mrt 2026, 2:57:21 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] 69army used command ::cleararea 40
+[23 mrt 2026, 3:21:43 a.m.] [TwistedScape GameThread] [LogoutLogs] [LOGOUT] [Logout] Deregistering player - 69army
