@@ -345,6 +345,13 @@ public class CommandManager {
         commands.put("fillbank", new FillBankCommand());
         commands.put("debugnpcs", new DebugNpcsCommand());
         commands.put("object", new ObjectCommand());
+        BuildCommands bc = new BuildCommands();
+        commands.put("floor", bc);
+        commands.put("fill", bc);
+        commands.put("fillobject", bc);
+        commands.put("cleararea", bc);
+        commands.put("wallline", bc);
+        commands.put("objtype", bc);
         commands.put("door", new DoorCommand());
         commands.put("unlockprayers", new UnlockPrayersCommands());
         commands.put("saveall", new SaveAllCommand());

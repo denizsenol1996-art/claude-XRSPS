@@ -5672,3 +5672,903 @@ data/LocalProperties.json) was not found, loaded with default settings.
 [23 mrt 2026, 12:20:47 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] 69army used command ::commands
 [23 mrt 2026, 12:34:51 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] Command received: item 16843 1
 [23 mrt 2026, 12:34:51 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] 69army used command ::item 16843 1
+[23 mrt 2026, 12:48:43 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] Command received: npc 5438
+[23 mrt 2026, 12:48:43 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] 69army used command ::npc 5438
+[23 mrt 2026, 12:50:33 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] Command received: mkn
+[23 mrt 2026, 12:50:33 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] 69army used command ::mkn
+[23 mrt 2026, 12:52:00 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] Command received: npc 6524 
+[23 mrt 2026, 12:52:00 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] 69army used command ::npc 6524 
+[23 mrt 2026, 12:52:22 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] Command received: npc 1815
+[23 mrt 2026, 12:52:22 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] 69army used command ::npc 1815
+[23 mrt 2026, 12:52:31 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] Command received: npc 392
+[23 mrt 2026, 12:52:31 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] 69army used command ::npc 392
+[23 mrt 2026, 12:52:41 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] Command received: npc 392
+[23 mrt 2026, 12:52:41 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] 69army used command ::npc 392
+[23 mrt 2026, 12:52:50 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] Command received: npc 2108
+[23 mrt 2026, 12:52:50 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] 69army used command ::npc 2108
+[23 mrt 2026, 12:52:59 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] Command received: npc 3385
+[23 mrt 2026, 12:52:59 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] 69army used command ::npc 3385
+[23 mrt 2026, 1:01:47 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] Command received: mkn 100 5
+[23 mrt 2026, 1:01:47 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] 69army used command ::mkn 100 5
+[23 mrt 2026, 1:11:52 a.m.] [TwistedScape GameThread] [WildernessBossEvent] [INFO] The wilderness event boss has been despawned
+[23 mrt 2026, 1:33:41 a.m.] [TwistedScapeInitializationThread] [ServerProperties] [INFO] Server properties file (./data/LocalProperties.json) was not found, loaded with default settings.
+[23 mrt 2026, 1:33:41 a.m.] [TwistedScapeInitializationThread] [ServerProperties] [INFO] Loaded server properties file (./data/properties.json) successfully.
+[23 mrt 2026, 1:33:41 a.m.] [TwistedScapeInitializationThread] [GameServer] [INFO] Discord logging has been enabled.
+[23 mrt 2026, 1:33:41 a.m.] [TwistedScapeInitializationThread] [GameServer] [INFO] Loaded filestore @ (./data/filestore) successfully.
+[23 mrt 2026, 1:33:41 a.m.] [TwistedScapeInitializationThread] [DefinitionRepository] [INFO] Loading definition repository...
+[23 mrt 2026, 1:33:41 a.m.] [TwistedScapeInitializationThread] [DefinitionRepository] [INFO] Loaded 28601 item definitions.
+[23 mrt 2026, 1:33:41 a.m.] [TwistedScapeInitializationThread] [DefinitionRepository] [INFO] Loaded 12513 npc definitions.
+[23 mrt 2026, 1:33:41 a.m.] [TwistedScapeInitializationThread] [DefinitionRepository] [INFO] Loaded 49927 object definitions.
+[23 mrt 2026, 1:33:41 a.m.] [TwistedScapeInitializationThread] [DefinitionRepository] [INFO] Loaded 15332 varbit definitions.
+[23 mrt 2026, 1:33:41 a.m.] [TwistedScapeInitializationThread] [DefinitionRepository] [INFO] Loaded 5192 enum definitions.
+[23 mrt 2026, 1:33:41 a.m.] [TwistedScapeInitializationThread] [DefinitionRepository] [INFO] Loaded 2570 spotanim definitions.
+[23 mrt 2026, 1:33:41 a.m.] [TwistedScapeInitializationThread] [DefinitionRepository] [INFO] Loaded 898 area definitions.
+[23 mrt 2026, 1:33:41 a.m.] [TwistedScapeInitializationThread] [DefinitionRepository] [INFO] Loaded 10503 Animation definitions.
+[23 mrt 2026, 1:33:41 a.m.] [TwistedScapeInitializationThread] [DefinitionRepository] [INFO] Loaded 4722 struct definitions.
+[23 mrt 2026, 1:33:41 a.m.] [TwistedScapeInitializationThread] [DefinitionRepository] [INFO] Loaded 1187 varclient definitions.
+[23 mrt 2026, 1:33:41 a.m.] [TwistedScapeInitializationThread] [DefinitionRepository] [INFO] Loaded 0 varclientstring definitions.
+[23 mrt 2026, 1:33:41 a.m.] [TwistedScapeInitializationThread] [DefinitionRepository] [INFO] Loaded 4005 varplayer definitions.
+[23 mrt 2026, 1:33:41 a.m.] [TwistedScapeInitializationThread] [DefinitionRepository] [INFO] Loaded 7007 runscript definitions.
+[23 mrt 2026, 1:33:41 a.m.] [TwistedScapeInitializationThread] [DefinitionRepository] [INFO] Loaded 5307 sprites.
+[23 mrt 2026, 1:33:41 a.m.] [TwistedScapeInitializationThread] [DefinitionRepository] [INFO] Loaded 1 textures.
+[23 mrt 2026, 1:33:41 a.m.] [TwistedScapeInitializationThread] [DefinitionRepository] [INFO] Loaded 3682 skeletons.
+[23 mrt 2026, 1:33:41 a.m.] [TwistedScapeInitializationThread] [DefinitionRepository] [INFO] Loaded 2184 skins.
+[23 mrt 2026, 1:33:41 a.m.] [TwistedScapeInitializationThread] [DefinitionRepository] [INFO] Loaded 865 interfaces.
+[23 mrt 2026, 1:33:42 a.m.] [TwistedScapeInitializationThread] [ExamineRepository] [INFO] Loaded 38601 item examines.
+[23 mrt 2026, 1:33:42 a.m.] [TwistedScapeInitializationThread] [ExamineRepository] [INFO] Loaded 49927 object examines.
+[23 mrt 2026, 1:33:42 a.m.] [TwistedScapeInitializationThread] [ExamineRepository] [INFO] Loaded 22513 npc examines.
+[23 mrt 2026, 1:33:42 a.m.] [TwistedScapeInitializationThread] [GameServer] [INFO] Initializing the Bootstrap...
+[23 mrt 2026, 1:33:42 a.m.] [TwistedScapeLoaderThread] [Referral] [INFO] Loaded 0 Potion Consumable Information
+[23 mrt 2026, 1:33:43 a.m.] [TwistedScapeLoaderThread] [PacketInteractionManager] [INFO] Loaded 224 packet interactions
+[23 mrt 2026, 1:33:43 a.m.] [TwistedScapeLoaderThread] [WildernessActivityManager] [INFO] Loading Wilderness Activity Manager
+[23 mrt 2026, 1:33:43 a.m.] [TwistedScapeLoaderThread] [DefinitionLoader] [INFO] Loaded definitions for ./data/def/blood_money_prices.json. It took 19ms.
+[23 mrt 2026, 1:33:43 a.m.] [TwistedScapeLoaderThread] [Slayer] [INFO] Loaded slayer masters for ./data/def/slayermasters.json. It took 2ms.
+[23 mrt 2026, 1:33:43 a.m.] [TwistedScapeLoaderThread] [DefinitionLoader] [INFO] Loaded definitions for ./data/def/shops.json. It took 15ms.
+[23 mrt 2026, 1:33:43 a.m.] [TwistedScapeLoaderThread] [DefinitionLoader] [INFO] Loaded definitions for ./data/def/object_spawns.json. It took 63ms.
+[23 mrt 2026, 1:33:43 a.m.] [TwistedScapeLoaderThread] [DefinitionLoader] [INFO] Loaded definitions for ./data/def/door_definitions.json. It took 5ms.
+[23 mrt 2026, 1:33:43 a.m.] [TwistedScapeLoaderThread] [TournamentManager] [INFO] Config path: C:\hazy\SwiftPk-Server\data\combat\tournaments\tournaments.conf
+[23 mrt 2026, 1:33:43 a.m.] [TwistedScapeLoaderThread] [EquipmentInfo] [INFO] Loaded 3786 equipment information definitions.
+[23 mrt 2026, 1:33:43 a.m.] [TwistedScapeLoaderThread] [EquipmentInfo] [INFO] Loaded 453 equipment render pairs.
+[23 mrt 2026, 1:33:43 a.m.] [TwistedScapeLoaderThread] [EquipmentInfo] [INFO] Loaded 3278 equipment bonuses.
+[23 mrt 2026, 1:33:43 a.m.] [TwistedScapeLoaderThread] [EquipmentInfo] [INFO] Loaded 806 weapon types.
+[23 mrt 2026, 1:33:43 a.m.] [TwistedScapeLoaderThread] [EquipmentInfo] [INFO] Loaded 783 weapon speeds.
+[23 mrt 2026, 1:33:43 a.m.] [TwistedScapeLoaderThread] [EquipmentInfo] [INFO] Loaded 1247 item requirements.
+[23 mrt 2026, 1:33:43 a.m.] [TwistedScapeLoaderThread] [World] [INFO] Loaded 514 NPC combat info sheets.
+[23 mrt 2026, 1:33:43 a.m.] [TwistedScapeLoaderThread] [World] [INFO] Loaded definitions for ./data/map/npcs. It took 25ms.
+[23 mrt 2026, 1:33:43 a.m.] [TwistedScapeLoaderThread] [World] [INFO] Loaded definitions for ./data/map/npcs. It took 5ms.
+[23 mrt 2026, 1:33:43 a.m.] [TwistedScapeLoaderThread] [World] [INFO] Loaded definitions for ./data/map/npcs. It took 8ms.
+[23 mrt 2026, 1:33:43 a.m.] [TwistedScapeLoaderThread] [World] [INFO] Loaded definitions for ./data/map/npcs. It took 133ms.
+[23 mrt 2026, 1:33:43 a.m.] [TwistedScapeLoaderThread] [World] [INFO] Loaded 7329 NPC spawns.
+[23 mrt 2026, 1:33:43 a.m.] [TwistedScapeLoaderThread] [World] [INFO] Loaded 188 item spawns.
+[23 mrt 2026, 1:33:43 a.m.] [TwistedScapeLoaderThread] [ItemWeight] [INFO] Loaded definitions for ./data/list/item_weight.txt. It took 5ms.
+[23 mrt 2026, 1:33:44 a.m.] [TwistedScapeInitializationThread] [NetworkBuilder] [INFO] Server bound to port 43594
+[23 mrt 2026, 1:33:44 a.m.] [TwistedScapeInitializationThread] [GameServer] [INFO] Loaded TwistedScape in PVP mode on port 43594 version v33.
+[23 mrt 2026, 1:33:44 a.m.] [TwistedScapeInitializationThread] [GameServer] [INFO] The Bootstrap has been bound, TwistedScape is now online (it took 2906ms).
+[23 mrt 2026, 1:33:45 a.m.] [TwistedScape GameThread] [NpcSpawnInWild] [INFO] Loaded 2048 Event Npc Tiles
+[23 mrt 2026, 1:33:45 a.m.] [TwistedScape GameThread] [EventNpcSpawn] [INFO] Loaded 2048 Event Npc Tiles
+[23 mrt 2026, 1:34:07 a.m.] [TwistedScape GameThread] [PacketListener] [TRACE] player Owner: 69army, 127.0.0.1, [3087, 3487, 0], not in wild report: client init
+[23 mrt 2026, 1:34:07 a.m.] [TwistedScape GameThread] [PacketListener] [TRACE] player Owner: 69army, 127.0.0.1, [3087, 3487, 0], not in wild report: Server login response code 0
+[23 mrt 2026, 1:34:07 a.m.] [TwistedScape GameThread] [PacketListener] [TRACE] player Owner: 69army, 127.0.0.1, [3087, 3487, 0], not in wild report: Server login response code is now 2
+[23 mrt 2026, 2:24:17 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] Command received: tele 2035 4525
+[23 mrt 2026, 2:24:17 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] 69army used command ::tele 2035 4525
+[23 mrt 2026, 2:24:30 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] Command received: tele 1910 5100
+[23 mrt 2026, 2:24:30 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] 69army used command ::tele 1910 5100
+[23 mrt 2026, 2:25:09 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] Command received: gamble
+[23 mrt 2026, 2:25:09 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] 69army used command ::gamble
+[23 mrt 2026, 2:25:47 a.m.] [TwistedScape GameThread] [Chain] [DEBUG] chain interrupted, wont continue to next. context: Owner: 69army, 127.0.0.1, [3088, 3482, 0], not in wild
+[23 mrt 2026, 2:26:07 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] Command received: tele 2540 3092
+[23 mrt 2026, 2:26:07 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] 69army used command ::tele 2540 3092
+[23 mrt 2026, 2:26:12 a.m.] [TwistedScape GameThread] [Chain] [DEBUG] chain interrupted, wont continue to next. context: Owner: 69army, 127.0.0.1, [2544, 3094, 0], not in wild
+[23 mrt 2026, 2:26:15 a.m.] [TwistedScape GameThread] [Chain] [DEBUG] chain interrupted, wont continue to next. context: Owner: 69army, 127.0.0.1, [2544, 3096, 0], not in wild
+[23 mrt 2026, 2:26:27 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] Command received: tele 1670 3570
+[23 mrt 2026, 2:26:27 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] 69army used command ::tele 1670 3570
+[23 mrt 2026, 2:26:49 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] Command received: tele 1670 3570
+[23 mrt 2026, 2:26:49 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] 69army used command ::tele 1670 3570
+[23 mrt 2026, 2:27:00 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] Command received: tele 2450 4960
+[23 mrt 2026, 2:27:00 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] 69army used command ::tele 2450 4960
+[23 mrt 2026, 2:27:13 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] Command received: tele 2807 2843
+[23 mrt 2026, 2:27:13 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] 69army used command ::tele 2807 2843
+[23 mrt 2026, 2:27:19 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] Command received: noclip
+[23 mrt 2026, 2:27:19 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] 69army used command ::noclip
+[23 mrt 2026, 2:27:55 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] Command received: tele 2847 3540
+[23 mrt 2026, 2:27:55 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] 69army used command ::tele 2847 3540
+[23 mrt 2026, 2:28:38 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] Command received: noclip
+[23 mrt 2026, 2:28:38 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] 69army used command ::noclip
+[23 mrt 2026, 2:29:00 a.m.] [TwistedScape GameThread] [Chain] [DEBUG] chain interrupted, wont continue to next. context: Owner: 69army, 127.0.0.1, [2877, 3546, 0], not in wild
+[23 mrt 2026, 2:29:00 a.m.] [TwistedScape GameThread] [Chain] [DEBUG] chain interrupted, wont continue to next. context: Owner: 69army, 127.0.0.1, [2877, 3546, 0], not in wild
+[23 mrt 2026, 2:29:00 a.m.] [TwistedScape GameThread] [Chain] [DEBUG] chain interrupted, wont continue to next. context: Owner: 69army, 127.0.0.1, [2877, 3546, 0], not in wild
+[23 mrt 2026, 2:29:00 a.m.] [TwistedScape GameThread] [Chain] [DEBUG] chain interrupted, wont continue to next. context: Owner: 69army, 127.0.0.1, [2877, 3546, 0], not in wild
+[23 mrt 2026, 2:29:40 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] Command received: config 173 3
+[23 mrt 2026, 2:29:40 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] 69army used command ::config 173 3
+[23 mrt 2026, 2:29:58 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] Command received: clienttele 2928 3532 0
+[23 mrt 2026, 2:29:58 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] 69army used command ::clienttele 2928 3532 0
+[23 mrt 2026, 2:29:59 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] Command received: clienttele 2927 3532 0
+[23 mrt 2026, 2:29:59 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] 69army used command ::clienttele 2927 3532 0
+[23 mrt 2026, 2:29:59 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] Command received: clienttele 2927 3532 0
+[23 mrt 2026, 2:29:59 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] 69army used command ::clienttele 2927 3532 0
+[23 mrt 2026, 2:30:00 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] Command received: clienttele 2927 3532 0
+[23 mrt 2026, 2:30:00 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] 69army used command ::clienttele 2927 3532 0
+[23 mrt 2026, 2:30:00 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] Command received: clienttele 2926 3532 0
+[23 mrt 2026, 2:30:00 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] 69army used command ::clienttele 2926 3532 0
+[23 mrt 2026, 2:30:00 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] Command received: clienttele 2926 3532 0
+[23 mrt 2026, 2:30:00 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] 69army used command ::clienttele 2926 3532 0
+[23 mrt 2026, 2:30:00 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] Command received: clienttele 2925 3532 0
+[23 mrt 2026, 2:30:00 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] 69army used command ::clienttele 2925 3532 0
+[23 mrt 2026, 2:30:00 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] Command received: clienttele 2923 3530 0
+[23 mrt 2026, 2:30:00 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] 69army used command ::clienttele 2923 3530 0
+[23 mrt 2026, 2:30:00 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] Command received: clienttele 2922 3529 0
+[23 mrt 2026, 2:30:00 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] 69army used command ::clienttele 2922 3529 0
+[23 mrt 2026, 2:30:02 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] Command received: clienttele 2943 3504 0
+[23 mrt 2026, 2:30:02 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] 69army used command ::clienttele 2943 3504 0
+[23 mrt 2026, 2:30:04 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] Command received: clienttele 2971 3514 0
+[23 mrt 2026, 2:30:04 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] 69army used command ::clienttele 2971 3514 0
+[23 mrt 2026, 2:30:09 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] Command received: clienttele 3008 3520 0
+[23 mrt 2026, 2:30:09 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] 69army used command ::clienttele 3008 3520 0
+[23 mrt 2026, 2:30:09 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] Command received: clienttele 3009 3521 0
+[23 mrt 2026, 2:30:09 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] 69army used command ::clienttele 3009 3521 0
+[23 mrt 2026, 2:30:10 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] Command received: clienttele 3022 3525 0
+[23 mrt 2026, 2:30:10 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] 69army used command ::clienttele 3022 3525 0
+[23 mrt 2026, 2:30:10 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] Command received: clienttele 3022 3525 0
+[23 mrt 2026, 2:30:10 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] 69army used command ::clienttele 3022 3525 0
+[23 mrt 2026, 2:30:10 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] Command received: clienttele 3035 3529 0
+[23 mrt 2026, 2:30:10 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] 69army used command ::clienttele 3035 3529 0
+[23 mrt 2026, 2:30:10 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] Command received: clienttele 3035 3529 0
+[23 mrt 2026, 2:30:10 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] 69army used command ::clienttele 3035 3529 0
+[23 mrt 2026, 2:30:10 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] Command received: clienttele 3035 3529 0
+[23 mrt 2026, 2:30:10 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] 69army used command ::clienttele 3035 3529 0
+[23 mrt 2026, 2:30:11 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] Command received: clienttele 3048 3533 0
+[23 mrt 2026, 2:30:11 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] 69army used command ::clienttele 3048 3533 0
+[23 mrt 2026, 2:30:11 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] Command received: clienttele 3048 3533 0
+[23 mrt 2026, 2:30:11 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] 69army used command ::clienttele 3048 3533 0
+[23 mrt 2026, 2:30:11 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] Command received: clienttele 3048 3533 0
+[23 mrt 2026, 2:30:11 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] 69army used command ::clienttele 3048 3533 0
+[23 mrt 2026, 2:30:12 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] Command received: clienttele 3061 3537 0
+[23 mrt 2026, 2:30:12 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] 69army used command ::clienttele 3061 3537 0
+[23 mrt 2026, 2:30:12 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] Command received: clienttele 3074 3541 0
+[23 mrt 2026, 2:30:12 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] 69army used command ::clienttele 3074 3541 0
+[23 mrt 2026, 2:30:12 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] Command received: clienttele 3074 3541 0
+[23 mrt 2026, 2:30:12 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] 69army used command ::clienttele 3074 3541 0
+[23 mrt 2026, 2:30:13 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] Command received: clienttele 3087 3545 0
+[23 mrt 2026, 2:30:13 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] 69army used command ::clienttele 3087 3545 0
+[23 mrt 2026, 2:30:13 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] Command received: clienttele 3087 3545 0
+[23 mrt 2026, 2:30:13 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] 69army used command ::clienttele 3087 3545 0
+[23 mrt 2026, 2:30:13 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] Command received: clienttele 3087 3545 0
+[23 mrt 2026, 2:30:13 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] 69army used command ::clienttele 3087 3545 0
+[23 mrt 2026, 2:30:13 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] Command received: clienttele 3100 3549 0
+[23 mrt 2026, 2:30:13 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] 69army used command ::clienttele 3100 3549 0
+[23 mrt 2026, 2:30:13 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] Command received: clienttele 3100 3549 0
+[23 mrt 2026, 2:30:13 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] 69army used command ::clienttele 3100 3549 0
+[23 mrt 2026, 2:30:13 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] Command received: clienttele 3100 3549 0
+[23 mrt 2026, 2:30:13 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] 69army used command ::clienttele 3100 3549 0
+[23 mrt 2026, 2:30:13 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] Command received: clienttele 3100 3549 0
+[23 mrt 2026, 2:30:13 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] 69army used command ::clienttele 3100 3549 0
+[23 mrt 2026, 2:30:14 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] Command received: clienttele 3113 3553 0
+[23 mrt 2026, 2:30:14 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] 69army used command ::clienttele 3113 3553 0
+[23 mrt 2026, 2:30:14 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] Command received: clienttele 3113 3553 0
+[23 mrt 2026, 2:30:14 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] 69army used command ::clienttele 3113 3553 0
+[23 mrt 2026, 2:30:14 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] Command received: clienttele 3113 3553 0
+[23 mrt 2026, 2:30:14 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] 69army used command ::clienttele 3113 3553 0
+[23 mrt 2026, 2:30:15 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] Command received: clienttele 3126 3557 0
+[23 mrt 2026, 2:30:15 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] 69army used command ::clienttele 3126 3557 0
+[23 mrt 2026, 2:30:15 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] Command received: clienttele 3126 3557 0
+[23 mrt 2026, 2:30:15 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] 69army used command ::clienttele 3126 3557 0
+[23 mrt 2026, 2:30:15 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] Command received: clienttele 3126 3557 0
+[23 mrt 2026, 2:30:15 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] 69army used command ::clienttele 3126 3557 0
+[23 mrt 2026, 2:30:15 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] Command received: clienttele 3139 3561 0
+[23 mrt 2026, 2:30:15 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] 69army used command ::clienttele 3139 3561 0
+[23 mrt 2026, 2:30:15 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] Command received: clienttele 3139 3561 0
+[23 mrt 2026, 2:30:15 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] 69army used command ::clienttele 3139 3561 0
+[23 mrt 2026, 2:30:15 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] Command received: clienttele 3139 3561 0
+[23 mrt 2026, 2:30:15 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] 69army used command ::clienttele 3139 3561 0
+[23 mrt 2026, 2:30:16 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] Command received: clienttele 3152 3565 0
+[23 mrt 2026, 2:30:16 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] 69army used command ::clienttele 3152 3565 0
+[23 mrt 2026, 2:30:16 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] Command received: clienttele 3152 3565 0
+[23 mrt 2026, 2:30:16 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] 69army used command ::clienttele 3152 3565 0
+[23 mrt 2026, 2:30:16 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] Command received: clienttele 3152 3565 0
+[23 mrt 2026, 2:30:16 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] 69army used command ::clienttele 3152 3565 0
+[23 mrt 2026, 2:30:16 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] Command received: clienttele 3152 3565 0
+[23 mrt 2026, 2:30:16 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] 69army used command ::clienttele 3152 3565 0
+[23 mrt 2026, 2:30:16 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] Command received: clienttele 3165 3569 0
+[23 mrt 2026, 2:30:16 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] 69army used command ::clienttele 3165 3569 0
+[23 mrt 2026, 2:30:21 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] Command received: clienttele 3179 3567 0
+[23 mrt 2026, 2:30:21 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] 69army used command ::clienttele 3179 3567 0
+[23 mrt 2026, 2:30:21 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] Command received: clienttele 3194 3566 0
+[23 mrt 2026, 2:30:21 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] 69army used command ::clienttele 3194 3566 0
+[23 mrt 2026, 2:30:21 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] Command received: clienttele 3195 3566 0
+[23 mrt 2026, 2:30:21 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] 69army used command ::clienttele 3195 3566 0
+[23 mrt 2026, 2:30:21 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] Command received: clienttele 3196 3565 0
+[23 mrt 2026, 2:30:21 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] 69army used command ::clienttele 3196 3565 0
+[23 mrt 2026, 2:30:22 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] Command received: clienttele 3213 3563 0
+[23 mrt 2026, 2:30:22 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] 69army used command ::clienttele 3213 3563 0
+[23 mrt 2026, 2:30:22 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] Command received: clienttele 3213 3563 0
+[23 mrt 2026, 2:30:22 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] 69army used command ::clienttele 3213 3563 0
+[23 mrt 2026, 2:30:22 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] Command received: clienttele 3213 3563 0
+[23 mrt 2026, 2:30:22 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] 69army used command ::clienttele 3213 3563 0
+[23 mrt 2026, 2:30:22 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] Command received: clienttele 3213 3563 0
+[23 mrt 2026, 2:30:22 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] 69army used command ::clienttele 3213 3563 0
+[23 mrt 2026, 2:30:22 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] Command received: clienttele 3230 3561 0
+[23 mrt 2026, 2:30:22 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] 69army used command ::clienttele 3230 3561 0
+[23 mrt 2026, 2:30:22 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] Command received: clienttele 3230 3561 0
+[23 mrt 2026, 2:30:22 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] 69army used command ::clienttele 3230 3561 0
+[23 mrt 2026, 2:30:22 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] Command received: clienttele 3230 3561 0
+[23 mrt 2026, 2:30:22 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] 69army used command ::clienttele 3230 3561 0
+[23 mrt 2026, 2:30:23 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] Command received: clienttele 3247 3559 0
+[23 mrt 2026, 2:30:23 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] 69army used command ::clienttele 3247 3559 0
+[23 mrt 2026, 2:30:23 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] Command received: clienttele 3247 3559 0
+[23 mrt 2026, 2:30:23 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] 69army used command ::clienttele 3247 3559 0
+[23 mrt 2026, 2:30:23 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] Command received: clienttele 3247 3559 0
+[23 mrt 2026, 2:30:23 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] 69army used command ::clienttele 3247 3559 0
+[23 mrt 2026, 2:30:23 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] Command received: clienttele 3247 3560 0
+[23 mrt 2026, 2:30:23 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] 69army used command ::clienttele 3247 3560 0
+[23 mrt 2026, 2:30:24 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] Command received: clienttele 3263 3559 0
+[23 mrt 2026, 2:30:24 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] 69army used command ::clienttele 3263 3559 0
+[23 mrt 2026, 2:30:24 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] Command received: clienttele 3263 3559 0
+[23 mrt 2026, 2:30:24 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] 69army used command ::clienttele 3263 3559 0
+[23 mrt 2026, 2:30:24 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] Command received: clienttele 3263 3559 0
+[23 mrt 2026, 2:30:24 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] 69army used command ::clienttele 3263 3559 0
+[23 mrt 2026, 2:30:24 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] Command received: clienttele 3279 3558 0
+[23 mrt 2026, 2:30:24 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] 69army used command ::clienttele 3279 3558 0
+[23 mrt 2026, 2:30:24 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] Command received: clienttele 3279 3558 0
+[23 mrt 2026, 2:30:24 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] 69army used command ::clienttele 3279 3558 0
+[23 mrt 2026, 2:30:24 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] Command received: clienttele 3279 3558 0
+[23 mrt 2026, 2:30:24 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] 69army used command ::clienttele 3279 3558 0
+[23 mrt 2026, 2:30:24 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] Command received: clienttele 3279 3558 0
+[23 mrt 2026, 2:30:24 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] 69army used command ::clienttele 3279 3558 0
+[23 mrt 2026, 2:30:25 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] Command received: clienttele 3295 3557 0
+[23 mrt 2026, 2:30:25 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] 69army used command ::clienttele 3295 3557 0
+[23 mrt 2026, 2:30:25 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] Command received: clienttele 3295 3557 0
+[23 mrt 2026, 2:30:25 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] 69army used command ::clienttele 3295 3557 0
+[23 mrt 2026, 2:30:25 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] Command received: clienttele 3295 3557 0
+[23 mrt 2026, 2:30:25 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] 69army used command ::clienttele 3295 3557 0
+[23 mrt 2026, 2:30:25 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] Command received: clienttele 3295 3557 0
+[23 mrt 2026, 2:30:25 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] 69army used command ::clienttele 3295 3557 0
+[23 mrt 2026, 2:30:25 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] Command received: clienttele 3311 3556 0
+[23 mrt 2026, 2:30:25 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] 69army used command ::clienttele 3311 3556 0
+[23 mrt 2026, 2:30:25 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] Command received: clienttele 3311 3556 0
+[23 mrt 2026, 2:30:25 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] 69army used command ::clienttele 3311 3556 0
+[23 mrt 2026, 2:30:25 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] Command received: clienttele 3311 3556 0
+[23 mrt 2026, 2:30:25 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] 69army used command ::clienttele 3311 3556 0
+[23 mrt 2026, 2:30:25 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] Command received: clienttele 3311 3556 0
+[23 mrt 2026, 2:30:25 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] 69army used command ::clienttele 3311 3556 0
+[23 mrt 2026, 2:30:26 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] Command received: clienttele 3327 3555 0
+[23 mrt 2026, 2:30:26 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] 69army used command ::clienttele 3327 3555 0
+[23 mrt 2026, 2:30:26 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] Command received: clienttele 3327 3555 0
+[23 mrt 2026, 2:30:26 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] 69army used command ::clienttele 3327 3555 0
+[23 mrt 2026, 2:30:26 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] Command received: clienttele 3327 3555 0
+[23 mrt 2026, 2:30:26 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] 69army used command ::clienttele 3327 3555 0
+[23 mrt 2026, 2:30:26 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] Command received: clienttele 3327 3555 0
+[23 mrt 2026, 2:30:26 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] 69army used command ::clienttele 3327 3555 0
+[23 mrt 2026, 2:30:27 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] Command received: clienttele 3343 3554 0
+[23 mrt 2026, 2:30:27 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] 69army used command ::clienttele 3343 3554 0
+[23 mrt 2026, 2:30:27 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] Command received: clienttele 3343 3554 0
+[23 mrt 2026, 2:30:27 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] 69army used command ::clienttele 3343 3554 0
+[23 mrt 2026, 2:30:27 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] Command received: clienttele 3343 3554 0
+[23 mrt 2026, 2:30:27 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] 69army used command ::clienttele 3343 3554 0
+[23 mrt 2026, 2:30:27 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] Command received: clienttele 3359 3553 0
+[23 mrt 2026, 2:30:27 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] 69army used command ::clienttele 3359 3553 0
+[23 mrt 2026, 2:30:27 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] Command received: clienttele 3359 3553 0
+[23 mrt 2026, 2:30:27 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] 69army used command ::clienttele 3359 3553 0
+[23 mrt 2026, 2:30:27 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] Command received: clienttele 3359 3553 0
+[23 mrt 2026, 2:30:27 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] 69army used command ::clienttele 3359 3553 0
+[23 mrt 2026, 2:30:27 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] Command received: clienttele 3359 3553 0
+[23 mrt 2026, 2:30:27 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] 69army used command ::clienttele 3359 3553 0
+[23 mrt 2026, 2:30:28 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] Command received: clienttele 3375 3552 0
+[23 mrt 2026, 2:30:28 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] 69army used command ::clienttele 3375 3552 0
+[23 mrt 2026, 2:30:28 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] Command received: clienttele 3375 3552 0
+[23 mrt 2026, 2:30:28 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] 69army used command ::clienttele 3375 3552 0
+[23 mrt 2026, 2:30:28 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] Command received: clienttele 3375 3552 0
+[23 mrt 2026, 2:30:28 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] 69army used command ::clienttele 3375 3552 0
+[23 mrt 2026, 2:30:28 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] Command received: clienttele 3391 3551 0
+[23 mrt 2026, 2:30:28 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] 69army used command ::clienttele 3391 3551 0
+[23 mrt 2026, 2:30:28 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] Command received: clienttele 3391 3551 0
+[23 mrt 2026, 2:30:28 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] 69army used command ::clienttele 3391 3551 0
+[23 mrt 2026, 2:30:28 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] Command received: clienttele 3391 3551 0
+[23 mrt 2026, 2:30:28 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] 69army used command ::clienttele 3391 3551 0
+[23 mrt 2026, 2:30:28 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] Command received: clienttele 3391 3551 0
+[23 mrt 2026, 2:30:28 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] 69army used command ::clienttele 3391 3551 0
+[23 mrt 2026, 2:30:29 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] Command received: clienttele 3407 3550 0
+[23 mrt 2026, 2:30:29 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] 69army used command ::clienttele 3407 3550 0
+[23 mrt 2026, 2:30:29 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] Command received: clienttele 3407 3550 0
+[23 mrt 2026, 2:30:29 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] 69army used command ::clienttele 3407 3550 0
+[23 mrt 2026, 2:30:30 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] Command received: clienttele 3423 3549 0
+[23 mrt 2026, 2:30:30 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] 69army used command ::clienttele 3423 3549 0
+[23 mrt 2026, 2:30:31 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] Command received: clienttele 3439 3548 0
+[23 mrt 2026, 2:30:31 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] 69army used command ::clienttele 3439 3548 0
+[23 mrt 2026, 2:30:37 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] Command received: clienttele 3455 3547 0
+[23 mrt 2026, 2:30:37 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] 69army used command ::clienttele 3455 3547 0
+[23 mrt 2026, 2:30:38 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] Command received: clienttele 3471 3546 0
+[23 mrt 2026, 2:30:38 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] 69army used command ::clienttele 3471 3546 0
+[23 mrt 2026, 2:30:38 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] Command received: clienttele 3471 3546 0
+[23 mrt 2026, 2:30:38 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] 69army used command ::clienttele 3471 3546 0
+[23 mrt 2026, 2:30:38 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] Command received: clienttele 3471 3546 0
+[23 mrt 2026, 2:30:38 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] 69army used command ::clienttele 3471 3546 0
+[23 mrt 2026, 2:30:39 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] Command received: clienttele 3487 3544 0
+[23 mrt 2026, 2:30:39 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] 69army used command ::clienttele 3487 3544 0
+[23 mrt 2026, 2:30:40 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] Command received: clienttele 3505 3547 0
+[23 mrt 2026, 2:30:40 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] 69army used command ::clienttele 3505 3547 0
+[23 mrt 2026, 2:30:40 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] Command received: clienttele 3505 3547 0
+[23 mrt 2026, 2:30:40 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] 69army used command ::clienttele 3505 3547 0
+[23 mrt 2026, 2:30:40 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] Command received: clienttele 3505 3547 0
+[23 mrt 2026, 2:30:40 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] 69army used command ::clienttele 3505 3547 0
+[23 mrt 2026, 2:30:40 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] Command received: clienttele 3505 3547 0
+[23 mrt 2026, 2:30:40 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] 69army used command ::clienttele 3505 3547 0
+[23 mrt 2026, 2:30:40 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] Command received: clienttele 3523 3550 0
+[23 mrt 2026, 2:30:40 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] 69army used command ::clienttele 3523 3550 0
+[23 mrt 2026, 2:30:40 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] Command received: clienttele 3523 3550 0
+[23 mrt 2026, 2:30:40 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] 69army used command ::clienttele 3523 3550 0
+[23 mrt 2026, 2:30:40 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] Command received: clienttele 3523 3550 0
+[23 mrt 2026, 2:30:40 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] 69army used command ::clienttele 3523 3550 0
+[23 mrt 2026, 2:30:41 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] Command received: clienttele 3541 3553 0
+[23 mrt 2026, 2:30:41 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] 69army used command ::clienttele 3541 3553 0
+[23 mrt 2026, 2:30:41 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] Command received: clienttele 3541 3553 0
+[23 mrt 2026, 2:30:41 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] 69army used command ::clienttele 3541 3553 0
+[23 mrt 2026, 2:30:41 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] Command received: clienttele 3541 3553 0
+[23 mrt 2026, 2:30:41 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] 69army used command ::clienttele 3541 3553 0
+[23 mrt 2026, 2:30:41 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] Command received: clienttele 3541 3553 0
+[23 mrt 2026, 2:30:41 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] 69army used command ::clienttele 3541 3553 0
+[23 mrt 2026, 2:30:42 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] Command received: clienttele 3559 3556 0
+[23 mrt 2026, 2:30:42 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] 69army used command ::clienttele 3559 3556 0
+[23 mrt 2026, 2:30:42 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] Command received: clienttele 3559 3556 0
+[23 mrt 2026, 2:30:42 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] 69army used command ::clienttele 3559 3556 0
+[23 mrt 2026, 2:30:43 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] Command received: clienttele 3572 3556 0
+[23 mrt 2026, 2:30:43 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] 69army used command ::clienttele 3572 3556 0
+[23 mrt 2026, 2:30:43 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] Command received: clienttele 3586 3556 0
+[23 mrt 2026, 2:30:43 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] 69army used command ::clienttele 3586 3556 0
+[23 mrt 2026, 2:30:44 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] Command received: clienttele 3600 3555 0
+[23 mrt 2026, 2:30:44 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] 69army used command ::clienttele 3600 3555 0
+[23 mrt 2026, 2:30:45 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] Command received: clienttele 3614 3554 0
+[23 mrt 2026, 2:30:45 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] 69army used command ::clienttele 3614 3554 0
+[23 mrt 2026, 2:30:46 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] Command received: clienttele 3628 3553 0
+[23 mrt 2026, 2:30:46 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] 69army used command ::clienttele 3628 3553 0
+[23 mrt 2026, 2:30:46 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] Command received: clienttele 3642 3552 0
+[23 mrt 2026, 2:30:46 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] 69army used command ::clienttele 3642 3552 0
+[23 mrt 2026, 2:30:46 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] Command received: clienttele 3642 3552 0
+[23 mrt 2026, 2:30:46 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] 69army used command ::clienttele 3642 3552 0
+[23 mrt 2026, 2:30:47 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] Command received: clienttele 3656 3551 0
+[23 mrt 2026, 2:30:47 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] 69army used command ::clienttele 3656 3551 0
+[23 mrt 2026, 2:30:48 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] Command received: clienttele 3670 3550 0
+[23 mrt 2026, 2:30:48 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] 69army used command ::clienttele 3670 3550 0
+[23 mrt 2026, 2:30:48 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] Command received: clienttele 3670 3550 0
+[23 mrt 2026, 2:30:48 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] 69army used command ::clienttele 3670 3550 0
+[23 mrt 2026, 2:30:48 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] Command received: clienttele 3670 3550 0
+[23 mrt 2026, 2:30:48 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] 69army used command ::clienttele 3670 3550 0
+[23 mrt 2026, 2:30:48 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] Command received: clienttele 3684 3549 0
+[23 mrt 2026, 2:30:48 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] 69army used command ::clienttele 3684 3549 0
+[23 mrt 2026, 2:30:48 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] Command received: clienttele 3684 3549 0
+[23 mrt 2026, 2:30:48 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] 69army used command ::clienttele 3684 3549 0
+[23 mrt 2026, 2:30:49 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] Command received: clienttele 3697 3545 0
+[23 mrt 2026, 2:30:49 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] 69army used command ::clienttele 3697 3545 0
+[23 mrt 2026, 2:30:49 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] Command received: clienttele 3697 3545 0
+[23 mrt 2026, 2:30:49 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] 69army used command ::clienttele 3697 3545 0
+[23 mrt 2026, 2:30:49 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] Command received: clienttele 3697 3545 0
+[23 mrt 2026, 2:30:49 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] 69army used command ::clienttele 3697 3545 0
+[23 mrt 2026, 2:30:49 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] Command received: clienttele 3710 3541 0
+[23 mrt 2026, 2:30:49 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] 69army used command ::clienttele 3710 3541 0
+[23 mrt 2026, 2:30:49 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] Command received: clienttele 3710 3541 0
+[23 mrt 2026, 2:30:49 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] 69army used command ::clienttele 3710 3541 0
+[23 mrt 2026, 2:30:49 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] Command received: clienttele 3710 3541 0
+[23 mrt 2026, 2:30:49 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] 69army used command ::clienttele 3710 3541 0
+[23 mrt 2026, 2:30:49 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] Command received: clienttele 3710 3541 0
+[23 mrt 2026, 2:30:49 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] 69army used command ::clienttele 3710 3541 0
+[23 mrt 2026, 2:30:50 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] Command received: clienttele 3723 3537 0
+[23 mrt 2026, 2:30:50 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] 69army used command ::clienttele 3723 3537 0
+[23 mrt 2026, 2:30:50 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] Command received: clienttele 3723 3537 0
+[23 mrt 2026, 2:30:50 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] 69army used command ::clienttele 3723 3537 0
+[23 mrt 2026, 2:30:50 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] Command received: clienttele 3724 3538 0
+[23 mrt 2026, 2:30:50 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] 69army used command ::clienttele 3724 3538 0
+[23 mrt 2026, 2:30:50 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] Command received: clienttele 3724 3538 0
+[23 mrt 2026, 2:30:50 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] 69army used command ::clienttele 3724 3538 0
+[23 mrt 2026, 2:30:51 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] Command received: clienttele 3738 3535 0
+[23 mrt 2026, 2:30:51 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] 69army used command ::clienttele 3738 3535 0
+[23 mrt 2026, 2:30:51 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] Command received: clienttele 3738 3535 0
+[23 mrt 2026, 2:30:51 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] 69army used command ::clienttele 3738 3535 0
+[23 mrt 2026, 2:30:51 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] Command received: clienttele 3738 3535 0
+[23 mrt 2026, 2:30:51 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] 69army used command ::clienttele 3738 3535 0
+[23 mrt 2026, 2:30:51 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] Command received: clienttele 3738 3535 0
+[23 mrt 2026, 2:30:51 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] 69army used command ::clienttele 3738 3535 0
+[23 mrt 2026, 2:30:51 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] Command received: clienttele 3752 3532 0
+[23 mrt 2026, 2:30:51 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] 69army used command ::clienttele 3752 3532 0
+[23 mrt 2026, 2:30:51 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] Command received: clienttele 3752 3532 0
+[23 mrt 2026, 2:30:51 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] 69army used command ::clienttele 3752 3532 0
+[23 mrt 2026, 2:30:51 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] Command received: clienttele 3752 3532 0
+[23 mrt 2026, 2:30:51 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] 69army used command ::clienttele 3752 3532 0
+[23 mrt 2026, 2:30:51 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] Command received: clienttele 3752 3532 0
+[23 mrt 2026, 2:30:51 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] 69army used command ::clienttele 3752 3532 0
+[23 mrt 2026, 2:30:52 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] Command received: clienttele 3767 3529 0
+[23 mrt 2026, 2:30:52 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] 69army used command ::clienttele 3767 3529 0
+[23 mrt 2026, 2:30:52 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] Command received: clienttele 3767 3529 0
+[23 mrt 2026, 2:30:52 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] 69army used command ::clienttele 3767 3529 0
+[23 mrt 2026, 2:30:52 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] Command received: clienttele 3766 3530 0
+[23 mrt 2026, 2:30:52 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] 69army used command ::clienttele 3766 3530 0
+[23 mrt 2026, 2:30:52 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] Command received: clienttele 3780 3528 0
+[23 mrt 2026, 2:30:52 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] 69army used command ::clienttele 3780 3528 0
+[23 mrt 2026, 2:30:52 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] Command received: clienttele 3780 3528 0
+[23 mrt 2026, 2:30:52 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] 69army used command ::clienttele 3780 3528 0
+[23 mrt 2026, 2:30:52 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] Command received: clienttele 3780 3528 0
+[23 mrt 2026, 2:30:52 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] 69army used command ::clienttele 3780 3528 0
+[23 mrt 2026, 2:30:53 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] Command received: clienttele 3794 3526 0
+[23 mrt 2026, 2:30:53 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] 69army used command ::clienttele 3794 3526 0
+[23 mrt 2026, 2:30:53 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] Command received: clienttele 3794 3526 0
+[23 mrt 2026, 2:30:53 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] 69army used command ::clienttele 3794 3526 0
+[23 mrt 2026, 2:30:53 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] Command received: clienttele 3794 3526 0
+[23 mrt 2026, 2:30:53 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] 69army used command ::clienttele 3794 3526 0
+[23 mrt 2026, 2:30:54 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] Command received: clienttele 3808 3524 0
+[23 mrt 2026, 2:30:54 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] 69army used command ::clienttele 3808 3524 0
+[23 mrt 2026, 2:30:58 a.m.] [TwistedScape GameThread] [Chain] [DEBUG] chain interrupted, wont continue to next. context: Owner: 69army, 127.0.0.1, [3804, 3536, 0], not in wild
+[23 mrt 2026, 2:31:00 a.m.] [TwistedScape GameThread] [Chain] [DEBUG] chain interrupted, wont continue to next. context: Owner: 69army, 127.0.0.1, [3804, 3540, 0], not in wild
+[23 mrt 2026, 2:31:10 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] Command received: clienttele 3834 3593 0
+[23 mrt 2026, 2:31:10 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] 69army used command ::clienttele 3834 3593 0
+[23 mrt 2026, 2:31:11 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] Command received: clienttele 3834 3614 0
+[23 mrt 2026, 2:31:11 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] 69army used command ::clienttele 3834 3614 0
+[23 mrt 2026, 2:31:11 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] Command received: clienttele 3832 3609 0
+[23 mrt 2026, 2:31:11 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] 69army used command ::clienttele 3832 3609 0
+[23 mrt 2026, 2:31:13 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] Command received: clienttele 3831 3627 0
+[23 mrt 2026, 2:31:13 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] 69army used command ::clienttele 3831 3627 0
+[23 mrt 2026, 2:31:13 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] Command received: clienttele 3831 3627 0
+[23 mrt 2026, 2:31:13 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] 69army used command ::clienttele 3831 3627 0
+[23 mrt 2026, 2:31:13 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] Command received: clienttele 3831 3644 0
+[23 mrt 2026, 2:31:13 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] 69army used command ::clienttele 3831 3644 0
+[23 mrt 2026, 2:31:13 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] Command received: clienttele 3831 3644 0
+[23 mrt 2026, 2:31:13 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] 69army used command ::clienttele 3831 3644 0
+[23 mrt 2026, 2:31:13 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] Command received: clienttele 3831 3644 0
+[23 mrt 2026, 2:31:13 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] 69army used command ::clienttele 3831 3644 0
+[23 mrt 2026, 2:31:13 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] Command received: clienttele 3831 3644 0
+[23 mrt 2026, 2:31:13 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] 69army used command ::clienttele 3831 3644 0
+[23 mrt 2026, 2:31:14 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] Command received: clienttele 3831 3661 0
+[23 mrt 2026, 2:31:14 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] 69army used command ::clienttele 3831 3661 0
+[23 mrt 2026, 2:31:14 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] Command received: clienttele 3831 3661 0
+[23 mrt 2026, 2:31:14 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] 69army used command ::clienttele 3831 3661 0
+[23 mrt 2026, 2:31:14 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] Command received: clienttele 3831 3661 0
+[23 mrt 2026, 2:31:14 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] 69army used command ::clienttele 3831 3661 0
+[23 mrt 2026, 2:31:14 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] Command received: clienttele 3831 3661 0
+[23 mrt 2026, 2:31:14 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] 69army used command ::clienttele 3831 3661 0
+[23 mrt 2026, 2:31:15 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] Command received: clienttele 3831 3678 0
+[23 mrt 2026, 2:31:15 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] 69army used command ::clienttele 3831 3678 0
+[23 mrt 2026, 2:31:15 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] Command received: clienttele 3831 3678 0
+[23 mrt 2026, 2:31:15 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] 69army used command ::clienttele 3831 3678 0
+[23 mrt 2026, 2:31:15 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] Command received: clienttele 3831 3678 0
+[23 mrt 2026, 2:31:15 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] 69army used command ::clienttele 3831 3678 0
+[23 mrt 2026, 2:31:15 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] Command received: clienttele 3831 3678 0
+[23 mrt 2026, 2:31:15 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] 69army used command ::clienttele 3831 3678 0
+[23 mrt 2026, 2:31:15 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] Command received: clienttele 3831 3695 0
+[23 mrt 2026, 2:31:15 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] 69army used command ::clienttele 3831 3695 0
+[23 mrt 2026, 2:31:15 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] Command received: clienttele 3831 3695 0
+[23 mrt 2026, 2:31:15 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] 69army used command ::clienttele 3831 3695 0
+[23 mrt 2026, 2:31:15 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] Command received: clienttele 3831 3695 0
+[23 mrt 2026, 2:31:15 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] 69army used command ::clienttele 3831 3695 0
+[23 mrt 2026, 2:31:15 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] Command received: clienttele 3831 3695 0
+[23 mrt 2026, 2:31:15 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] 69army used command ::clienttele 3831 3695 0
+[23 mrt 2026, 2:31:16 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] Command received: clienttele 3831 3712 0
+[23 mrt 2026, 2:31:16 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] 69army used command ::clienttele 3831 3712 0
+[23 mrt 2026, 2:31:16 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] Command received: clienttele 3831 3712 0
+[23 mrt 2026, 2:31:16 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] 69army used command ::clienttele 3831 3712 0
+[23 mrt 2026, 2:31:16 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] Command received: clienttele 3831 3712 0
+[23 mrt 2026, 2:31:16 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] 69army used command ::clienttele 3831 3712 0
+[23 mrt 2026, 2:31:16 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] Command received: clienttele 3831 3712 0
+[23 mrt 2026, 2:31:16 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] 69army used command ::clienttele 3831 3712 0
+[23 mrt 2026, 2:31:16 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] Command received: clienttele 3831 3729 0
+[23 mrt 2026, 2:31:16 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] 69army used command ::clienttele 3831 3729 0
+[23 mrt 2026, 2:31:16 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] Command received: clienttele 3831 3729 0
+[23 mrt 2026, 2:31:16 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] 69army used command ::clienttele 3831 3729 0
+[23 mrt 2026, 2:31:16 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] Command received: clienttele 3831 3729 0
+[23 mrt 2026, 2:31:16 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] 69army used command ::clienttele 3831 3729 0
+[23 mrt 2026, 2:31:17 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] Command received: clienttele 3831 3746 0
+[23 mrt 2026, 2:31:17 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] 69army used command ::clienttele 3831 3746 0
+[23 mrt 2026, 2:31:17 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] Command received: clienttele 3831 3746 0
+[23 mrt 2026, 2:31:17 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] 69army used command ::clienttele 3831 3746 0
+[23 mrt 2026, 2:31:17 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] Command received: clienttele 3831 3746 0
+[23 mrt 2026, 2:31:17 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] 69army used command ::clienttele 3831 3746 0
+[23 mrt 2026, 2:31:18 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] Command received: clienttele 3831 3763 0
+[23 mrt 2026, 2:31:18 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] 69army used command ::clienttele 3831 3763 0
+[23 mrt 2026, 2:31:18 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] Command received: clienttele 3831 3763 0
+[23 mrt 2026, 2:31:18 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] 69army used command ::clienttele 3831 3763 0
+[23 mrt 2026, 2:31:18 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] Command received: clienttele 3831 3763 0
+[23 mrt 2026, 2:31:18 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] 69army used command ::clienttele 3831 3763 0
+[23 mrt 2026, 2:31:19 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] Command received: clienttele 3826 3771 0
+[23 mrt 2026, 2:31:19 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] 69army used command ::clienttele 3826 3771 0
+[23 mrt 2026, 2:31:19 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] Command received: clienttele 3814 3779 0
+[23 mrt 2026, 2:31:19 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] 69army used command ::clienttele 3814 3779 0
+[23 mrt 2026, 2:31:48 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] Command received: clienttele 3796 3782 0
+[23 mrt 2026, 2:31:48 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] 69army used command ::clienttele 3796 3782 0
+[23 mrt 2026, 2:31:48 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] Command received: clienttele 3796 3782 0
+[23 mrt 2026, 2:31:48 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] 69army used command ::clienttele 3796 3782 0
+[23 mrt 2026, 2:31:48 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] Command received: clienttele 3781 3782 0
+[23 mrt 2026, 2:31:48 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] 69army used command ::clienttele 3781 3782 0
+[23 mrt 2026, 2:31:48 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] Command received: clienttele 3781 3782 0
+[23 mrt 2026, 2:31:48 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] 69army used command ::clienttele 3781 3782 0
+[23 mrt 2026, 2:31:48 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] Command received: clienttele 3781 3782 0
+[23 mrt 2026, 2:31:48 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] 69army used command ::clienttele 3781 3782 0
+[23 mrt 2026, 2:31:49 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] Command received: clienttele 3766 3782 0
+[23 mrt 2026, 2:31:49 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] 69army used command ::clienttele 3766 3782 0
+[23 mrt 2026, 2:31:49 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] Command received: clienttele 3766 3782 0
+[23 mrt 2026, 2:31:49 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] 69army used command ::clienttele 3766 3782 0
+[23 mrt 2026, 2:31:49 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] Command received: clienttele 3766 3782 0
+[23 mrt 2026, 2:31:49 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] 69army used command ::clienttele 3766 3782 0
+[23 mrt 2026, 2:31:49 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] Command received: clienttele 3766 3782 0
+[23 mrt 2026, 2:31:49 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] 69army used command ::clienttele 3766 3782 0
+[23 mrt 2026, 2:31:49 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] Command received: clienttele 3751 3782 0
+[23 mrt 2026, 2:31:49 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] 69army used command ::clienttele 3751 3782 0
+[23 mrt 2026, 2:31:49 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] Command received: clienttele 3751 3782 0
+[23 mrt 2026, 2:31:49 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] 69army used command ::clienttele 3751 3782 0
+[23 mrt 2026, 2:31:49 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] Command received: clienttele 3751 3782 0
+[23 mrt 2026, 2:31:49 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] 69army used command ::clienttele 3751 3782 0
+[23 mrt 2026, 2:31:50 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] Command received: clienttele 3736 3782 0
+[23 mrt 2026, 2:31:50 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] 69army used command ::clienttele 3736 3782 0
+[23 mrt 2026, 2:31:50 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] Command received: clienttele 3736 3782 0
+[23 mrt 2026, 2:31:50 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] 69army used command ::clienttele 3736 3782 0
+[23 mrt 2026, 2:31:50 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] Command received: clienttele 3736 3782 0
+[23 mrt 2026, 2:31:50 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] 69army used command ::clienttele 3736 3782 0
+[23 mrt 2026, 2:31:50 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] Command received: clienttele 3736 3782 0
+[23 mrt 2026, 2:31:50 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] 69army used command ::clienttele 3736 3782 0
+[23 mrt 2026, 2:31:51 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] Command received: clienttele 3721 3782 0
+[23 mrt 2026, 2:31:51 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] 69army used command ::clienttele 3721 3782 0
+[23 mrt 2026, 2:31:51 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] Command received: clienttele 3721 3782 0
+[23 mrt 2026, 2:31:51 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] 69army used command ::clienttele 3721 3782 0
+[23 mrt 2026, 2:31:51 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] Command received: clienttele 3721 3782 0
+[23 mrt 2026, 2:31:51 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] 69army used command ::clienttele 3721 3782 0
+[23 mrt 2026, 2:31:51 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] Command received: clienttele 3706 3782 0
+[23 mrt 2026, 2:31:51 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] 69army used command ::clienttele 3706 3782 0
+[23 mrt 2026, 2:31:52 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] Command received: clienttele 3691 3782 0
+[23 mrt 2026, 2:31:52 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] 69army used command ::clienttele 3691 3782 0
+[23 mrt 2026, 2:32:02 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] Command received: clienttele 3680 3790 0
+[23 mrt 2026, 2:32:02 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] 69army used command ::clienttele 3680 3790 0
+[23 mrt 2026, 2:32:03 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] Command received: clienttele 3665 3793 0
+[23 mrt 2026, 2:32:03 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] 69army used command ::clienttele 3665 3793 0
+[23 mrt 2026, 2:32:04 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] Command received: clienttele 3649 3794 0
+[23 mrt 2026, 2:32:04 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] 69army used command ::clienttele 3649 3794 0
+[23 mrt 2026, 2:32:05 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] Command received: clienttele 3648 3807 0
+[23 mrt 2026, 2:32:05 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] 69army used command ::clienttele 3648 3807 0
+[23 mrt 2026, 2:32:06 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] Command received: clienttele 3655 3813 0
+[23 mrt 2026, 2:32:06 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] 69army used command ::clienttele 3655 3813 0
+[23 mrt 2026, 2:32:06 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] Command received: clienttele 3667 3813 0
+[23 mrt 2026, 2:32:06 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] 69army used command ::clienttele 3667 3813 0
+[23 mrt 2026, 2:32:06 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] Command received: clienttele 3667 3813 0
+[23 mrt 2026, 2:32:06 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] 69army used command ::clienttele 3667 3813 0
+[23 mrt 2026, 2:32:06 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] Command received: clienttele 3668 3813 0
+[23 mrt 2026, 2:32:06 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] 69army used command ::clienttele 3668 3813 0
+[23 mrt 2026, 2:32:07 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] Command received: clienttele 3681 3813 0
+[23 mrt 2026, 2:32:07 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] 69army used command ::clienttele 3681 3813 0
+[23 mrt 2026, 2:32:07 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] Command received: clienttele 3681 3813 0
+[23 mrt 2026, 2:32:07 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] 69army used command ::clienttele 3681 3813 0
+[23 mrt 2026, 2:32:07 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] Command received: clienttele 3681 3813 0
+[23 mrt 2026, 2:32:07 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] 69army used command ::clienttele 3681 3813 0
+[23 mrt 2026, 2:32:07 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] Command received: clienttele 3694 3813 0
+[23 mrt 2026, 2:32:07 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] 69army used command ::clienttele 3694 3813 0
+[23 mrt 2026, 2:32:07 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] Command received: clienttele 3694 3813 0
+[23 mrt 2026, 2:32:07 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] 69army used command ::clienttele 3694 3813 0
+[23 mrt 2026, 2:32:07 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] Command received: clienttele 3694 3813 0
+[23 mrt 2026, 2:32:07 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] 69army used command ::clienttele 3694 3813 0
+[23 mrt 2026, 2:32:08 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] Command received: clienttele 3704 3816 0
+[23 mrt 2026, 2:32:08 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] 69army used command ::clienttele 3704 3816 0
+[23 mrt 2026, 2:32:09 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] Command received: clienttele 3703 3824 0
+[23 mrt 2026, 2:32:09 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] 69army used command ::clienttele 3703 3824 0
+[23 mrt 2026, 2:32:10 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] Command received: clienttele 3711 3839 0
+[23 mrt 2026, 2:32:10 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] 69army used command ::clienttele 3711 3839 0
+[23 mrt 2026, 2:32:11 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] Command received: clienttele 3715 3855 0
+[23 mrt 2026, 2:32:11 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] 69army used command ::clienttele 3715 3855 0
+[23 mrt 2026, 2:32:12 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] Command received: clienttele 3718 3871 0
+[23 mrt 2026, 2:32:12 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] 69army used command ::clienttele 3718 3871 0
+[23 mrt 2026, 2:32:12 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] Command received: clienttele 3721 3887 0
+[23 mrt 2026, 2:32:12 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] 69army used command ::clienttele 3721 3887 0
+[23 mrt 2026, 2:32:12 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] Command received: clienttele 3721 3887 0
+[23 mrt 2026, 2:32:12 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] 69army used command ::clienttele 3721 3887 0
+[23 mrt 2026, 2:32:13 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] Command received: clienttele 3724 3903 0
+[23 mrt 2026, 2:32:13 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] 69army used command ::clienttele 3724 3903 0
+[23 mrt 2026, 2:32:13 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] Command received: clienttele 3724 3903 0
+[23 mrt 2026, 2:32:13 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] 69army used command ::clienttele 3724 3903 0
+[23 mrt 2026, 2:32:15 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] Command received: clienttele 3682 3899 0
+[23 mrt 2026, 2:32:15 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] 69army used command ::clienttele 3682 3899 0
+[23 mrt 2026, 2:32:16 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] Command received: clienttele 3656 3881 0
+[23 mrt 2026, 2:32:16 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] 69army used command ::clienttele 3656 3881 0
+[23 mrt 2026, 2:32:16 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] Command received: clienttele 3665 3886 0
+[23 mrt 2026, 2:32:16 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] 69army used command ::clienttele 3665 3886 0
+[23 mrt 2026, 2:32:18 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] Command received: clienttele 3651 3862 0
+[23 mrt 2026, 2:32:18 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] 69army used command ::clienttele 3651 3862 0
+[23 mrt 2026, 2:32:18 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] Command received: clienttele 3654 3832 0
+[23 mrt 2026, 2:32:18 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] 69army used command ::clienttele 3654 3832 0
+[23 mrt 2026, 2:32:21 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] Command received: clienttele 3653 3817 0
+[23 mrt 2026, 2:32:21 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] 69army used command ::clienttele 3653 3817 0
+[23 mrt 2026, 2:32:21 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] Command received: clienttele 3655 3815 0
+[23 mrt 2026, 2:32:21 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] 69army used command ::clienttele 3655 3815 0
+[23 mrt 2026, 2:32:21 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] Command received: clienttele 3655 3814 0
+[23 mrt 2026, 2:32:21 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] 69army used command ::clienttele 3655 3814 0
+[23 mrt 2026, 2:32:21 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] Command received: clienttele 3656 3796 0
+[23 mrt 2026, 2:32:21 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] 69army used command ::clienttele 3656 3796 0
+[23 mrt 2026, 2:32:21 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] Command received: clienttele 3656 3796 0
+[23 mrt 2026, 2:32:21 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] 69army used command ::clienttele 3656 3796 0
+[23 mrt 2026, 2:32:22 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] Command received: clienttele 3657 3778 0
+[23 mrt 2026, 2:32:22 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] 69army used command ::clienttele 3657 3778 0
+[23 mrt 2026, 2:32:22 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] Command received: clienttele 3657 3778 0
+[23 mrt 2026, 2:32:22 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] 69army used command ::clienttele 3657 3778 0
+[23 mrt 2026, 2:32:22 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] Command received: clienttele 3657 3778 0
+[23 mrt 2026, 2:32:22 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] 69army used command ::clienttele 3657 3778 0
+[23 mrt 2026, 2:32:22 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] Command received: clienttele 3657 3778 0
+[23 mrt 2026, 2:32:22 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] 69army used command ::clienttele 3657 3778 0
+[23 mrt 2026, 2:32:22 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] Command received: clienttele 3658 3760 0
+[23 mrt 2026, 2:32:22 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] 69army used command ::clienttele 3658 3760 0
+[23 mrt 2026, 2:32:22 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] Command received: clienttele 3658 3760 0
+[23 mrt 2026, 2:32:22 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] 69army used command ::clienttele 3658 3760 0
+[23 mrt 2026, 2:32:22 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] Command received: clienttele 3658 3760 0
+[23 mrt 2026, 2:32:22 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] 69army used command ::clienttele 3658 3760 0
+[23 mrt 2026, 2:32:23 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] Command received: clienttele 3659 3742 0
+[23 mrt 2026, 2:32:23 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] 69army used command ::clienttele 3659 3742 0
+[23 mrt 2026, 2:32:23 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] Command received: clienttele 3659 3742 0
+[23 mrt 2026, 2:32:23 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] 69army used command ::clienttele 3659 3742 0
+[23 mrt 2026, 2:32:23 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] Command received: clienttele 3659 3742 0
+[23 mrt 2026, 2:32:23 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] 69army used command ::clienttele 3659 3742 0
+[23 mrt 2026, 2:32:24 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] Command received: clienttele 3660 3724 0
+[23 mrt 2026, 2:32:24 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] 69army used command ::clienttele 3660 3724 0
+[23 mrt 2026, 2:32:24 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] Command received: clienttele 3660 3724 0
+[23 mrt 2026, 2:32:24 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] 69army used command ::clienttele 3660 3724 0
+[23 mrt 2026, 2:32:24 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] Command received: clienttele 3660 3724 0
+[23 mrt 2026, 2:32:24 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] 69army used command ::clienttele 3660 3724 0
+[23 mrt 2026, 2:32:24 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] Command received: clienttele 3661 3706 0
+[23 mrt 2026, 2:32:24 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] 69army used command ::clienttele 3661 3706 0
+[23 mrt 2026, 2:32:24 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] Command received: clienttele 3661 3706 0
+[23 mrt 2026, 2:32:24 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] 69army used command ::clienttele 3661 3706 0
+[23 mrt 2026, 2:32:24 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] Command received: clienttele 3661 3706 0
+[23 mrt 2026, 2:32:24 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] 69army used command ::clienttele 3661 3706 0
+[23 mrt 2026, 2:32:24 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] Command received: clienttele 3661 3706 0
+[23 mrt 2026, 2:32:24 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] 69army used command ::clienttele 3661 3706 0
+[23 mrt 2026, 2:32:25 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] Command received: clienttele 3662 3688 0
+[23 mrt 2026, 2:32:25 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] 69army used command ::clienttele 3662 3688 0
+[23 mrt 2026, 2:32:25 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] Command received: clienttele 3662 3688 0
+[23 mrt 2026, 2:32:25 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] 69army used command ::clienttele 3662 3688 0
+[23 mrt 2026, 2:32:25 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] Command received: clienttele 3662 3688 0
+[23 mrt 2026, 2:32:25 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] 69army used command ::clienttele 3662 3688 0
+[23 mrt 2026, 2:32:25 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] Command received: clienttele 3662 3688 0
+[23 mrt 2026, 2:32:25 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] 69army used command ::clienttele 3662 3688 0
+[23 mrt 2026, 2:32:25 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] Command received: clienttele 3663 3670 0
+[23 mrt 2026, 2:32:25 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] 69army used command ::clienttele 3663 3670 0
+[23 mrt 2026, 2:32:25 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] Command received: clienttele 3663 3670 0
+[23 mrt 2026, 2:32:25 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] 69army used command ::clienttele 3663 3670 0
+[23 mrt 2026, 2:32:25 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] Command received: clienttele 3663 3670 0
+[23 mrt 2026, 2:32:25 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] 69army used command ::clienttele 3663 3670 0
+[23 mrt 2026, 2:32:25 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] Command received: clienttele 3663 3670 0
+[23 mrt 2026, 2:32:25 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] 69army used command ::clienttele 3663 3670 0
+[23 mrt 2026, 2:32:26 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] Command received: clienttele 3668 3653 0
+[23 mrt 2026, 2:32:26 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] 69army used command ::clienttele 3668 3653 0
+[23 mrt 2026, 2:32:26 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] Command received: clienttele 3669 3653 0
+[23 mrt 2026, 2:32:26 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] 69army used command ::clienttele 3669 3653 0
+[23 mrt 2026, 2:32:26 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] Command received: clienttele 3669 3654 0
+[23 mrt 2026, 2:32:26 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] 69army used command ::clienttele 3669 3654 0
+[23 mrt 2026, 2:32:27 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] Command received: clienttele 3675 3638 0
+[23 mrt 2026, 2:32:27 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] 69army used command ::clienttele 3675 3638 0
+[23 mrt 2026, 2:32:27 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] Command received: clienttele 3675 3638 0
+[23 mrt 2026, 2:32:27 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] 69army used command ::clienttele 3675 3638 0
+[23 mrt 2026, 2:32:27 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] Command received: clienttele 3675 3638 0
+[23 mrt 2026, 2:32:27 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] 69army used command ::clienttele 3675 3638 0
+[23 mrt 2026, 2:32:27 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] Command received: clienttele 3681 3622 0
+[23 mrt 2026, 2:32:27 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] 69army used command ::clienttele 3681 3622 0
+[23 mrt 2026, 2:32:27 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] Command received: clienttele 3681 3622 0
+[23 mrt 2026, 2:32:27 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] 69army used command ::clienttele 3681 3622 0
+[23 mrt 2026, 2:32:27 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] Command received: clienttele 3681 3622 0
+[23 mrt 2026, 2:32:27 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] 69army used command ::clienttele 3681 3622 0
+[23 mrt 2026, 2:32:27 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] Command received: clienttele 3681 3622 0
+[23 mrt 2026, 2:32:27 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] 69army used command ::clienttele 3681 3622 0
+[23 mrt 2026, 2:32:28 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] Command received: clienttele 3687 3606 0
+[23 mrt 2026, 2:32:28 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] 69army used command ::clienttele 3687 3606 0
+[23 mrt 2026, 2:32:28 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] Command received: clienttele 3687 3606 0
+[23 mrt 2026, 2:32:28 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] 69army used command ::clienttele 3687 3606 0
+[23 mrt 2026, 2:32:28 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] Command received: clienttele 3687 3606 0
+[23 mrt 2026, 2:32:28 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] 69army used command ::clienttele 3687 3606 0
+[23 mrt 2026, 2:32:28 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] Command received: clienttele 3687 3606 0
+[23 mrt 2026, 2:32:28 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] 69army used command ::clienttele 3687 3606 0
+[23 mrt 2026, 2:32:28 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] Command received: clienttele 3693 3590 0
+[23 mrt 2026, 2:32:28 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] 69army used command ::clienttele 3693 3590 0
+[23 mrt 2026, 2:32:28 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] Command received: clienttele 3693 3590 0
+[23 mrt 2026, 2:32:28 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] 69army used command ::clienttele 3693 3590 0
+[23 mrt 2026, 2:32:28 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] Command received: clienttele 3693 3590 0
+[23 mrt 2026, 2:32:28 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] 69army used command ::clienttele 3693 3590 0
+[23 mrt 2026, 2:32:28 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] Command received: clienttele 3693 3590 0
+[23 mrt 2026, 2:32:28 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] 69army used command ::clienttele 3693 3590 0
+[23 mrt 2026, 2:32:29 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] Command received: clienttele 3699 3574 0
+[23 mrt 2026, 2:32:29 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] 69army used command ::clienttele 3699 3574 0
+[23 mrt 2026, 2:32:29 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] Command received: clienttele 3699 3574 0
+[23 mrt 2026, 2:32:29 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] 69army used command ::clienttele 3699 3574 0
+[23 mrt 2026, 2:32:29 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] Command received: clienttele 3699 3574 0
+[23 mrt 2026, 2:32:29 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] 69army used command ::clienttele 3699 3574 0
+[23 mrt 2026, 2:32:29 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] Command received: clienttele 3699 3574 0
+[23 mrt 2026, 2:32:29 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] 69army used command ::clienttele 3699 3574 0
+[23 mrt 2026, 2:32:30 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] Command received: clienttele 3705 3558 0
+[23 mrt 2026, 2:32:30 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] 69army used command ::clienttele 3705 3558 0
+[23 mrt 2026, 2:32:30 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] Command received: clienttele 3705 3558 0
+[23 mrt 2026, 2:32:30 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] 69army used command ::clienttele 3705 3558 0
+[23 mrt 2026, 2:32:30 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] Command received: clienttele 3705 3558 0
+[23 mrt 2026, 2:32:30 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] 69army used command ::clienttele 3705 3558 0
+[23 mrt 2026, 2:32:30 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] Command received: clienttele 3711 3542 0
+[23 mrt 2026, 2:32:30 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] 69army used command ::clienttele 3711 3542 0
+[23 mrt 2026, 2:32:30 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] Command received: clienttele 3711 3542 0
+[23 mrt 2026, 2:32:30 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] 69army used command ::clienttele 3711 3542 0
+[23 mrt 2026, 2:32:30 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] Command received: clienttele 3711 3542 0
+[23 mrt 2026, 2:32:30 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] 69army used command ::clienttele 3711 3542 0
+[23 mrt 2026, 2:32:31 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] Command received: clienttele 3717 3526 0
+[23 mrt 2026, 2:32:31 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] 69army used command ::clienttele 3717 3526 0
+[23 mrt 2026, 2:32:31 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] Command received: clienttele 3717 3526 0
+[23 mrt 2026, 2:32:31 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] 69army used command ::clienttele 3717 3526 0
+[23 mrt 2026, 2:32:31 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] Command received: clienttele 3717 3526 0
+[23 mrt 2026, 2:32:31 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] 69army used command ::clienttele 3717 3526 0
+[23 mrt 2026, 2:32:31 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] Command received: clienttele 3717 3526 0
+[23 mrt 2026, 2:32:31 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] 69army used command ::clienttele 3717 3526 0
+[23 mrt 2026, 2:32:31 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] Command received: clienttele 3723 3510 0
+[23 mrt 2026, 2:32:31 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] 69army used command ::clienttele 3723 3510 0
+[23 mrt 2026, 2:32:31 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] Command received: clienttele 3723 3510 0
+[23 mrt 2026, 2:32:31 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] 69army used command ::clienttele 3723 3510 0
+[23 mrt 2026, 2:32:31 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] Command received: clienttele 3723 3510 0
+[23 mrt 2026, 2:32:31 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] 69army used command ::clienttele 3723 3510 0
+[23 mrt 2026, 2:32:31 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] Command received: clienttele 3723 3510 0
+[23 mrt 2026, 2:32:31 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] 69army used command ::clienttele 3723 3510 0
+[23 mrt 2026, 2:32:32 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] Command received: clienttele 3729 3494 0
+[23 mrt 2026, 2:32:32 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] 69army used command ::clienttele 3729 3494 0
+[23 mrt 2026, 2:32:32 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] Command received: clienttele 3729 3494 0
+[23 mrt 2026, 2:32:32 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] 69army used command ::clienttele 3729 3494 0
+[23 mrt 2026, 2:32:32 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] Command received: clienttele 3729 3494 0
+[23 mrt 2026, 2:32:32 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] 69army used command ::clienttele 3729 3494 0
+[23 mrt 2026, 2:32:33 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] Command received: clienttele 3735 3478 0
+[23 mrt 2026, 2:32:33 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] 69army used command ::clienttele 3735 3478 0
+[23 mrt 2026, 2:32:34 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] Command received: clienttele 3696 3508 0
+[23 mrt 2026, 2:32:34 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] 69army used command ::clienttele 3696 3508 0
+[23 mrt 2026, 2:32:35 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] Command received: clienttele 3678 3504 0
+[23 mrt 2026, 2:32:35 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] 69army used command ::clienttele 3678 3504 0
+[23 mrt 2026, 2:32:35 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] Command received: clienttele 3678 3503 0
+[23 mrt 2026, 2:32:35 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] 69army used command ::clienttele 3678 3503 0
+[23 mrt 2026, 2:33:44 a.m.] [TwistedScape GameThread] [WildernessBossEvent] [INFO] The wilderness event boss has been despawned
+[23 mrt 2026, 2:34:17 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] Command received: tele 2238 3323
+[23 mrt 2026, 2:34:17 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] 69army used command ::tele 2238 3323
+[23 mrt 2026, 2:34:21 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] Command received: clienttele 2231 3312 0
+[23 mrt 2026, 2:34:21 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] 69army used command ::clienttele 2231 3312 0
+[23 mrt 2026, 2:34:22 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] Command received: clienttele 2225 3300 0
+[23 mrt 2026, 2:34:22 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] 69army used command ::clienttele 2225 3300 0
+[23 mrt 2026, 2:34:22 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] Command received: clienttele 2224 3300 0
+[23 mrt 2026, 2:34:22 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] 69army used command ::clienttele 2224 3300 0
+[23 mrt 2026, 2:34:22 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] Command received: clienttele 2224 3300 0
+[23 mrt 2026, 2:34:22 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] 69army used command ::clienttele 2224 3300 0
+[23 mrt 2026, 2:34:22 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] Command received: clienttele 2224 3300 0
+[23 mrt 2026, 2:34:22 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] 69army used command ::clienttele 2224 3300 0
+[23 mrt 2026, 2:34:23 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] Command received: clienttele 2217 3288 0
+[23 mrt 2026, 2:34:23 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] 69army used command ::clienttele 2217 3288 0
+[23 mrt 2026, 2:34:23 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] Command received: clienttele 2217 3288 0
+[23 mrt 2026, 2:34:23 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] 69army used command ::clienttele 2217 3288 0
+[23 mrt 2026, 2:34:23 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] Command received: clienttele 2217 3288 0
+[23 mrt 2026, 2:34:23 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] 69army used command ::clienttele 2217 3288 0
+[23 mrt 2026, 2:34:23 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] Command received: clienttele 2217 3288 0
+[23 mrt 2026, 2:34:23 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] 69army used command ::clienttele 2217 3288 0
+[23 mrt 2026, 2:34:24 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] Command received: clienttele 2210 3276 0
+[23 mrt 2026, 2:34:24 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] 69army used command ::clienttele 2210 3276 0
+[23 mrt 2026, 2:34:24 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] Command received: clienttele 2210 3276 0
+[23 mrt 2026, 2:34:24 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] 69army used command ::clienttele 2210 3276 0
+[23 mrt 2026, 2:34:24 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] Command received: clienttele 2210 3276 0
+[23 mrt 2026, 2:34:24 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] 69army used command ::clienttele 2210 3276 0
+[23 mrt 2026, 2:34:29 a.m.] [TwistedScape GameThread] [Chain] [DEBUG] chain interrupted, wont continue to next. context: Owner: 69army, 127.0.0.1, [2214, 3276, 0], not in wild
+[23 mrt 2026, 2:34:29 a.m.] [TwistedScape GameThread] [Chain] [DEBUG] chain interrupted, wont continue to next. context: Owner: 69army, 127.0.0.1, [2214, 3276, 0], not in wild
+[23 mrt 2026, 2:34:29 a.m.] [TwistedScape GameThread] [Chain] [DEBUG] chain interrupted, wont continue to next. context: Owner: 69army, 127.0.0.1, [2214, 3276, 0], not in wild
+[23 mrt 2026, 2:34:30 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] Command received: clienttele 2225 3308 0
+[23 mrt 2026, 2:34:30 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] 69army used command ::clienttele 2225 3308 0
+[23 mrt 2026, 2:35:01 a.m.] [TwistedScape GameThread] [Chain] [DEBUG] chain interrupted, wont continue to next. context: Owner: 69army, 127.0.0.1, [2225, 3308, 0], not in wild
+[23 mrt 2026, 2:35:10 a.m.] [TwistedScape GameThread] [Chain] [DEBUG] chain interrupted, wont continue to next. context: Owner: 69army, 127.0.0.1, [2221, 3293, 0], not in wild
+[23 mrt 2026, 2:36:01 a.m.] [TwistedScape GameThread] [Chain] [DEBUG] chain interrupted, wont continue to next. context: Owner: 69army, 127.0.0.1, [2227, 3275, 0], not in wild
+[23 mrt 2026, 2:36:02 a.m.] [TwistedScape GameThread] [Chain] [DEBUG] chain interrupted, wont continue to next. context: Owner: 69army, 127.0.0.1, [2229, 3275, 0], not in wild
+[23 mrt 2026, 2:36:03 a.m.] [TwistedScape GameThread] [Chain] [DEBUG] chain interrupted, wont continue to next. context: Owner: 69army, 127.0.0.1, [2231, 3277, 0], not in wild
+[23 mrt 2026, 2:36:21 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] Command received: cleararea 15
+[23 mrt 2026, 2:36:21 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] 69army used command ::cleararea 15
+[23 mrt 2026, 2:37:27 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] Command received: fill 13684 15
+[23 mrt 2026, 2:37:27 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] 69army used command ::fill 13684 15
+[23 mrt 2026, 2:38:05 a.m.] [TwistedScape GameThread] [Chain] [DEBUG] chain interrupted, wont continue to next. context: Owner: 69army, 127.0.0.1, [2236, 3322, 0], not in wild
+[23 mrt 2026, 2:38:18 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] Command received: cleararea 15
+[23 mrt 2026, 2:38:18 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] 69army used command ::cleararea 15
+[23 mrt 2026, 2:38:24 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] Command received: clear area 15
+[23 mrt 2026, 2:38:24 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] 69army tried to use non-existent command ::clear area 15
+[23 mrt 2026, 2:38:29 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] Command received: cleararea 15
+[23 mrt 2026, 2:38:29 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] 69army used command ::cleararea 15
+[23 mrt 2026, 2:38:39 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] Command received: cleararea 15
+[23 mrt 2026, 2:38:39 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] 69army used command ::cleararea 15
+[23 mrt 2026, 2:38:55 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] Command received: floor 6762
+[23 mrt 2026, 2:38:55 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] 69army used command ::floor 6762
+[23 mrt 2026, 2:39:10 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] Command received: floor 6764
+[23 mrt 2026, 2:39:10 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] 69army used command ::floor 6764
+[23 mrt 2026, 2:39:22 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] Command received: ::floor 6766
+[23 mrt 2026, 2:39:22 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] 69army tried to use non-existent command ::::floor 6766
+[23 mrt 2026, 2:39:27 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] Command received: floor 6766
+[23 mrt 2026, 2:39:27 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] 69army used command ::floor 6766
+[23 mrt 2026, 2:39:49 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] Command received: cleararea 15
+[23 mrt 2026, 2:39:49 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] 69army used command ::cleararea 15
+[23 mrt 2026, 2:40:04 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] Command received: floor 6766
+[23 mrt 2026, 2:40:04 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] 69army used command ::floor 6766
+[23 mrt 2026, 2:40:27 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] Command received: floor 18070 
+[23 mrt 2026, 2:40:27 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] 69army used command ::floor 18070 
+[23 mrt 2026, 2:40:35 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] Command received: floor 10083
+[23 mrt 2026, 2:40:35 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] 69army used command ::floor 10083
+[23 mrt 2026, 2:40:45 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] Command received: floor 10083
+[23 mrt 2026, 2:40:45 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] 69army used command ::floor 10083
+[23 mrt 2026, 2:40:49 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] Command received: floor 10085
+[23 mrt 2026, 2:40:49 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] 69army used command ::floor 10085
+[23 mrt 2026, 2:41:00 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] Command received: floor 6762
+[23 mrt 2026, 2:41:00 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] 69army used command ::floor 6762
+[23 mrt 2026, 2:41:08 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] Command received: floor 6764
+[23 mrt 2026, 2:41:08 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] 69army used command ::floor 6764
+[23 mrt 2026, 2:42:47 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] Command received: floor 6759
+[23 mrt 2026, 2:42:47 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] 69army used command ::floor 6759
+[23 mrt 2026, 2:42:55 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] Command received: floor 6760
+[23 mrt 2026, 2:42:55 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] 69army used command ::floor 6760
+[23 mrt 2026, 2:43:06 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] Command received: floor 6762
+[23 mrt 2026, 2:43:06 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] 69army used command ::floor 6762
+[23 mrt 2026, 2:43:14 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] Command received: floor 6767
+[23 mrt 2026, 2:43:14 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] 69army used command ::floor 6767
+[23 mrt 2026, 2:43:55 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] Command received: floor 13685
+[23 mrt 2026, 2:43:55 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] 69army used command ::floor 13685
+[23 mrt 2026, 2:44:18 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] Command received: floor 13686
+[23 mrt 2026, 2:44:18 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] 69army used command ::floor 13686
+[23 mrt 2026, 2:44:28 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] Command received: floor 13678 
+[23 mrt 2026, 2:44:28 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] 69army used command ::floor 13678 
+[23 mrt 2026, 2:44:38 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] Command received: floor 13688
+[23 mrt 2026, 2:44:38 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] 69army used command ::floor 13688
+[23 mrt 2026, 2:44:51 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] Command received: floor 13689
+[23 mrt 2026, 2:44:51 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] 69army used command ::floor 13689
+[23 mrt 2026, 2:44:58 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] Command received: floor 27072
+[23 mrt 2026, 2:44:58 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] 69army used command ::floor 27072
+[23 mrt 2026, 2:45:53 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] Command received: fill 6762 15
+[23 mrt 2026, 2:45:53 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] 69army used command ::fill 6762 15
+[23 mrt 2026, 2:46:04 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] Command received: cleararea 15
+[23 mrt 2026, 2:46:04 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] 69army used command ::cleararea 15
+[23 mrt 2026, 2:46:25 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] Command received: fill 13685 15
+[23 mrt 2026, 2:46:25 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] 69army used command ::fill 13685 15
+[23 mrt 2026, 2:46:42 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] Command received: cleararea
+[23 mrt 2026, 2:46:42 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] 69army used command ::cleararea
+[23 mrt 2026, 2:46:48 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] Command received: cleararea 15
+[23 mrt 2026, 2:46:48 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] 69army used command ::cleararea 15
+[23 mrt 2026, 2:46:51 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] Command received: clear area 16
+[23 mrt 2026, 2:46:51 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] 69army tried to use non-existent command ::clear area 16
+[23 mrt 2026, 2:46:55 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] Command received: clear area 30
+[23 mrt 2026, 2:46:55 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] 69army tried to use non-existent command ::clear area 30
+[23 mrt 2026, 2:47:03 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] Command received: clear area 15
+[23 mrt 2026, 2:47:03 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] 69army tried to use non-existent command ::clear area 15
+[23 mrt 2026, 2:47:08 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] Command received: cleaarea 15
+[23 mrt 2026, 2:47:08 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] 69army tried to use non-existent command ::cleaarea 15
+[23 mrt 2026, 2:47:16 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] Command received: cleararea 15
+[23 mrt 2026, 2:47:16 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] 69army used command ::cleararea 15
+[23 mrt 2026, 2:47:25 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] Command received: cleararea 10
+[23 mrt 2026, 2:47:25 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] 69army used command ::cleararea 10
+[23 mrt 2026, 2:47:30 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] Command received: cleararea 15
+[23 mrt 2026, 2:47:30 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] 69army used command ::cleararea 15
+[23 mrt 2026, 2:47:42 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] Command received: clear area 5
+[23 mrt 2026, 2:47:42 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] 69army tried to use non-existent command ::clear area 5
+[23 mrt 2026, 2:47:47 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] Command received: cleararea 5
+[23 mrt 2026, 2:47:47 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] 69army used command ::cleararea 5
+[23 mrt 2026, 2:47:52 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] Command received: cleararea 5
+[23 mrt 2026, 2:47:52 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] 69army used command ::cleararea 5
+[23 mrt 2026, 2:48:00 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] Command received: cleararea 5
+[23 mrt 2026, 2:48:00 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] 69army used command ::cleararea 5
+[23 mrt 2026, 2:48:58 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] Command received: fill 13685 15
+[23 mrt 2026, 2:48:58 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] 69army used command ::fill 13685 15
+[23 mrt 2026, 2:49:11 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] Command received: fill 13685
+[23 mrt 2026, 2:49:11 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] 69army used command ::fill 13685
+[23 mrt 2026, 2:49:29 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] Command received: fill 13685 3
+[23 mrt 2026, 2:49:29 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] 69army used command ::fill 13685 3
+[23 mrt 2026, 2:49:38 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] Command received: fill 13686 10
+[23 mrt 2026, 2:49:38 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] 69army used command ::fill 13686 10
+[23 mrt 2026, 2:49:51 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] Command received: ::cleararea
+[23 mrt 2026, 2:49:51 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] 69army tried to use non-existent command ::::cleararea
+[23 mrt 2026, 2:49:55 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] Command received: cleararea 30
+[23 mrt 2026, 2:49:56 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] 69army used command ::cleararea 30
+[23 mrt 2026, 2:50:07 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] Command received: fill 13686 40
+[23 mrt 2026, 2:50:07 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] 69army used command ::fill 13686 40
+[23 mrt 2026, 2:51:37 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] Command received: obj 3521
+[23 mrt 2026, 2:51:37 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] 69army used command ::obj 3521
+[23 mrt 2026, 2:52:17 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] Command received: delobj
+[23 mrt 2026, 2:52:24 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] Command received: delobj
+[23 mrt 2026, 2:52:36 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] Command received: delobj
+[23 mrt 2026, 2:52:36 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] 69army used command ::delobj
+[23 mrt 2026, 2:53:35 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] Command received: delobj
+[23 mrt 2026, 2:53:35 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] 69army used command ::delobj
+[23 mrt 2026, 2:53:43 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] Command received: item 5733 1
+[23 mrt 2026, 2:53:43 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] 69army used command ::item 5733 1
+[23 mrt 2026, 2:55:37 a.m.] [TwistedScape GameThread] [LogoutLogs] [LOGOUT] [Logout] Deregistering player - 69army
+[23 mrt 2026, 2:55:40 a.m.] [TwistedScape GameThread] [PacketListener] [TRACE] player Owner: 69army, 127.0.0.1, [2208, 3349, 0], not in wild report: Regular logout has been called.
+[23 mrt 2026, 2:55:40 a.m.] [TwistedScape GameThread] [PacketListener] [TRACE] player Owner: 69army, 127.0.0.1, [2208, 3349, 0], not in wild report: Server login response code 0
+[23 mrt 2026, 2:55:40 a.m.] [TwistedScape GameThread] [PacketListener] [TRACE] player Owner: 69army, 127.0.0.1, [2208, 3349, 0], not in wild report: Server login response code is now 2
+[23 mrt 2026, 2:57:01 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] Command received: cleararea40
+[23 mrt 2026, 2:57:01 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] 69army tried to use non-existent command ::cleararea40
+[23 mrt 2026, 2:57:09 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] Command received: cleararea 40
+[23 mrt 2026, 2:57:09 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] 69army used command ::cleararea 40
+[23 mrt 2026, 2:57:21 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] Command received: cleararea 40
+[23 mrt 2026, 2:57:21 a.m.] [TwistedScape GameThread] [CommandLogs] [COMMAND] 69army used command ::cleararea 40
