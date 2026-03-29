@@ -75,8 +75,20 @@ public class DefinitionRepository {
 
         // Load objects - disabled, 177 maps are dumped to raw data and loaded by 317 objdef codec. cache/osrs/maps/.dat + .idx
         int numObjects = store.getIndex(2).getDescriptor().getLastFileId(6);
-        ObjectDefinition[] objects = new ObjectDefinition[numObjects];
+        ObjectDefinition[] objects = new ObjectDefinition[Math.max(numObjects, 57000)];
         definitionMaps.put(ObjectDefinition.class, objects);
+
+        // === HAZY CASINO CUSTOM OBJECTS ===
+        ObjectDefinition bjTable = new ObjectDefinition(56000, new byte[0]);
+        bjTable.id = 56000;
+        bjTable.name = "Blackjack Table";
+        bjTable.models = new int[]{50000};
+        bjTable.modeltypes = new int[]{10};
+        bjTable.sizeX = 2;
+        bjTable.sizeY = 3;
+        bjTable.options = new String[]{"Play", null, null, null, null};
+        objects[56000] = bjTable;
+        logger.info("Loaded custom casino object: Blackjack Table (56000)");
 
         /*if (!lazy) {
             for (int id = 0; id < numObjects; id++) {

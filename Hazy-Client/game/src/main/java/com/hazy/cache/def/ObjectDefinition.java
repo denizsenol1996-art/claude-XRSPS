@@ -427,6 +427,28 @@ public final class ObjectDefinition implements RSObjectComposition {
     }
 
     public static ObjectDefinition get(int id) {
+        // === HAZY CASINO CUSTOM OBJECTS ===
+        if (id == 56000) {
+            ObjectDefinition def = new ObjectDefinition();
+            def.set_defaults();
+            def.id = 56000;
+            def.name = "Blackjack Table";
+            def.objectModels = new int[]{50000};
+            def.objectTypes = new int[]{10};
+            def.width = 3;
+            def.height = 2;
+            def.interactType = 1;
+
+            def.wallOrDoor = 1;
+            def.scene_actions = new String[]{"Play", null, null, null, "Examine"};
+            def.scaleX = 64;
+            def.modelSizeHeight = 64;
+            def.scaleZ = 64;
+            def.translateY = -30;
+            def.translateY = -30;
+
+            return def;
+        }
 
         if (id > stream_indices.length)
             id = stream_indices.length - 1;

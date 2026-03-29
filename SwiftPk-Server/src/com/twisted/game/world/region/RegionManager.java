@@ -575,6 +575,26 @@ public class RegionManager {
             } else {
                 //System.err.println("missing mapobjs at region "+regionId);
             }
+            // Clear all clipping for casino region 8755
+            if (regionId == 8755) {
+                for (int z = 0; z < 4; z++) {
+                    for (int lx = 0; lx < 64; lx++) {
+                        for (int ly = 0; ly < 64; ly++) {
+                            r.setClip(absX + lx, absY + ly, z, 0);
+                        }
+                    }
+                }
+            }
+            // Clear all clipping for casino region 8755
+            if (regionId == 8755) {
+                for (int z = 0; z < 4; z++) {
+                    for (int lx = 0; lx < 64; lx++) {
+                        for (int ly = 0; ly < 64; ly++) {
+                            r.setClip(absX + lx, absY + ly, z, 0);
+                        }
+                    }
+                }
+            }
             stopwatch.stop();
             if (GameEngine.gameTicksIncrementor > 10) {
                 // log when game is running
@@ -587,3 +607,5 @@ public class RegionManager {
 
 
 }
+
+

@@ -1,0 +1,2 @@
+50000	Blackjack Table	50000	2	2	10	true	Play Blackjack	Examine
+50001	Cube Model	50001	1	1	10	true	Examine
