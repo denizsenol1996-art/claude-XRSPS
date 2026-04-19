@@ -7,18 +7,25 @@ out/
 
 Hazy Package/
 
-main_file_cache.dat
-*.dat
-
 repo/
 
 jdk22.zip
 jdk22/
 *.zip
 
-jdk22.zip
-jdk22/
+# Backups en temp cache folders
+hazy-swift/cache_backup_*/
+hazy-swift/cache_pre_pack/
+hazy-swift/cache/rebuild/
 
-jdk22.zip
-jdk22/
-*.zip
+# Logs
+SwiftPk-Server/data/logs/
+
+# Player saves
+SwiftPk-Server/data/saves/
+
+# Claude repo duplicate
+claude-XRSPS-repo/
+
+# RSPSi cache (apart project)
+rspsi-cache/

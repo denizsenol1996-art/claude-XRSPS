@@ -87,6 +87,11 @@ public class DefinitionRepository {
         bjTable.sizeX = 2;
         bjTable.sizeY = 3;
         bjTable.options = new String[]{"Play", null, null, null, null};
+        bjTable.hasActions = true;
+        bjTable.isSolid = false;
+        bjTable.blocksProjectile = false;
+        bjTable.interactType = 1;
+        bjTable.clipType = 0;
         objects[56000] = bjTable;
         logger.info("Loaded custom casino object: Blackjack Table (56000)");
 
@@ -246,3 +251,4 @@ public class DefinitionRepository {
     }
 
 }
+
